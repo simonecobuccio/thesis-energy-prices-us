@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# PJM Data Miner prices: internal use only, not redistributable (see README)
+data/raw/pjm_lmp/
+
+# Public source reports: listed in the thesis bibliography, not needed to run the code
+data/raw/reports/

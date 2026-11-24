@@ -1,0 +1,467 @@
+incoming_source,incoming_row,incoming_name,kept_source,kept_row,kept_name,incoming_mw,kept_mw,incoming_status,kept_status,incoming_type,incoming_announced,incoming_confidence,distance_km
+brockovich,12,Aligned PHX-01/02/03,cleanview_national,37,Aligned Phoenix - Building B,,16.0,operating,operating,,,reported,0.09277427959120381
+brockovich,95,Aligned ORD-01,cleanview_national,9,Aligned Chicago ORD-01,,50.0,operating,operating,,,reported,0.012997274987355225
+brockovich,270,Aligned NEO-01,cleanview_national,31,Aligned NEO-01,96.0,83.0,under construction,operating,,,reported,0.016536493141406317
+brockovich,312,Aligned PDX-01,cleanview_national,24,Aligned Hillsboro PDX-01,,101.0,operating,operating,,,reported,0.0059109545498628605
+brockovich,353,Aligned DFW-01,cleanview_national,18,Aligned Dallas DFW-01,,29.0,operating,operating,,,reported,0.015425731600775741
+brockovich,354,Aligned DFW-03,cleanview_national,20,Aligned DFW03 Mansfield,,86.0,operating,under construction,,,reported,0.004359115505911595
+brockovich,421,Aligned IAD-01,cleanview_va,1,Aligned IAD01,,107.9,operating,operating,,,reported,0.0029255090780949066
+brockovich,422,Aligned IAD-03,cleanview_va,3,Aligned IAD03,,143.1,operating,operating,,,reported,0.004760600433452603
+brockovich,426,CloudHQ Manassas MCC Campus,cleanview_va,318,CloudHQ MCC4,382.0,52.5,under construction,under construction,,2024,confirmed,0.1924399529175215
+brockovich,427,"CoreSite VA1 - Reston, VA",cleanview_va,340,CoreSite VA3,,86.7,operating,operating,,,reported,0.035180134543470576
+brockovich,428,"CoreSite VA3 - Reston, VA",cleanview_va,338,CoreSite VA1,,22.6,operating,operating,,,reported,0.0188600340943896
+brockovich,434,Google Arcola Data Center (Loudoun County),cleanview_va,437,Google Arcola - Building 1,,67.8,operating,operating,,2017,reported,0.09375976970534422
+brockovich,438,Mountain Road Technology Park,cleanview_va,718,Mountain Road Technology Park,900.0,900.0,cancelled,planned,,2025-10,confirmed,0.9226270128353722
+brockovich,440,PowerHouse CTP-02,cleanview_va,296,Chirisa Technology Parks: CTP-02,50.0,60.0,under construction,operating,,,reported,0.003775232874928112
+brockovich,444,Sabey Intergate.Ashburn (Building A),cleanview_va,645,Sabey Ashburn - Building B,54.0,33.5,under construction,operating,,,reported,0.016052858564084952
+im3,1,Google Data Center,brockovich,184,Google Lenoir Data Center,,,unknown,operating,campus,,,0.6083721784905315
+im3,5,Meta Henrico Data Center,cleanview_va,491,Meta White Oak - Building 3,,51.0,unknown,operating,campus,,,0.0816878052493775
+im3,10,Microsoft Data Center 1,cleanview_va,341,Corscale Gainesville Crossing GCDC1,,100.8,unknown,operating,building,,,0.011095554617205518
+im3,15,CoreSite BO1,brockovich,141,"CoreSite BO1 - Boston, MA",,,unknown,operating,building,,,0.003542361328456467
+im3,16,USPO Terminal Annex,brockovich,36,"CoreSite LA2 - Los Angeles, CA",,,unknown,operating,building,,,0.06432861008350979
+im3,39,,cleanview_va,421,Equinix DC14,,8.0,unknown,operating,building,,,0.027848065204357796
+im3,40,Amazon IAD11,cleanview_va,117,AWS IAD-11 Mason King Court,,42.2,unknown,operating,building,,,0.018577330381210292
+im3,41,Amazon IAD24,cleanview_va,182,AWS IAD-24 Mason King Court,,7.4,unknown,operating,building,,,3.3888402483546625e-05
+im3,42,Amazon IAD7,cleanview_va,226,AWS IAD-7 Mason King Court,,39.7,unknown,operating,building,,,0.0057695603845056955
+im3,43,CyrusOne CIN2,brockovich,276,CyrusOne CIN2 (Cincinnati),,,unknown,operating,building,,,0.011692924679675316
+im3,44,VA 4,cleanview_va,406,Digital Realty VA4,,13.4,unknown,operating,building,,,0.029513158270798173
+im3,45,Amazon IAD10,cleanview_va,109,AWS IAD-10 Severn Way,,27.3,unknown,operating,building,,,0.004988531612123636
+im3,46,Amazon IAD32,cleanview_va,184,AWS IAD-32 Squire Court,,7.4,unknown,operating,building,,,0.0055018856065022345
+im3,48,Centersquare IAD1-B,cleanview_va,288,Centersquare IAD1-B 45845 Nokes Boulevard,,6.4,unknown,operating,building,,,0.004689287943148597
+im3,49,Centersquare IAD1-A,cleanview_va,287,Centersquare IAD1-A 45901 Nokes Boulevard,,7.4,unknown,operating,building,,,0.0027796109992717644
+im3,50,Centersquare IAD1-C,cleanview_va,289,Centersquare IAD1-C 21110 Ridgetop Circle,,13.9,unknown,operating,building,,,0.0001771288861286115
+im3,62,STACK NVA01A - Northern Virginia,cleanview_va,663,Stack NVA01,,36.0,unknown,operating,building,,,1.7810004632054466e-05
+im3,67,VA3,cleanview_va,405,Digital Realty VA3,,18.2,unknown,operating,building,,,3.448257850496277e-05
+im3,68,IAD1,cleanview_va,432,Evocative IAD1,,2.0,unknown,operating,building,,,3.164468845100382e-05
+im3,69,CoreSite Reston Campus VA1,cleanview_va,340,CoreSite VA3,,86.7,unknown,operating,building,,,0.036784652891329886
+im3,70,CoreSite Reston VA3,cleanview_va,338,CoreSite VA1,,22.6,unknown,operating,building,,,5.114863456727626e-05
+im3,93,Aligned Energy Data Center,cleanview_national,37,Aligned Phoenix - Building B,,16.0,unknown,operating,building,,,0.08562874300722871
+im3,101,Switch12,brockovich,239,Switch Las Vegas 12,,,unknown,operating,building,,,0.0043811370745955765
+im3,102,Switch Las Vegas 7,brockovich,241,Switch Las Vegas 7,,,unknown,operating,building,,,0.004953722033377029
+im3,103,EdgeConneX CHI01,brockovich,97,EdgeConneX CHI02,,,unknown,operating,building,,,0.17144874516935193
+im3,109,Equinix New York Secaucus NY5,brockovich,215,Equinix NY5,,,unknown,operating,building,,,0.00021714858604790765
+im3,110,Equinix New York Secaucus NY4,brockovich,215,Equinix NY5,,,unknown,operating,building,,,0.3217083898359965
+im3,111,Equinix NY3,brockovich,215,Equinix NY5,,,unknown,operating,building,,,0.5060728586613298
+im3,112,Equinix New York Secaucus NY2,brockovich,215,Equinix NY5,,,unknown,operating,building,,,0.3316363064697054
+im3,120,CyrusOne Chicago Aurora CME,brockovich,96,CyrusOne CHI1-CHI3 (Aurora),,,unknown,operating,building,,,0.02046670698802936
+im3,160,Equinix DC97,cleanview_va,431,Equinix DC97,,0.8,unknown,operating,building,,,0.011093655563367194
+im3,161,Amazon IAD-55,cleanview_va,198,AWS IAD-55 John Marshall Highway,,72.9,unknown,operating,building,,,0.01447950431439273
+im3,164,COPT Data Center,cleanview_va,328,COPT DC-6,,27.0,unknown,operating,building,,,0.0035847572944594382
+im3,168,OVH US East Vint Hill,cleanview_va,575,OVHcloud VIN1 Vint Hill,,18.0,unknown,operating,building,,,0.01728909072915765
+im3,173,Equinix Ashburn DC2,cleanview_va,424,Equinix DC2,,23.1,unknown,operating,building,,,3.876324275317359e-05
+im3,174,H5 Data Centers Ashburn,cleanview_va,454,H5 Ashburn,,58.8,unknown,operating,building,,,0.0003595921511782543
+im3,176,Lumen McLean,cleanview_va,485,Lumen McLean 1,,1.8,unknown,operating,building,,,3.9886330099838506e-05
+im3,177,DataBank McLean IAD2,cleanview_va,362,DataBank IAD2,,4.2,unknown,operating,building,,,1.671238860781462e-05
+im3,184,Digital Realty,cleanview_va,455,H5 Chantilly IAD30,,20.1,unknown,operating,building,,,3.797933132542618e-05
+im3,186,Verizon,brockovich,240,Switch Las Vegas 5,,,unknown,operating,building,,,0.2415415955534098
+im3,192,,brockovich,201,First National Technology Solutions Omaha Data Center,,,unknown,operating,building,,,0.0021921933719881836
+im3,193,Flexential - Richmond,cleanview_va,433,Flexential Richmond,,2.0,unknown,operating,building,,,0.018975236992310497
+im3,194,Amazon IAD-9,cleanview_va,244,AWS IAD-9 Westfax,,19.0,unknown,operating,building,,,0.006619855207216411
+im3,195,Amazon IAD22,cleanview_va,257,AWS Westfax 4-5A,,63.0,unknown,under construction,building,,,0.1111253226379009
+im3,196,Amazon IAD-1,cleanview_va,257,AWS Westfax 4-5A,,63.0,unknown,under construction,building,,,0.08501543657708414
+im3,197,,cleanview_va,456,H5 Chantilly IAD31,,5.4,unknown,operating,building,,,3.898926081315304e-05
+im3,198,,cleanview_va,457,H5 Chantilly IAD32,,6.7,unknown,operating,building,,,2.3309364622030187e-05
+im3,203,Centersquare IAD3,cleanview_va,292,Centersquare IAD3 22995 Wilder Court,,4.1,unknown,operating,building,,,0.011386315690861461
+im3,204,Centersquare IAD2-A,cleanview_va,290,Centersquare IAD2-A 22810 International Drive,,4.8,unknown,operating,building,,,0.0006319909684335181
+im3,205,,cleanview_va,355,CyrusOne NVA4,,23.8,unknown,operating,building,,,3.123475934331794e-05
+im3,206,Centersquare IAD2-B,cleanview_va,291,Centersquare IAD2-B 22860 International Drive,,7.1,unknown,operating,building,,,0.0020877058015842894
+im3,237,Digital Realty ACC4,cleanview_va,381,Digital Realty ACC4,,64.7,unknown,operating,building,,,2.5546256073545946e-05
+im3,238,Equinix Ashburn DC1,cleanview_va,416,Equinix DC1,,6.9,unknown,operating,building,,,5.4285833026258846e-05
+im3,239,Equinix Ashburn DC5,cleanview_va,429,Equinix DC5,,11.5,unknown,operating,building,,,3.3102352230933184e-05
+im3,240,Equinix Ashburn DC11,cleanview_va,418,Equinix DC11,,16.2,unknown,operating,building,,,4.093512147830292e-05
+im3,241,Equinix Ashburn DC3,cleanview_va,427,Equinix DC3,,12.0,unknown,operating,building,,,9.057821097070197e-06
+im3,242,Digital Realty ACC3,cleanview_va,380,Digital Realty ACC3,,32.3,unknown,operating,building,,,2.0330865421945207e-05
+im3,244,Amazon IAD76,cleanview_va,223,AWS IAD-76 Randolph Dr,,58.2,unknown,operating,building,,,0.0009256179764753699
+im3,245,Amazon IAD12,cleanview_va,126,AWS IAD-12 Dulles Summit,,63.2,unknown,operating,building,,,8.002228156244607e-05
+im3,246,,cleanview_va,609,QTS Moran,,8.6,unknown,operating,building,,,0.05192800322151016
+im3,247,Digital Realty ACC5,cleanview_va,382,Digital Realty ACC5,,66.8,unknown,operating,building,,,4.040508521537259e-05
+im3,248,Digital Realty ACC6,cleanview_va,383,Digital Realty ACC6,,49.6,unknown,operating,building,,,4.080793049165918e-05
+im3,249,Level 3 Ashburn,cleanview_va,427,Equinix DC3,,12.0,unknown,operating,building,,,0.23386978876217077
+im3,250,Centersquare IAD4-B,cleanview_va,294,Centersquare IAD4-B 21571 Beaumeade Circle,,12.6,unknown,operating,building,,,0.0033249088593880634
+im3,251,NTT Ashburn VA1 Data Center,cleanview_va,562,NTT Ashburn VA1,,17.6,unknown,operating,building,,,0.0247390935610542
+im3,252,Digital Realty Phoenix PHX15,brockovich,16,Digital Realty PHX15,,,unknown,operating,building,,,0.008558399850158627
+im3,253,H5 Phoenix,brockovich,16,Digital Realty PHX15,,,unknown,operating,building,,,0.23263624825584303
+im3,255,Equinix DC13,cleanview_va,420,Equinix DC13,,14.0,unknown,operating,building,,,5.2498049940904376e-05
+im3,256,Digital Realty Northern Virginia IAD14,cleanview_va,388,Digital Realty IAD14,,16.5,unknown,operating,building,,,0.011423142725749864
+im3,257,Amazon Web Services Building C,cleanview_va,218,AWS IAD-6 Devin Shafron,,25.9,unknown,operating,building,,,0.011091073116939822
+im3,258,Digital Realty Northern Virginia IAD12,cleanview_va,387,Digital Realty IAD12,,22.6,unknown,operating,building,,,6.621078806553514e-05
+im3,259,Digital Realty Building A,cleanview_va,386,Digital Realty Devin Shafron - Building A,,22.4,unknown,operating,building,,,5.382777843982482e-05
+im3,260,Digital Realty Northern Virginia IAD24,cleanview_va,389,Digital Realty IAD24,,16.5,unknown,operating,building,,,3.868971003205891e-05
+im3,261,Databank Ashburn IAD1,cleanview_va,361,DataBank IAD1,,12.6,unknown,operating,building,,,0.036453974615742256
+im3,262,Golds Gym Ashburn,cleanview_va,364,DataBank IAD4,,28.0,unknown,operating,building,,,0.006757831826282681
+im3,301,Equinix DC7,cleanview_va,656,Serverfarm NVA1 (Tysons Technology Center),,10.0,unknown,operating,building,,,0.015653951490868526
+im3,302,Element Critical VA1,cleanview_va,657,Serverfarm Vienna Cloud Data Center,,67.5,unknown,planned,building,,,0.04533548648985065
+im3,305,Cisco Allen,brockovich,368,CyrusOne DFW3-DFW5 (Allen),,50.0,unknown,operating,building,,,0.2938875788458733
+im3,308,EdgeConneX CHI02,brockovich,97,EdgeConneX CHI02,,,unknown,operating,building,,,0.0030917539488616113
+im3,309,Equinix Chicago CH3,brockovich,97,EdgeConneX CHI02,,,unknown,operating,building,,,0.2192377684120146
+im3,320,VISA Data Center,cleanview_va,741,Visa Operations Center East,,43.1,unknown,operating,building,,,0.004469117588027507
+im3,324,,cleanview_national,31,Aligned NEO-01,,83.0,unknown,operating,building,,,0.0261677395346613
+im3,354,Serverfarm - LAX1,brockovich,48,Serverfarm LAX1,,,unknown,operating,building,,,0.008765680761508247
+im3,360,"CyrusOne NVA1, NVA2 & NVA3",cleanview_va,353,CyrusOne NVA1-3,,84.0,unknown,operating,building,,,5.49062415627295e-05
+im3,363,CyrusOne NVA5,cleanview_va,356,CyrusOne NVA5,,202.2,unknown,operating,building,,,3.13763379211769e-05
+im3,370,Equinix CU2,cleanview_va,413,Equinix CU2,,15.5,unknown,operating,campus,,,0.020913637020180214
+im3,380,Equinix Ashburn DC10,cleanview_va,417,Equinix DC10,,103.9,unknown,operating,building,,,2.5917909245574292e-05
+im3,381,Amazon Web Services Datacenter Complex,cleanview_va,225,AWS IAD-79 Interconnection,,47.4,unknown,operating,campus,,,0.029470333045036344
+im3,382,Amazon Web Services,cleanview_va,204,AWS IAD-60 Smith Switch,,28.4,unknown,operating,campus,,,0.03747407771912391
+im3,383,Amazon IAD-61,cleanview_va,207,AWS IAD-61 Clubber Lane,,46.2,unknown,operating,building,,,2.7180475148266417e-06
+im3,384,,cleanview_va,201,AWS IAD-58 Relocation Drive,,43.0,unknown,operating,campus,,,0.03497208072220498
+im3,385,Amazon IAD51,cleanview_va,189,AWS IAD-51 Prologis Plaza,,21.7,unknown,operating,building,,,0.0003687299667844182
+im3,386,Amazon IAD56,cleanview_va,199,AWS IAD-56 Prologis Plaza,,21.7,unknown,operating,building,,,0.00038977049111840604
+im3,387,Amazon IAD16,cleanview_va,162,AWS IAD-16 Dulles Summit,,30.4,unknown,operating,building,,,0.00189910936889396
+im3,388,Amazon IAD15,cleanview_va,152,AWS IAD-15 Dulles Summit,,43.0,unknown,operating,building,,,0.002147409217169652
+im3,389,Amazon IAD14,cleanview_va,143,AWS IAD-14 Brewers Spring,,39.5,unknown,operating,building,,,4.2825732418010195e-07
+im3,390,Amazon IAD59,cleanview_va,202,AWS IAD-59 Doane Drive,,44.2,unknown,operating,building,,,8.879239199406281e-07
+im3,391,Amazon IAD52,cleanview_va,190,AWS IAD-52 Brewers Spring,,41.8,unknown,operating,building,,,3.251270836758462e-07
+im3,393,Amazon AWS: Hilliard Data Center,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,campus,,,0.003583547975833358
+im3,407,Meta Forest City datacenter,brockovich,186,Meta Forest City Data Center,,,unknown,operating,building,,,0.46639262091275907
+im3,408,Meta Forest City datacenter,brockovich,186,Meta Forest City Data Center,,,unknown,operating,building,,,0.050932320695738505
+im3,415,,cleanview_va,609,QTS Moran,,8.6,unknown,operating,building,,,4.956865004583931e-05
+im3,416,Centersquare IAD4-A,cleanview_va,293,Centersquare IAD4-A 21561 Beaumeade Circle,,10.9,unknown,operating,building,,,0.006915159003672551
+im3,417,AWS Building E,cleanview_va,134,AWS IAD-13 Devin Shafron,,35.4,unknown,operating,building,,,0.010900338990757269
+im3,419,CyrusOne Somerset,brockovich,214,CyrusOne NYM1 (Somerset),,,unknown,operating,building,,,0.003807658391061169
+im3,424,Amazon IAD78,cleanview_va,224,AWS IAD-78 Interconnection,,45.1,unknown,operating,building,,,2.4467861562823226e-06
+im3,425,Amazon IAD79,cleanview_va,225,AWS IAD-79 Interconnection,,47.4,unknown,operating,building,,,3.2936119408006988e-06
+im3,429,Prime DFW01-01,brockovich,398,Prime DFW01-01,,,unknown,operating,building,,,0.003738985750770739
+im3,434,Amazon IAD87,cleanview_va,233,AWS IAD-88 Loudoun Downs,,38.5,unknown,operating,building,,,0.01535058148720434
+im3,435,Amazon IAD88,cleanview_va,234,AWS IAD-89 Loudoun Downs,,38.5,unknown,operating,building,,,0.01516042212869912
+im3,437,Stream Data Centers PHX-1,brockovich,31,"Stream Data Centers PHXA (Phoenix I-VII, Goodyear Campus)",,280.0,unknown,operating,building,,,0.0014907270688145442
+im3,444,,cleanview_national,18,Aligned Dallas DFW-01,,29.0,unknown,operating,building,,,0.010284612963756677
+im3,445,Tierpoint Dallas-Allen,brockovich,368,CyrusOne DFW3-DFW5 (Allen),,50.0,unknown,operating,building,,,0.25232622778805947
+im3,447,Amazon IAD73,cleanview_va,220,AWS IAD-73 Wellington Road,,42.5,unknown,operating,building,,,8.1136273083892e-07
+im3,448,Amazon IAD74,cleanview_va,221,AWS IAD-74 Wellington Road,,42.5,unknown,operating,building,,,9.96249346018984e-07
+im3,456,Facebook Fort Worth Datacenter,brockovich,390,Meta Fort Worth Data Center,,,unknown,operating,building,,,0.23917539021730627
+im3,465,Stream San Antonio II,brockovich,369,CyrusOne SAT2-SAT4 (San Antonio),,,unknown,operating,building,,,0.17426589709204277
+im3,466,CyrusOne San Antonio II,brockovich,369,CyrusOne SAT2-SAT4 (San Antonio),,,unknown,operating,building,,,0.005621728183725189
+im3,467,CyrusOne San Antonio III,brockovich,369,CyrusOne SAT2-SAT4 (San Antonio),,,unknown,operating,building,,,0.12313184904797206
+im3,486,Amazon IAD63,cleanview_va,209,AWS IAD-63 Clubber Lane,,43.7,unknown,operating,building,,,8.642303940636919e-06
+im3,488,Amazon IAD62,cleanview_va,208,AWS IAD-62 Fadeley,,34.3,unknown,operating,building,,,0.005407245452625351
+im3,492,TJX Corporate Techno,cleanview_national,7,AEP New Albany (CMH I),,2.0,unknown,operating,building,,,0.14258514574745937
+im3,494,Compugen New Albany,cleanview_national,7,AEP New Albany (CMH I),,2.0,unknown,operating,building,,,0.00692569245114687
+im3,502,Amazon IAD71,cleanview_va,219,AWS IAD-71 Smith Switch,,28.4,unknown,operating,building,,,0.0003281432424706211
+im3,503,Amazon IAD50,cleanview_va,188,AWS IAD-50 Smith Switch,,59.3,unknown,operating,building,,,0.002608601643997041
+im3,504,Amazon IAD60,cleanview_va,204,AWS IAD-60 Smith Switch,,28.4,unknown,operating,building,,,4.5091713771628045e-07
+im3,516,Switch Las Vegas 8,brockovich,236,Switch Edge 1,,,unknown,operating,building,,,0.149447296260862
+im3,517,Switch Las Vegas 9,brockovich,242,Switch Las Vegas 9,,,unknown,operating,building,,,0.002642284981814802
+im3,522,CyrusOne Allen,brockovich,368,CyrusOne DFW3-DFW5 (Allen),,50.0,unknown,operating,building,,,0.005055321641281009
+im3,525,Amazon IAD80,cleanview_va,227,AWS IAD-80 Interconnection,,37.9,unknown,operating,building,,,8.094502390653375e-07
+im3,526,Equinix Ashburn DC12,cleanview_va,419,Equinix DC12,,63.7,unknown,operating,building,,,4.1615912440619094e-05
+im3,536,Digital Realty Northern Virginia IAD36,cleanview_va,391,Digital Realty IAD36,,26.7,unknown,operating,building,,,3.217239117943675e-05
+im3,537,Digital Realty Northern Virginia IAD35,cleanview_va,390,Digital Realty IAD35,,38.3,unknown,operating,building,,,6.0788159027363904e-05
+im3,538,Digital Realty Northern Virginia IAD37,cleanview_va,392,Digital Realty IAD37,,34.4,unknown,operating,building,,,1.5382520491008877e-05
+im3,539,Digital Realty Northern Virginia IAD38,cleanview_va,393,Digital Realty IAD38,,37.5,unknown,operating,building,,,2.1730551219451438e-05
+im3,546,Google,brockovich,341,Google Berkeley County Data Center (Moncks Corner),,,unknown,operating,building,,,0.8976163314988469
+im3,548,NTT Ashburn VA2 Data Center,cleanview_va,563,NTT Ashburn VA2,,19.6,unknown,operating,building,,,0.007690242272701995
+im3,552,Switch Las Vegas 11,brockovich,238,Switch Las Vegas 11,,,unknown,operating,building,,,0.0036932506145123853
+im3,555,Google Berkeley County Data Center,brockovich,341,Google Berkeley County Data Center (Moncks Corner),,,unknown,operating,campus,,,0.9680324140694763
+im3,565,Digital Realty ACC7,cleanview_va,384,Digital Realty ACC7,,92.7,unknown,operating,building,,,3.311505148695758e-05
+im3,566,NTT Ashburn Campus,cleanview_va,566,NTT Ashburn VA5,,44.8,unknown,operating,campus,,,0.08334666293394537
+im3,567,NTT Ashburn VA3 Data Center,cleanview_va,564,NTT Ashburn VA3,,22.4,unknown,operating,building,,,5.279004883357847e-05
+im3,568,Digital Realty ACC9,cleanview_va,385,Digital Realty ACC9,,42.8,unknown,operating,building,,,4.976936214440028e-05
+im3,569,Flexential Dallas - Plano,brockovich,372,Flexential Dallas - Plano,,,unknown,operating,building,,,0.007228108149866336
+im3,572,Amazon Web Services,cleanview_va,222,AWS IAD-75 Bethlehem Road,,42.4,unknown,operating,building,,,0.0016130411510115353
+im3,576,Facebook Fort Worth Datacenter,brockovich,390,Meta Fort Worth Data Center,,,unknown,operating,building,,,0.630705314992166
+im3,577,Amazon Web Services,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,building,,,0.15781169669123535
+im3,578,Microsoft Boydton Data Center,cleanview_va,525,Microsoft East Coast BN9,,23.2,unknown,operating,campus,,,0.102139389104487
+im3,579,Bank of America Data Center,cleanview_va,266,Bank of America Sandston,,31.1,unknown,operating,campus,,,0.17058536042080866
+im3,580,Amazon IAD68,cleanview_va,217,AWS IAD-68 Fadeley,,51.4,unknown,operating,building,,,0.006547867325337388
+im3,581,Amazon IAD81,cleanview_va,228,AWS IAD-81 Fadeley,,41.7,unknown,operating,building,,,0.01280690103137631
+im3,582,Google,cleanview_va,437,Google Arcola - Building 1,,67.8,unknown,operating,building,,,0.018864993126012555
+im3,583,Amazon IAD120,cleanview_va,118,AWS IAD-120 Erins Run Drive,,43.2,unknown,operating,building,,,0.000689108604201329
+im3,584,Amazon IAD121,cleanview_va,119,AWS IAD-121 Erins Run Drive,,43.2,unknown,operating,building,,,0.0007477813731169562
+im3,590,,cleanview_va,740,Verizon Quantum Park,,12.0,unknown,operating,building,,,0.0436470335327524
+im3,591,,cleanview_va,595,QTS Ashburn 1 DC1,,77.0,unknown,operating,campus,,,0.026237152692040744
+im3,592,,cleanview_va,190,AWS IAD-52 Brewers Spring,,41.8,unknown,operating,campus,,,0.010818752987710803
+im3,593,Amazon IAD58,cleanview_va,201,AWS IAD-58 Relocation Drive,,43.0,unknown,operating,building,,,0.004471585852822421
+im3,594,Amazon IAD57,cleanview_va,200,AWS IAD-57 Relocation Drive,,43.0,unknown,operating,building,,,0.0006856344566442018
+im3,595,Amazon IAD64,cleanview_va,210,AWS IAD-64 John Marshall Highway,,43.3,unknown,operating,building,,,8.787792053380178e-07
+im3,596,,cleanview_va,230,AWS IAD-84 John Marshall Highway,,43.3,unknown,operating,campus,,,0.036176147631504535
+im3,603,QTS Ashburn 1,cleanview_va,595,QTS Ashburn 1 DC1,,77.0,unknown,operating,building,,,3.940636896889663e-05
+im3,604,Digital Realty Northern Virginia IAD40,cleanview_va,404,Digital Realty IAD73,,58.4,unknown,operating,building,,,0.07549386266723339
+im3,605,Digital Realty Northern Virginia IAD39,cleanview_va,394,Digital Realty IAD39,,242.5,unknown,operating,building,,,3.875942853881226e-05
+im3,606,Digital Realty ACC10,cleanview_va,379,Digital Realty ACC10,,38.3,unknown,operating,building,,,4.04275425108231e-05
+im3,607,,cleanview_va,654,Sentinel Cloud Plaza,,64.4,unknown,operating,building,,,0.001429932385703395
+im3,608,Vantage VA11,cleanview_va,728,Vantage VA11,,42.0,unknown,operating,building,,,5.7417585411327855e-05
+im3,609,Amazon IAD90,cleanview_va,235,AWS IAD-90 Pathfinder Plaza,,44.4,unknown,operating,building,,,9.83123913133936e-06
+im3,610,Amazon IAD91,cleanview_va,236,AWS IAD-91 Pathfinder Plaza,,46.9,unknown,operating,building,,,1.96177962332391e-06
+im3,611,Amazon IAD92,cleanview_va,237,AWS IAD-92 Pathfinder Plaza,,44.4,unknown,operating,building,,,9.636191949256939e-07
+im3,612,Amazon IAD144,cleanview_va,139,AWS IAD-144 International Dr,,39.1,unknown,operating,building,,,0.004136018120719458
+im3,613,CyrusOne NVA8,cleanview_va,358,CyrusOne NVA8,,46.8,unknown,operating,building,,,4.268102124370763e-05
+im3,614,Amazon IAD98,cleanview_va,242,AWS IAD-98 Severn Way,,37.2,unknown,operating,building,,,4.394346431484582e-06
+im3,615,Amazon IAD99,cleanview_va,243,AWS IAD-99 Severn Way,,37.2,unknown,operating,building,,,3.878602689051194e-06
+im3,616,Amazon IAD114,cleanview_va,110,AWS IAD-114 Loudoun County Parkway,,46.5,unknown,operating,building,,,3.975332878689583e-06
+im3,617,Amazon IAD115,cleanview_va,111,AWS IAD-115 Loudoun County Parkway,,46.5,unknown,operating,building,,,3.254264358235806e-06
+im3,618,Amazon IAD65,cleanview_va,211,AWS IAD-65 Prediction Lane,,43.7,unknown,operating,building,,,3.1124800488116413e-06
+im3,619,Amazon IAD150,cleanview_va,144,AWS IAD-150 Sutton Bay Plaza,,49.7,unknown,operating,building,,,0.00043466058129984714
+im3,621,Stonewall Creek Business Park,cleanview_va,446,Google Leesburg - Building 2,,128.6,unknown,operating,campus,,,0.10822904948184721
+im3,625,QTS Richmond Data Center,cleanview_va,610,QTS Richmond RIC1-DC1,,49.0,unknown,operating,campus,,,0.039287306899913166
+im3,626,,cleanview_va,646,Sabey Ashburn - Building C,,15.1,unknown,operating,building,,,0.003543719448644387
+im3,628,Google Data Center,cleanview_va,445,Google Leesburg - Building 1,,128.6,unknown,operating,building,,,0.0031782797300248964
+im3,634,Equinix,brockovich,215,Equinix NY5,,,unknown,operating,campus,,,0.49731421284690525
+im3,635,Equinix Secaucus NY6,brockovich,215,Equinix NY5,,,unknown,operating,building,,,0.12485296468769311
+im3,636,Google Data Center,cleanview_va,438,Google Arcola - Building 2,,92.9,unknown,operating,campus,,,0.154159310246882
+im3,637,Amazon Fadeley III,cleanview_va,228,AWS IAD-81 Fadeley,,41.7,unknown,operating,campus,,,0.017357848349041666
+im3,638,Skybox Houston One,brockovich,404,Skybox Houston One,,,unknown,operating,campus,,,0.014924075145886583
+im3,653,Amazon IAD145,cleanview_va,140,AWS IAD-145 International Dr,,54.4,unknown,operating,building,,,0.0003817773939832395
+im3,654,Amazon Web Services IAD117,cleanview_va,113,AWS IAD-117 Maries Rd,,52.5,unknown,operating,building,,,0.006556193576455148
+im3,655,Amazon Web Services IAD116,cleanview_va,112,AWS IAD-116 Maries Rd,,52.5,unknown,operating,building,,,0.00233220808926522
+im3,668,Meta Henrico Data Center,cleanview_va,491,Meta White Oak - Building 3,,51.0,unknown,operating,building,,,0.08460622745507385
+im3,685,Digital Realty IAD41 (Building P),cleanview_va,396,Digital Realty IAD41,,175.3,unknown,operating,building,,,4.856807397458395e-05
+im3,686,Amazon IAD118,cleanview_va,114,AWS IAD-118 Charles View,,47.1,unknown,operating,building,,,0.0002987541148432285
+im3,687,Aligned Ashburn,cleanview_va,1,Aligned IAD01,,107.9,unknown,operating,building,,,1.7621024594781723e-05
+im3,688,Equinix Ashburn DC15,cleanview_va,422,Equinix DC15,,50.3,unknown,operating,building,,,2.1647170967538017e-05
+im3,689,Sabey Intergate.Ashburn (Building A),cleanview_va,645,Sabey Ashburn - Building B,,33.5,unknown,operating,building,,,0.015610670128352004
+im3,690,NTT Ashburn VA5 Data Center,cleanview_va,566,NTT Ashburn VA5,,44.8,unknown,operating,building,,,4.75104187746356e-05
+im3,691,NTT Ashburn VA4 Data Center,cleanview_va,565,NTT Ashburn VA4,,44.8,unknown,operating,building,,,1.6752414437144357e-05
+im3,692,CloudHQ LC1,cleanview_va,307,CloudHQ LC1A,,189.0,unknown,operating,building,,,0.0786569998949683
+im3,693,CloudHQ LC2,cleanview_va,309,CloudHQ LC2,,93.0,unknown,operating,building,,,4.4970129442874305e-05
+im3,694,Amazon IAD146,cleanview_va,141,AWS IAD-146 Kipper Drive,,54.6,unknown,operating,building,,,0.00040533407107177036
+im3,697,Equinix Ashburn DC21,cleanview_va,425,Equinix DC21,,65.7,unknown,operating,building,,,0.001806684094962034
+im3,710,Facebook Fort Worth Datacenter,brockovich,390,Meta Fort Worth Data Center,,,unknown,operating,building,,,0.7330296936816053
+im3,712,Amazon IAD140,cleanview_va,135,AWS IAD-140 Platform Plaza,,63.2,unknown,operating,building,,,9.162314968841637e-06
+im3,713,Amazon IAD141,cleanview_va,136,AWS IAD-141 Platform Plaza,,63.2,unknown,operating,building,,,5.672872900183666e-06
+im3,714,1623 Farnam,brockovich,199,1623 Farnam,,,unknown,operating,building,,,0.06368613482170749
+im3,718,Amazon Web Services,brockovich,258,AWS Crosby Court Campus,,,unknown,operating,building,,,0.11971755403658882
+im3,719,Amazon Web Services,brockovich,258,AWS Crosby Court Campus,,,unknown,operating,building,,,0.21206105084703863
+im3,722,Amazon IAD84,cleanview_va,230,AWS IAD-84 John Marshall Highway,,43.3,unknown,operating,building,,,8.334768628665257e-07
+im3,754,,cleanview_va,446,Google Leesburg - Building 2,,128.6,unknown,operating,building,,,0.0019944138144471356
+im3,761,Google,brockovich,203,Google Papillion Data Center,,,unknown,operating,building,,,0.3662093428702808
+im3,765,Amazon IAD119,cleanview_va,116,AWS IAD-119 Charles View,,59.5,unknown,operating,building,,,0.0002204860758328992
+im3,766,Flexential Portland - Hillsboro 4,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.019852187958695703
+im3,769,Stream Chicago I,brockovich,97,EdgeConneX CHI02,,,unknown,operating,building,,,0.17215308954901906
+im3,773,Amazon Web Services,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,building,,,0.058533309689042246
+im3,775,DBT Data - Harrisonburg Center,cleanview_va,365,DBT Data Cyber Integration Center,,36.0,unknown,operating,campus,,,2.5707685306844668e-05
+im3,778,CloudHQ MCC1,cleanview_va,315,CloudHQ MCC1,,74.3,unknown,operating,building,,,0.07540543483938462
+im3,779,Meta Forest City datacenter,brockovich,186,Meta Forest City Data Center,,,unknown,operating,building,,,0.0930129170802827
+im3,780,Facebook Forest City Data Center,brockovich,186,Meta Forest City Data Center,,,unknown,operating,campus,,,0.18402823183005787
+im3,781,Amazon IAD128,cleanview_va,125,AWS IAD-129 Charles View,,47.1,unknown,operating,building,,,0.00030799821120051294
+im3,782,Microsoft,cleanview_va,529,Microsoft Leesburg - Building 1,,33.0,unknown,operating,building,,,0.0021567613309725056
+im3,786,Arcola Tech Park,cleanview_va,528,Microsoft IAD-13 Blue Ridge,,53.7,unknown,under construction,campus,,,0.0999871575922194
+im3,787,Amazon IAD125,cleanview_va,122,AWS IAD-125 Quail Ridge,,51.0,unknown,operating,building,,,4.586440587130935e-06
+im3,788,Amazon IAD124,cleanview_va,121,AWS IAD-124 Quail Ridge,,51.0,unknown,operating,building,,,1.9198184769429507e-07
+im3,789,Stack Infrastructure Portland 3 Data Center -Bld POR3a,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.209896157834164
+im3,793,42310 THUNDERBALL DR,cleanview_va,330,Compass IAD IA,,15.0,unknown,operating,building,,,0.003705099343788132
+im3,796,Amazon PDX92,brockovich,313,Amazon Boardman Exascale Data Center Campus,,1000.0,unknown,planned,building,,,0.7396342483686653
+im3,803,Flexential Portland - Hillsboro 3,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.48553971554551323
+im3,808,Amazon IAD163,cleanview_va,155,AWS IAD-163 Atlantic Boulevard,,65.3,unknown,operating,building,,,2.280291800625871e-06
+im3,810,,cleanview_national,18,Aligned Dallas DFW-01,,29.0,unknown,operating,campus,,,0.050342408432130496
+im3,821,Amazon IAD175,cleanview_va,165,AWS IAD-175 International Dr,,44.5,unknown,operating,building,,,0.0038855280311741263
+im3,824,Amazon IAD147,cleanview_va,142,AWS IAD-147 Kipper Drive,,54.6,unknown,operating,building,,,0.00023490352902537804
+im3,831,Switch Data Center,brockovich,81,Switch Atlanta: The KEEP,,,unknown,operating,building,,,0.00402348048449047
+im3,832,Amazon Web Services,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,building,,,0.06903018074880181
+im3,833,Amazon Web Services,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,building,,,0.17781850385502868
+im3,834,Amazon Web Services,brockovich,260,AWS Hayden Run Campus,,,unknown,operating,building,,,0.16402822581764273
+im3,840,CyrusOne NVA7,cleanview_va,357,CyrusOne NVA7,,22.4,unknown,operating,building,,,3.2180673039652236e-05
+im3,841,Switch Las Vegas 10,brockovich,237,Switch Las Vegas 10,,,unknown,operating,building,,,0.0038512834066111033
+im3,842,Amazon IAD174,cleanview_va,164,AWS IAD-174 Atlantic Boulevard,,62.9,unknown,operating,building,,,0.00046445043126497473
+im3,843,Amazon IAD164,cleanview_va,156,AWS IAD-164 Atlantic Boulevard,,65.3,unknown,operating,building,,,0.0003421032801494077
+im3,844,Vantage VA12,cleanview_va,729,Vantage VA12,,42.0,unknown,operating,building,,,0.013482436368266583
+im3,845,Microsoft,cleanview_va,530,Microsoft Leesburg - Building 2,,21.0,unknown,operating,building,,,0.006086810562053941
+im3,847,Amazon IAD152,cleanview_va,146,AWS IAD-152 Sutton Bay Plaza,,49.7,unknown,operating,building,,,0.0009181809440245068
+im3,848,Amazon IAD151,cleanview_va,145,AWS IAD-151 Sutton Bay Plaza,,49.7,unknown,operating,building,,,0.0009440811023572565
+im3,849,Amazon IAD83,cleanview_va,229,AWS IAD-83 Fadeley,,41.7,unknown,operating,building,,,0.005928349336056508
+im3,850,Amazon Web Services,cleanview_va,229,AWS IAD-83 Fadeley,,41.7,unknown,operating,building,,,0.17693432337278805
+im3,851,Amazon IAD122,cleanview_va,120,AWS IAD-122 Erins Run Drive,,43.2,unknown,operating,building,,,0.0010111240284850118
+im3,852,CyrusOne Sterling IX,cleanview_va,359,CyrusOne NVA9,,89.5,unknown,operating,building,,,0.046735751806142985
+im3,853,Iron Mountain VA-2,cleanview_va,470,Iron Mountain VA-2,,50.4,unknown,operating,building,,,0.04789204390019131
+im3,854,Iron Mountain VA-1,cleanview_va,469,Iron Mountain VA-1,,17.4,unknown,operating,building,,,0.014295097551416601
+im3,855,Amazon Web Services,cleanview_va,240,AWS IAD-96 Bethlehem Road,,42.4,unknown,operating,building,,,0.008513102146331912
+im3,856,Amazon Web Services,cleanview_va,239,AWS IAD-95 Bethlehem Road,,62.3,unknown,operating,building,,,0.014679700501157111
+im3,857,Amazon Web Services,cleanview_va,231,AWS IAD-85 Bethlehem Road,,64.8,unknown,operating,building,,,0.009931373809556544
+im3,858,Amazon IAD102,cleanview_va,104,AWS IAD-102 Tanner Way,,60.9,unknown,operating,building,,,8.05152169163805e-07
+im3,859,Amazon IAD101,cleanview_va,103,AWS IAD-101 Tanner Way,,60.9,unknown,operating,building,,,1.2839042964754333e-06
+im3,860,Amazon IAD100,cleanview_va,102,AWS IAD-100 Tanner Way,,60.9,unknown,operating,building,,,2.064387889889947e-06
+im3,861,CloudHQ MCC2,cleanview_va,316,CloudHQ MCC2,,105.0,unknown,operating,building,,,0.010906093809285554
+im3,865,Amazon Web Services,cleanview_va,664,Stack NVA02A,,60.2,unknown,operating,building,,,0.00767893059881943
+im3,866,QTS Ashburn-Shellhorn DC1,cleanview_va,599,QTS Ashburn 3 DC1,,80.0,unknown,operating,building,,,2.1155646138179646e-05
+im3,875,Amazon IAD601,cleanview_va,221,AWS IAD-74 Wellington Road,,42.5,unknown,operating,building,,,0.17166783466428653
+im3,876,Switch Edge 1,brockovich,236,Switch Edge 1,,,unknown,operating,building,,,0.005671736069584488
+im3,877,Switch Las Vegas 4,brockovich,240,Switch Las Vegas 5,,,unknown,operating,building,,,0.0943521122977115
+im3,878,Switch Las Vegas 5,brockovich,240,Switch Las Vegas 5,,,unknown,operating,building,,,0.00407076629481217
+im3,883,Amazon Web Services CMH56,brockovich,262,AWS New Albany (3180 Beech Road),,,unknown,operating,building,,,0.8469403803596202
+im3,886,Amazon Web Services,cleanview_va,154,AWS IAD-162 Import Plaza,,64.6,unknown,operating,building,,,0.0003706077673469088
+im3,887,Amazon Web Services,cleanview_va,153,AWS IAD-161 Import Plaza,,64.6,unknown,operating,building,,,0.00044638959328145684
+im3,888,Digital Loudoun Plaza,cleanview_va,134,AWS IAD-13 Devin Shafron,,35.4,unknown,operating,campus,,,0.05821832782586484
+im3,889,Digital Loudoun Plaza,cleanview_va,386,Digital Realty Devin Shafron - Building A,,22.4,unknown,operating,campus,,,0.1215470447968651
+im3,890,AWS,cleanview_va,135,AWS IAD-140 Platform Plaza,,63.2,unknown,operating,campus,,,0.051364283470694744
+im3,891,AWS,cleanview_va,236,AWS IAD-91 Pathfinder Plaza,,46.9,unknown,operating,campus,,,0.0021277479971839332
+im3,892,AWS,cleanview_va,139,AWS IAD-144 International Dr,,39.1,unknown,operating,campus,,,0.11402839657059438
+im3,893,,cleanview_va,355,CyrusOne NVA4,,23.8,unknown,operating,campus,,,0.020777247473586037
+im3,897,Digital Realty IAD42,cleanview_va,397,Digital Realty IAD42,,93.5,unknown,operating,building,,,3.8561702707226994e-05
+im3,900,Meta Henrico Data Center,cleanview_va,489,Meta White Oak - Building 1,,54.0,unknown,operating,building,,,0.0005707907915758733
+im3,902,DataBank Las Vegas LAS1,brockovich,224,DataBank LAS1,,,unknown,operating,building,,,0.012856119867904874
+im3,905,Amazon IAD601,cleanview_va,125,AWS IAD-129 Charles View,,47.1,unknown,operating,building,,,0.10513626038145565
+im3,912,Amazon Web Services,cleanview_va,665,Stack NVA02B,,59.6,unknown,operating,building,,,0.016952150001662177
+im3,913,,cleanview_va,667,Stack NVA02D,,74.5,unknown,operating,building,,,0.11504375515890429
+im3,914,COPT Innovation Park Data Center,cleanview_va,129,AWS IAD-132 Thomasson Barn Road,,36.5,unknown,operating,building,,,0.010729351311564184
+im3,915,COPT Data Center Bldg 2,cleanview_va,130,AWS IAD-133 Thomasson Barn Road,,48.7,unknown,operating,building,,,0.05710866657371266
+im3,920,Google,brockovich,341,Google Berkeley County Data Center (Moncks Corner),,,unknown,operating,building,,,0.8680654446077841
+im3,921,Google,brockovich,341,Google Berkeley County Data Center (Moncks Corner),,,unknown,operating,building,,,0.6328629523614628
+im3,922,Google,brockovich,341,Google Berkeley County Data Center (Moncks Corner),,,unknown,operating,building,,,0.9767567982817873
+im3,941,Google,brockovich,87,Google Council Bluffs Data Center,,,unknown,operating,building,,,0.9872540604170225
+im3,942,Google,brockovich,87,Google Council Bluffs Data Center,,,unknown,operating,building,,,0.8949364045338676
+im3,948,Flexential Portland - Hillsboro 4 Expansion,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.07752011027455033
+im3,949,Flexential Portland - Hillsboro 5,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.1397875360292442
+im3,951,Meta Data Center,brockovich,23,Meta Mesa Data Center,,,unknown,operating,campus,,,0.8317180081074793
+im3,954,Amazon Web Services,cleanview_va,161,AWS IAD-169 Beaumeade Circle,,45.2,unknown,operating,building,,,0.00046914813255680447
+im3,955,Amazon Web Services,cleanview_va,166,AWS IAD-179 Beaumeade Circle,,45.2,unknown,operating,building,,,0.00046296075943037823
+im3,956,Aligned IAD02,cleanview_va,2,Aligned IAD02,,163.1,unknown,operating,building,,,1.4543870436951291e-05
+im3,957,QTS Manassas DC5,cleanview_va,607,QTS Manassas DC5,,60.5,unknown,operating,building,,,0.08213026710580049
+im3,960,Flexential Atlanta - Douglasville 1,brockovich,68,Flexential Atlanta - Douglasville 1,,,unknown,operating,building,,,0.005054136380388725
+im3,963,Amazon Web Services,cleanview_va,138,AWS IAD-143 Optics Plaza,,63.2,unknown,operating,building,,,0.0006751296438806824
+im3,966,,cleanview_national,24,Aligned Hillsboro PDX-01,,101.0,unknown,operating,building,,,0.0048273802734568804
+im3,967,,brockovich,243,Switch Tahoe Reno 1 (The Citadel Campus),,650.0,unknown,operating,building,,,0.0037667738579493346
+im3,968,,brockovich,244,Switch Tahoe Reno 2 (The Citadel Campus),,,unknown,operating,building,,,0.005214736015995692
+im3,970,CyrusOne San Antonio IV,brockovich,369,CyrusOne SAT2-SAT4 (San Antonio),,,unknown,operating,building,,,0.23076895362105834
+im3,971,Equinix Ashburn DC16,cleanview_va,423,Equinix DC16,,57.0,unknown,operating,building,,,3.475415382269344e-05
+im3,972,Microsoft IAD11,cleanview_va,526,Microsoft IAD-11 Blue Ridge,,56.7,unknown,operating,building,,,0.012017346456274966
+im3,980,,cleanview_va,531,Microsoft Leesburg - Building 3,,57.0,unknown,operating,building,,,0.011947275590168286
+im3,981,,cleanview_va,532,Microsoft Leesburg - Building 4,,57.0,unknown,operating,building,,,0.0221109929871778
+im3,982,Meta Henrico Data Center,cleanview_va,492,Meta White Oak - Building 4,,52.5,unknown,operating,building,,,0.05924658461079694
+im3,985,CoreSite Reston Campus VA2,cleanview_va,340,CoreSite VA3,,86.7,unknown,operating,building,,,0.07439965539771336
+im3,986,AWS IAD105,cleanview_va,107,AWS IAD-105 Innovation Drive,,68.5,unknown,operating,building,,,0.007751065237148294
+im3,987,AWS IAD104,cleanview_va,106,AWS IAD-104 Innovation Drive,,68.5,unknown,operating,building,,,0.0026870333550657577
+im3,988,QTS Manassas DC1,cleanview_va,603,QTS Manassas DC1,,24.9,unknown,operating,building,,,0.10752701391513646
+im3,994,Amazon Web Services,brockovich,258,AWS Crosby Court Campus,,,unknown,operating,building,,,0.08487939476274
+im3,995,Amazon Web Services,brockovich,258,AWS Crosby Court Campus,,,unknown,operating,building,,,0.1462299948679039
+im3,996,Amazon Web Services,brockovich,258,AWS Crosby Court Campus,,,unknown,operating,building,,,0.24163136636075244
+im3,997,NTT Chicago CH1,brockovich,107,NTT Chicago CH2 Data Center,,,unknown,operating,building,,,0.12027976239804995
+im3,998,,brockovich,457,Menomonie Data Center Campus,,,unknown,planned,building,,,0.062470221682225845
+im3,1003,Amazon Web Services,cleanview_va,137,AWS IAD-142 Optics Plaza,,63.2,unknown,operating,building,,,6.129970071843824e-05
+im3,1004,,cleanview_va,119,AWS IAD-121 Erins Run Drive,,43.2,unknown,operating,campus,,,0.06417131087659983
+im3,1008,Google: Arcola 2,cleanview_va,438,Google Arcola - Building 2,,92.9,unknown,operating,building,,,0.0074202783246985465
+im3,1013,Amazon IAD603,cleanview_va,203,AWS IAD-603 Platform Plaza,,2.4,unknown,operating,building,,,0.0003745978666911098
+im3,1019,Flexential Philadelphia - Collegeville,brockovich,325,Flexential Philadelphia - Collegeville (PHL01),,,unknown,operating,building,,,0.003353121502427503
+im3,1021,Amazon IAD86,cleanview_va,232,AWS IAD-86 Prediction Lane,,43.7,unknown,operating,building,,,5.566371364521268e-07
+im3,1022,Amazon IAD130,cleanview_va,127,AWS IAD-130 Freedom Center,,57.0,unknown,operating,building,,,0.03547287812431939
+im3,1023,Amazon IAD131,cleanview_va,128,AWS IAD-131 Freedom Center,,59.5,unknown,operating,building,,,0.02499912808918838
+im3,1025,QTS Ashburn-Shellhorn DC2,cleanview_va,600,QTS Ashburn 3 DC2,,77.5,unknown,operating,building,,,5.025086890188405e-05
+im3,1026,QTS Ashburn Lockridge,cleanview_va,597,QTS Ashburn 2 DC1,,71.0,unknown,operating,building,,,3.418054123926186e-05
+im3,1027,QTS Ashburn Lockridge,cleanview_va,598,QTS Ashburn 2 DC2,,62.6,unknown,operating,building,,,4.2233651520817745e-05
+im3,1028,Amazon IAD192,cleanview_va,171,AWS IAD-192 Pacific Blvd,,69.8,unknown,operating,building,,,0.0007186571846640078
+im3,1029,,cleanview_va,567,NTT Ashburn VA6,,,unknown,operating,building,,,0.026040121324089123
+im3,1030,NTT Ashburn VA8 Data Centre,cleanview_va,569,NTT Ashburn VA8,,28.6,unknown,operating,building,,,2.4209827404193982e-05
+im3,1031,DataBank Ashburn IAD3,cleanview_va,363,DataBank IAD3,,56.0,unknown,operating,building,,,0.0008977954712924797
+im3,1032,PowerHouse ABX-1,cleanview_va,587,PowerHouse ABX-1,,60.0,unknown,operating,building,,,0.008183076383409853
+im3,1033,,cleanview_va,329,Cologix ASH1,,168.0,unknown,operating,building,,,0.015128161960485647
+im3,1047,Aligned Data Center - Chicago ORD-01,cleanview_national,9,Aligned Chicago ORD-01,,50.0,unknown,operating,building,,,0.0149895431306242
+im3,1048,Aligned Data Center - Chicago ORD-02,cleanview_national,10,Aligned Chicago ORD-02,,50.0,unknown,operating,building,,,0.008663972587069805
+im3,1052,AWS IAD106,cleanview_va,108,AWS IAD-106 Innovation Drive,,65.6,unknown,operating,building,,,0.005457856351036195
+im3,1054,Amazon Web Services,cleanview_va,229,AWS IAD-83 Fadeley,,41.7,unknown,operating,building,,,0.1381409513521756
+im3,1056,Amazon Web Services,brockovich,313,Amazon Boardman Exascale Data Center Campus,,1000.0,unknown,planned,building,,,0.7480125716307172
+im3,1057,Equinix DC14,cleanview_va,421,Equinix DC14,,8.0,unknown,operating,campus,,,0.02288099257206172
+im3,1060,Amazon IAD103,cleanview_va,105,AWS IAD-103 Tanner Way,,43.9,unknown,operating,building,,,5.239097668508373e-07
+im3,1061,CloudHQ MCC3,cleanview_va,320,CloudHQ MCC6A,,33.0,unknown,operating,building,,,0.03412876048030095
+im3,1062,CyrusOne PHX8,cleanview_national,45,Aligned Phoenix PHX-06 Phase 2,,70.0,unknown,under construction,building,,,0.2899660640443205
+im3,1065,Vantage VA13,cleanview_va,730,Vantage VA13,,42.0,unknown,operating,building,,,0.025003967103907006
+im3,1070,Google,brockovich,203,Google Papillion Data Center,,,unknown,operating,building,,,0.2598511648024496
+im3,1075,Stack Infrastructure Portland 3 Data Center -Bld POR3b,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.13145990226581922
+im3,1076,Stack Infrastructure Portland 3 Data Center -Bld POR3c,brockovich,315,Flexential Portland - Hillsboro 4 (PDX04),,,unknown,operating,building,,,0.1369845461097306
+im3,1077,Amazon Web Services,cleanview_va,131,AWS IAD-134 Avion,,49.2,unknown,operating,building,,,0.027922905076142045
+im3,1078,Amazon Web Services,cleanview_va,132,AWS IAD-135 Avion,,49.2,unknown,operating,building,,,0.08275363263074902
+im3,1079,Amazon Web Services,cleanview_va,147,AWS IAD-155 Clubber Lane,,43.7,unknown,operating,building,,,0.0001473706341646205
+im3,1080,Amazon Web Services,cleanview_va,147,AWS IAD-155 Clubber Lane,,43.7,unknown,operating,building,,,0.108043264828535
+im3,1082,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.1943831757807302
+im3,1083,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.2632649407474492
+im3,1084,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.3013067013742845
+im3,1085,Amazon Web Services,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.2859374850303549
+im3,1086,,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.22170195984875007
+im3,1087,Amazon Web Services,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.05449014387254988
+im3,1095,Google,cleanview_va,448,Google Mango Farm - Building 1,,96.6,unknown,operating,building,,,0.030160117519599017
+im3,1105,Amazon Web Services,cleanview_va,241,AWS IAD 9740 Innovation Drive,,68.0,unknown,operating,building,,,0.00811484796596355
+im3,1106,Amazon Web Services,cleanview_va,148,AWS IAD-156 Lone Cedar Lane,,64.9,unknown,operating,building,,,0.003867914305977833
+im3,1107,Amazon Web Services,cleanview_va,154,AWS IAD-162 Import Plaza,,64.6,unknown,operating,building,,,0.08624441085331803
+im3,1114,Flexential Atlanta - Douglasville 2,brockovich,68,Flexential Atlanta - Douglasville 1,,,unknown,operating,building,,,0.4516254394697282
+im3,1115,,brockovich,239,Switch Las Vegas 12,,,unknown,operating,building,,,0.7481720969572666
+im3,1117,,cleanview_va,401,Digital Realty IAD53 - 9905 Godwin Drive,,63.0,unknown,operating,building,,,0.005662569301525658
+im3,1118,NTT Chicago CH2,brockovich,107,NTT Chicago CH2 Data Center,,,unknown,operating,building,,,0.005986044211807675
+im3,1120,Amazon IAD214,cleanview_va,179,AWS IAD-214 Pacific Blvd,,62.6,unknown,planned,building,,,0.000651259030943848
+im3,1121,Aligned IAD03,cleanview_va,3,Aligned IAD03,,143.1,unknown,operating,building,,,1.05254835653579e-05
+im3,1122,Digital Realty IAD55,cleanview_va,402,Digital Realty IAD55,,60.0,unknown,operating,building,,,0.0029487807647818037
+im3,1124,Amazon Web Services,cleanview_va,217,AWS IAD-68 Fadeley,,51.4,unknown,operating,building,,,0.15370352866686945
+im3,1125,Amazon Web Services,cleanview_va,136,AWS IAD-141 Platform Plaza,,63.2,unknown,operating,building,,,0.14673244715438305
+im3,1126,Amazon Web Services,cleanview_va,174,AWS IAD-195 Village Place Tech Park,,67.8,unknown,operating,building,,,0.010910799341031948
+im3,1127,Amazon Web Services,cleanview_va,666,Stack NVA02C,,3.8,unknown,operating,building,,,0.01969699202811756
+im3,1128,Amazon Web Services,cleanview_va,210,AWS IAD-64 John Marshall Highway,,43.3,unknown,operating,building,,,0.13603004875880872
+im3,1129,Amazon Web Services,cleanview_va,238,AWS IAD-94 John Marshall Highway,,43.3,unknown,operating,building,,,9.731640801409122e-07
+im3,1130,Amazon Web Services,brockovich,261,AWS Industrial Parkway Campus (Jerome Township),,,unknown,operating,building,,,0.29544656146690257
+im3,1143,Iron Mountain VA-3,cleanview_va,471,Iron Mountain VA-3,,100.8,unknown,operating,building,,,0.03577833920860958
+im3,1145,Google,cleanview_va,449,Google Mango Farm - Building 2,,96.3,unknown,operating,building,,,0.10280788227940232
+im3,1146,Amazon Web Services,cleanview_va,175,AWS IAD-196 Village Place Tech Park,,65.4,unknown,operating,building,,,0.022524477527556847
+im3,1147,Amazon Web Services,cleanview_va,176,AWS IAD-197 Village Place Tech Park,,67.8,unknown,operating,building,,,0.021118174827811993
+im3,1148,Iron Mountain VA-4,cleanview_va,472,Iron Mountain VA-4,,45.4,unknown,operating,building,,,0.009054670740047215
+im3,1149,Iron Mountain VA-5,cleanview_va,473,Iron Mountain VA-5,,55.0,unknown,operating,building,,,0.008735182297131544
+im3,1150,QTS Manassas DC2,cleanview_va,605,QTS Manassas DC3,,52.8,unknown,operating,building,,,0.06586213872800131
+im3,1151,,cleanview_va,677,Stack NVA05A,,46.8,unknown,operating,building,,,0.03409553884830818
+im3,1152,Google,brockovich,87,Google Council Bluffs Data Center,,,unknown,operating,building,,,0.6920605867954721
+im3,1153,Google,brockovich,87,Google Council Bluffs Data Center,,,unknown,operating,building,,,0.7783000253541084
+im3,1155,42311 THUNDERBALL DR,cleanview_va,333,Compass IAD ID,,7.5,unknown,operating,building,,,0.00653437253447527
+im3,1156,42255 THUNDERBALL DR,cleanview_va,332,Compass IAD IC,,11.3,unknown,operating,building,,,0.005324348257897302
+im3,1157,42254 THUNDERBALL DR,cleanview_va,331,Compass IAD IB,,15.0,unknown,operating,building,,,0.003222279904322013
+im3,1163,,cleanview_va,124,AWS IAD-127 Quail Ridge,,63.1,unknown,operating,building,,,0.014325581654587733
+im3,1164,,cleanview_va,123,AWS IAD-126 Quail Ridge,,63.1,unknown,operating,building,,,0.018684576882853954
+im3,1165,Iron Mountain VA-6,cleanview_va,474,Iron Mountain VA-6,,44.8,unknown,operating,building,,,0.024016675736823836
+im3,1168,Equinix Ashburn DC6,cleanview_va,430,Equinix DC6,,9.2,unknown,operating,building,,,3.854254909088482e-05
+im3,1169,Equinix Ashburn DC4,cleanview_va,428,Equinix DC4,,13.9,unknown,operating,building,,,5.22667646463964e-05
+im3,1177,Google,brockovich,203,Google Papillion Data Center,,,unknown,operating,building,,,0.8762564211009036
+im3,1181,Switch Las Vegas 12,brockovich,241,Switch Las Vegas 7,,,unknown,operating,campus,,,0.19751106267296276
+im3,1183,Digital Realty Northern Virginia IAD44,cleanview_va,376,Digital Dulles - Building 7,,106.4,unknown,operating,building,,,0.0074872825059341
+im3,1186,Apple,brockovich,85,Apple Waukee Data Center,,,unknown,operating,building,,,0.30632335350145
+im3,1187,,cleanview_va,742,Yondr NOV1A,,67.2,unknown,operating,building,,,0.008154785397744946
+im3,1190,,brockovich,245,Switch Tahoe Reno 3 (The Citadel Campus),,,unknown,operating,building,,,0.0022266533708012225
+im3,1191,,cleanview_va,212,AWS IAD-667 Celtic Park Drive,,75.3,unknown,under construction,building,,,0.2695539773611104
+im3,1192,,cleanview_va,533,Microsoft Leesburg - Building 5,,57.0,unknown,operating,building,,,0.01101829973471716
+im3,1198,,cleanview_va,160,AWS IAD-168 EDS Drive,,67.8,unknown,operating,building,,,0.003906401354078929
+im3,1199,,cleanview_va,159,AWS IAD-167 EDS Drive,,65.1,unknown,operating,building,,,0.004861396672999063
+im3,1200,,cleanview_va,158,AWS IAD-166 EDS Drive,,66.4,unknown,operating,building,,,0.0011034292629790124
+im3,1201,QTS Ashburn-Shellhorn,cleanview_va,600,QTS Ashburn 3 DC2,,77.5,unknown,operating,campus,,,0.0641936157741669
+im3,1202,CloudHQ Ashburn Campus,cleanview_va,308,CloudHQ LC1B,,189.0,unknown,operating,campus,,,0.08634650633760471
+im3,1208,,cleanview_va,675,Stack NVA04B 22285 Lockridge Road,,93.6,unknown,under construction,building,,,0.000592336500400016
+im3,1209,,cleanview_va,674,Stack NVA04A 22275 Lockridge Road,,93.6,unknown,operating,building,,,0.005267072329156704
+im3,1210,Vantage VA2,cleanview_va,734,Vantage VA2,,124.8,unknown,operating,building,,,0.04619355762900143
+im3,1226,,cleanview_va,559,Microsoft WTC Station B East 1,,6.0,unknown,operating,building,,,0.009409585977090726
+im3,1227,,cleanview_va,560,Microsoft WTC Station B East 2,,27.7,unknown,operating,building,,,0.003168237564750502
+im3,1229,,cleanview_va,311,CloudHQ LC4,,252.0,unknown,under construction,building,,,0.020800240962808317
+im3,1233,Amazon Web Services,brockovich,262,AWS New Albany (3180 Beech Road),,,unknown,operating,building,,,0.19706387579550239
+im3,1234,Amazon Web Services,brockovich,262,AWS New Albany (3180 Beech Road),,,unknown,operating,building,,,0.25115510419309767
+im3,1235,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.1967560643611719
+im3,1236,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.09196766669328381
+im3,1237,Amazon Web Services,brockovich,263,AWS New Albany (Newton Court),,,unknown,operating,building,,,0.26866114027447
+im3,1243,Amazon Web Services,brockovich,261,AWS Industrial Parkway Campus (Jerome Township),,,unknown,operating,building,,,0.1347091570315223
+im3,1244,Amazon Web Services,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.17393399480898086
+im3,1245,Amazon Web Services,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.28449013573698106
+im3,1246,Amazon Web Services,brockovich,266,AWS Warner Road Campus (Jerome Township),,,unknown,operating,building,,,0.22127723105774125
+im3,1265,True North Data Centers,cleanview_va,334,Compass IAD IE,,50.0,unknown,operating,campus,,,0.09317934346344399
+im3,1266,TikTok Data Center,cleanview_va,334,Compass IAD IE,,50.0,unknown,operating,building,,,0.016299227405681325
+im3,1272,Switch Las Vegas 14,brockovich,239,Switch Las Vegas 12,,,unknown,operating,building,,,0.8774950840996955
+im3,1281,,brockovich,96,CyrusOne CHI1-CHI3 (Aurora),,,unknown,operating,building,,,0.2920455063406411
+im3,1293,,cleanview_va,157,AWS IAD-165 EDS Drive,,56.9,unknown,operating,building,,,0.0017828906314416167
+im3,1294,,cleanview_va,704,Renaissance Tech Park A (AWS IAD-500),,97.9,unknown,under construction,building,,,0.006150783726190534
+im3,1296,Vantage Building 1,brockovich,288,Vantage Data Centers OH1,,192.0,unknown,under construction,building,,,0.17305041267727164
+im3,1297,Vantage Building 2,brockovich,288,Vantage Data Centers OH1,,192.0,unknown,under construction,building,,,0.08016087486184861
+im3,1298,Vantage Building 3,brockovich,288,Vantage Data Centers OH1,,192.0,unknown,under construction,building,,,0.25863250666706733
+im3,1304,CloudHQ LC3,cleanview_va,310,CloudHQ LC3,,87.0,unknown,operating,building,,,2.347048811041389e-05
+im3,1305,Alinged Data Center,cleanview_national,20,Aligned DFW03 Mansfield,,86.0,unknown,under construction,building,,,0.0005375139982142675
+im3,1306,,cleanview_va,213,AWS IAD-668 Celtic Park Drive,,104.9,unknown,under construction,building,,,0.0066217093020485415
+im3,1307,,cleanview_va,212,AWS IAD-667 Celtic Park Drive,,75.3,unknown,under construction,building,,,0.0027492670751305564
+im3,1308,,cleanview_va,681,Stack NVA06A,,62.4,unknown,operating,building,,,0.003002108068083922
+im3,1309,NTT Chicago CH3,brockovich,107,NTT Chicago CH2 Data Center,,,unknown,operating,building,,,0.24132136530579146
+im3,1310,NTT Chicago CH4,brockovich,107,NTT Chicago CH2 Data Center,,,unknown,operating,building,,,0.20154044253567613
+im3,1311,Microsoft Data Center 2,cleanview_va,342,Corscale Gainesville Crossing GCDC2,,100.8,unknown,operating,building,,,0.002766896074021137
+im3,1334,,cleanview_va,214,AWS IAD-669 Patriot Park Drive,,91.5,unknown,under construction,building,,,0.006487686782013119
+im3,1335,,cleanview_va,215,AWS IAD-670 Patriot Park Drive,,91.5,unknown,under construction,building,,,0.008892583041079845
+im3,1336,,cleanview_va,447,Google Leesburg - Building 3,,128.7,unknown,operating,building,,,0.016961601876726618
+im3,1340,Prime DFW01-01,brockovich,398,Prime DFW01-01,,,unknown,operating,building,,,0.13664380745479943
+im3,1342,Google,cleanview_va,450,Google Mango Farm - Building 3,,96.3,unknown,under construction,building,,,0.05370427515286378
+im3,1343,QTS Manassas DC1,cleanview_va,604,QTS Manassas DC2,,26.7,unknown,operating,building,,,0.10283907300015362
+im3,1362,Microsoft Data Center,cleanview_va,123,AWS IAD-126 Quail Ridge,,63.1,unknown,operating,campus,,,0.08123370143074471
+im3,1370,Centersquare Ashburn IAD4 Data Center,cleanview_va,293,Centersquare IAD4-A 21561 Beaumeade Circle,,10.9,unknown,operating,campus,,,0.03887253494028362
+im3,1387,Switch Tahoe Reno - The Citadel Campus,brockovich,243,Switch Tahoe Reno 1 (The Citadel Campus),,650.0,unknown,operating,point,,,0.3510342176872899
+im3,1410,Amazon Web Services IAD69,cleanview_va,353,CyrusOne NVA1-3,,84.0,unknown,operating,point,,,0.05358355132819879
+im3,1414,Lumen McLean,cleanview_va,485,Lumen McLean 1,,1.8,unknown,operating,point,,,0.09269503503433403
+im3,1419,,brockovich,172,Patmos KC Star Building Campus,,35.0,unknown,operating,point,,,0.1658455081341069
+im3,1420,Netrality Data Centers,brockovich,172,Patmos KC Star Building Campus,,35.0,unknown,operating,point,,,0.25739753261089116
+im3,1435,CoreSite Chicago Data Center (CH1),brockovich,103,Lambda Chicago EdgeConneX AI Factory,,23.0,unknown,under construction,point,,,0.2769017252987892
+im3,1470,CoreSite - LA2,brockovich,36,"CoreSite LA2 - Los Angeles, CA",,,unknown,operating,point,,,0.0026952624136843675
+im3,1471,Equinix,cleanview_va,426,Equinix DC22,,62.1,unknown,operating,point,,,0.007453190524336616
+im3,1472,NTT Ashburn VA7 Data Center,cleanview_va,568,NTT Ashburn VA7,,50.4,unknown,under construction,point,,,0.027373604866973062
+im3,1473,NTT VA11 Data Center,cleanview_va,570,NTT Gainesville VA10,,117.6,unknown,operating,point,,,0.017621840488602332

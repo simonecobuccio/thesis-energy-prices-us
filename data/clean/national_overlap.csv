@@ -1,0 +1,25 @@
+name,operator,Developer Experience,status,operating_year,Facility Power (MW),IT Capacity (MW),Est. Investment,county,state,Building (sq ft),Tenant / End User,lat,lon,Source 1,Source 2,Source 3
+Aligned IAD01,Aligned,Experienced,Operating,2021.0,108,77,$850M,Loudoun,VA,"420,426",,39.01362,-77.470578,Link,,
+Aligned IAD02,Aligned,Experienced,Operating,2023.0,163,117,$1.3B,Loudoun,VA,"624,570",ByteDance,39.010411,-77.475189,Link,,
+Aligned IAD03,Aligned,Experienced,Operating,2025.0,143,102,$1.1B,Loudoun,VA,"319,384",,38.988621,-77.440752,Link,,
+Amazon Birchwood - Building 1,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.269152,-77.318478,Link,,
+Amazon Birchwood - Building 2,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.267652,-77.318478,Link,,
+Amazon Birchwood - Building 3,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.266152,-77.318478,Link,,
+Amazon Birchwood - Building 4,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.264652,-77.318478,Link,,
+Amazon Birchwood - Building 5,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.269152,-77.316978,Link,,
+Amazon Birchwood - Building 6,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.267652,-77.316978,Link,,
+Amazon Birchwood - Building 7,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.266152,-77.316978,Link,,
+Amazon Birchwood - Building 8,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.264652,-77.316978,Link,,
+Amazon Carter's Store Tech Campus - Building 1,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.192512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 2,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.191012,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 3,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.189512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 4,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.188012,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 5,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.186512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 6,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.192512,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 7,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.191012,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 8,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.189512,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 9,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.188012,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 10,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.186512,-77.454058,Link,,
+Amazon Massaponax Tech Campus - Building 1,Amazon,Experienced,Planned,2029.0,70,60,$660M,Spotsylvania,VA,"250,290",,38.2174,-77.44615,Link,Link,Link
+Amazon Massaponax Tech Campus - Building 2,Amazon,Experienced,Planned,2029.0,70,60,$660M,Spotsylvania,VA,"250,290",,38.2159,-77.44615,Link,Link,Link
+Amazon Massaponax Tech Campus - Building 3,Amazon,Experienced,Planned,2029.0,70,60,$660M,Spotsylvania,VA,"250,290",,38.2144,-77.44615,Link,Link,Link

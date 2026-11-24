@@ -1,0 +1,836 @@
+name,operator,status,lat,lon,state,county,facility_mw,mw_source,operating_year,source,source_row,announced,raw_confidence,precision,type,sqft,county_ambiguous,match,sources
+Verizon,,unknown,40.54425557630532,-74.49652096447575,NJ,Middlesex County,33.3575153248338,estimated from floor area,,im3,0,,,,building,105786.0,False,-1,im3
+HPC,Sandia National Laboratories,unknown,35.04994198074902,-106.54282203991325,NM,Bernalillo County,49.96816167469361,estimated from floor area,,im3,4,,,,building,158463.0,False,-1,im3
+Barclays Datacenter,Barclays,unknown,40.64375303338713,-74.28548116880219,NJ,Union County,29.758652314583593,estimated from floor area,,im3,6,,,,building,94373.0,False,-1,im3
+CyberNAP Glen Burnie,AiNET,unknown,39.14024170717737,-76.60643112453295,MD,Anne Arundel County,28.341558617215295,estimated from floor area,,im3,7,,,,building,89879.0,False,-1,im3
+Dakota Carrier Network,,unknown,46.81509687104177,-96.84432644156146,ND,Cass County,8.176826138508547,estimated from floor area,,im3,9,,,,building,25931.0,False,-1,im3
+Cyxtera Dallas-Fort Worth Data Center,Cyxtera,unknown,32.83271789571454,-97.0410416432689,TX,Tarrant County,97.4698109103986,estimated from floor area,,im3,13,,,,building,309104.0,False,-1,im3
+Equinix Infomart,Equinix,unknown,32.800943222986994,-96.81951054637986,TX,Dallas County,75.62720669967212,estimated from floor area,,im3,14,,,,building,239835.0,False,-1,im3
+DataBank,,unknown,32.77830147632332,-96.79843729449848,TX,Dallas County,13.737042686282301,estimated from floor area,,im3,17,,,,building,43564.0,False,-1,im3
+CyrusOne Cincinnati-Mason CIN3,CyrusOne,unknown,39.30389580661304,-84.31157999997258,OH,Warren County,26.113435772176484,estimated from floor area,,im3,18,,,,building,82813.0,False,-1,im3
+LightEdge SAN1,,unknown,32.827865524456854,-117.12993394622256,CA,San Diego County,26.35403267718138,estimated from floor area,,im3,19,,,,building,83576.0,False,-1,im3
+EdgeConneX San Diego,EdgeConneX,unknown,32.842308661647536,-117.1693449894231,CA,San Diego County,12.362203229111454,estimated from floor area,,im3,20,,,,building,39204.0,False,-1,im3
+RagingWire CA2,NTT,unknown,38.6503995314376,-121.49194609960875,CA,Sacramento County,64.54871251417133,estimated from floor area,,im3,21,,,,building,204702.0,False,-1,im3
+RagingWire CA1,NTT,unknown,38.65043183405982,-121.48918647250004,CA,Sacramento County,60.63861864515332,estimated from floor area,,im3,22,,,,building,192302.0,False,-1,im3
+Equinix SV1,Equinix,unknown,37.241586803667886,-121.7833201255276,CA,Santa Clara County,42.57650761149594,estimated from floor area,,im3,24,,,,building,135022.0,False,-1,im3
+,,unknown,39.29404817733801,-84.41211321346512,OH,Hamilton County,4.122626390608182,estimated from floor area,,im3,25,,,,building,13074.0,False,-1,im3
+Lumen Sunnyvale 1,Lumen Technologies,unknown,37.37343914789955,-121.98781298697564,CA,Santa Clara County,24.32204518589493,estimated from floor area,,im3,26,,,,building,77132.0,False,-1,im3
+OpenColo,,unknown,37.37881629201175,-121.95593725165452,CA,Santa Clara County,20.64498029826436,estimated from floor area,,im3,27,,,,building,65471.0,False,-1,im3
+Equinix Santa Clara SV2,Equinix,unknown,37.378433690080165,-121.95499188020412,CA,Santa Clara County,25.57516720488505,estimated from floor area,,im3,28,,,,building,81106.0,False,-1,im3
+Layer42 Santa Clara,Layer42,unknown,37.378039948434136,-121.95415110304296,CA,Santa Clara County,7.893029002854015,estimated from floor area,,im3,29,,,,building,25031.0,False,-1,im3
+Digital Realty Silicon Valley SJC34,Digital Realty,unknown,37.37238819523252,-121.97361948715526,CA,Santa Clara County,40.75389934029238,estimated from floor area,,im3,30,,,,building,129242.0,False,-1,im3
+Csquare SFO1,Csquare,unknown,37.371519049598696,-121.96969744738088,CA,Santa Clara County,29.07123258599817,estimated from floor area,,im3,31,,,,building,92193.0,False,-1,im3
+,Vantage,unknown,37.37338590954395,-121.97269293993044,CA,Santa Clara County,28.156775148889118,estimated from floor area,,im3,32,,,,building,89293.0,False,-1,im3
+Strategic Datasphere,,unknown,34.09479739753544,-84.23569669904141,GA,Fulton County,40.20049492576604,estimated from floor area,,im3,33,,,,building,127487.0,False,-1,im3
+Flexential Atlanta - Alpharetta Data Center,Flexential,unknown,34.08700522087238,-84.25175214535511,GA,Fulton County,23.591109896509142,estimated from floor area,,im3,34,,,,building,74814.0,False,-1,im3
+Secure Data Center,,unknown,34.09370761226,-84.25087563127063,GA,Fulton County,58.02453169562435,estimated from floor area,,im3,35,,,,building,184012.0,False,-1,im3
+Cologix Santa Clara SV1 Data Center,Cologix,unknown,37.36533280955109,-121.9617004216462,CA,Santa Clara County,25.4427285415796,estimated from floor area,,im3,36,,,,building,80686.0,False,-1,im3
+Netrality Data Centers,,unknown,38.62926158352849,-90.197174834978,MO,St. Louis city,7.281919170744587,estimated from floor area,,im3,37,,,,building,23093.0,False,-1,im3
+,,unknown,44.99145768142225,-93.28029157225949,MN,Hennepin County,16.138597114221106,estimated from floor area,,im3,38,,,,building,51180.0,False,-1,im3
+NTT RagingWire Data Center,NTT,unknown,45.549583992290586,-122.93739288182852,OR,Washington County,82.09273611018382,estimated from floor area,,im3,47,,,,building,260339.0,False,-1,im3
+Flexential Minneapolis - Chaska,Flexential,unknown,44.85159287119095,-93.59883127427165,MN,Carver County,42.728812074297196,estimated from floor area,,im3,51,,,,building,135505.0,False,-1,im3
+Pearl Plaza Office Building,,unknown,39.74523035286353,-104.97933224935198,CO,Denver County,15.384012063530774,estimated from floor area,,im3,52,,,,building,48787.0,False,-1,im3
+Csquare SFO2,Csquare,unknown,37.39757919675742,-121.9808693510514,CA,Santa Clara County,46.06910436095106,estimated from floor area,,im3,53,,,,building,146098.0,False,-1,im3
+Csquare SFO2,Csquare,unknown,37.39861833320087,-121.98111165280665,CA,Santa Clara County,36.481491128088756,estimated from floor area,,im3,54,,,,building,115693.0,False,-1,im3
+QTS Santa Clara 1,Quality Technology Services,unknown,37.39398377756207,-121.97830969442312,CA,Santa Clara County,10.145116939348098,estimated from floor area,,im3,55,,,,building,32173.0,False,-1,im3
+CoreSite SV3,CoreSite,unknown,37.37514209318246,-121.9717093732258,CA,Santa Clara County,18.228920683392104,estimated from floor area,,im3,56,,,,building,57809.0,False,-1,im3
+CoreSite SV6,CoreSite,unknown,37.37630188023717,-121.9720837997304,CA,Santa Clara County,19.25563565416006,estimated from floor area,,im3,57,,,,building,61065.0,False,-1,im3
+CoreSite SV8,CoreSite,unknown,37.37738265750685,-121.9718400510976,CA,Santa Clara County,13.120572241610512,estimated from floor area,,im3,58,,,,building,41609.0,False,-1,im3
+CoreSite SV5,CoreSite,unknown,37.37519609854625,-121.97068979280724,CA,Santa Clara County,16.036430145385474,estimated from floor area,,im3,59,,,,building,50856.0,False,-1,im3
+CoreSite SV9,CoreSite,unknown,37.37555851580601,-121.9696099700251,CA,Santa Clara County,19.04688709437861,estimated from floor area,,im3,60,,,,building,60403.0,False,-1,im3
+QTS Santa Clara 2,Quality Technology Services,unknown,37.392721680154914,-121.97839685451906,CA,Santa Clara County,11.606672187968941,estimated from floor area,,im3,61,,,,building,36808.0,False,-1,im3
+Minnesota Gateway Data Center,,unknown,44.97130185223087,-93.25465186805064,MN,Hennepin County,27.653508228328413,estimated from floor area,,im3,63,,,,building,87697.0,False,-1,im3
+IBM Building,,unknown,42.64935307487593,-73.7527452452726,NY,Albany County,4.841894464417059,estimated from floor area,,im3,64,,,,building,15355.0,False,-1,im3
+,Verizon Wireless,unknown,42.32626638236376,-83.07698605760793,MI,Wayne County,7.862126648082744,estimated from floor area,,im3,65,,,,building,24933.0,False,-1,im3
+,University of New Hampshire,unknown,43.14361852296161,-70.95247263069143,NH,Strafford County,9.634282095169938,estimated from floor area,,im3,66,,,,building,30553.0,False,-1,im3
+,FirstLight,unknown,43.07611925782941,-70.80804278020655,NH,Rockingham County,2.937615684175143,estimated from floor area,,im3,71,,,,building,9316.0,False,-1,im3
+Insurance Exchange Building,,unknown,39.74557178496544,-104.9956910745452,CO,Denver County,6.2457442954548155,estimated from floor area,,im3,72,,,,building,19807.0,False,-1,im3
+Lincoln Rackhouse Maryland,Lincoln Rackhouse,unknown,39.05856287562289,-76.9643217094945,MD,Montgomery County,46.13311638154868,estimated from floor area,,im3,73,,,,building,146301.0,False,-1,im3
+CyrusOne Cincinnati-Lebanon,,unknown,39.389018744445785,-84.22187533686325,OH,Warren County,62.56244789474032,estimated from floor area,,im3,74,,,,building,198403.0,False,-1,im3
+Equinix NY7 Data Center,Equinix,unknown,40.79686366512243,-74.03114084308724,NJ,Hudson County,21.64741484742632,estimated from floor area,,im3,75,,,,building,68650.0,False,-1,im3
+Equinix SV4,Equinix,unknown,37.41456431406775,-122.01457953832228,CA,Santa Clara County,38.586635214343936,estimated from floor area,,im3,76,,,,building,122369.0,False,-1,im3
+H5 Data Centers San Antonio,H5 Data Centers,unknown,29.429371203549056,-98.4869063933119,TX,Bexar County,6.589769489898254,estimated from floor area,,im3,77,,,,building,20898.0,False,-1,im3
+Aureon,,unknown,41.58799896569892,-93.63100934776038,IA,Polk County,3.5484101861338435,estimated from floor area,,im3,78,,,,building,11253.0,False,-1,im3
+,,unknown,35.588012637841835,-81.26252687782907,NC,Catawba County,177.9729677307663,estimated from floor area,,im3,79,,,,building,564402.0,False,-1,im3
+Digital Realty New York HVN10,Digital Realty,unknown,41.24084597137587,-73.14729941546844,CT,Greater Bridgeport Planning Region,42.56389440546685,estimated from floor area,,im3,80,,,,building,134982.0,False,-1,im3
+Lincoln Rackhouse,,unknown,41.77216480463177,-88.21709086831733,IL,DuPage County,22.11189615944757,estimated from floor area,,im3,81,,,,building,70123.0,False,-1,im3
+Digital Realty CH1,Digital Realty,unknown,41.9942374288397,-87.96217216116061,IL,Cook County,148.1282302850342,estimated from floor area,,im3,82,,,,building,469756.0,False,-1,im3
+H5 Minneapolis,H5,unknown,44.97225309779238,-93.14746015507276,MN,Ramsey County,34.11903763884013,estimated from floor area,,im3,83,,,,building,108201.0,False,-1,im3
+Iron Mountain Records Storage,,unknown,33.42038002636909,-112.04132578020344,AZ,Maricopa County,45.9852265408576,estimated from floor area,,im3,84,,,,building,145832.0,False,-1,im3
+Equinix SV8,Equinix,unknown,37.44589521919974,-122.16078171336196,CA,Santa Clara County,3.794683033851832,estimated from floor area,,im3,85,,,,building,12034.0,False,-1,im3
+NCSA Petascale Computing Facility,,unknown,40.09525910728646,-88.24203140069088,IL,Champaign County,14.385361476177547,estimated from floor area,,im3,86,,,,building,45620.0,False,-1,im3
+LexisNexus Springfield,,unknown,39.912780083635845,-83.72376141562717,OH,Clark County,25.206546258684885,estimated from floor area,,im3,87,,,,building,79937.0,False,-1,im3
+Digital Realty ORD11,Digital Realty,unknown,41.87429345515449,-87.6299544230129,IL,Cook County,2.866981730412237,estimated from floor area,,im3,88,,,,building,9092.0,False,-1,im3
+Lumen,Lumen Technologies,unknown,33.49433566334995,-112.0707857401212,AZ,Maricopa County,8.0270443169131,estimated from floor area,,im3,89,,,,building,25456.0,False,-1,im3
+L3Harris Technologies Inc,,unknown,33.30535847275577,-111.67170400659428,AZ,Maricopa County,4.5625119508727074,estimated from floor area,,im3,90,,,,building,14469.0,False,-1,im3
+AZ Labs,,unknown,33.30627197658142,-111.67170030901956,AZ,Maricopa County,9.97231601674956,estimated from floor area,,im3,91,,,,building,31625.0,False,-1,im3
+Serverfarm CH1,Serverfarm,unknown,41.87094383200688,-87.64014138667577,IL,Cook County,17.790611773881214,estimated from floor area,,im3,92,,,,building,56419.0,False,-1,im3
+,,unknown,38.91370196268696,-77.2258381321817,VA,Fairfax County,6.173533690938274,estimated from floor area,,im3,94,,,,building,19578.0,False,-1,im3
+Lakeside Technology Center,,unknown,41.85365260504632,-87.6183592533761,IL,Cook County,40.726780947329836,estimated from floor area,,im3,95,,,,building,129156.0,False,-1,im3
+Flexential Phoenix - Deer Valley,Flexential,unknown,33.68467413549308,-112.09835688433344,AZ,Maricopa County,34.69356917346519,estimated from floor area,,im3,96,,,,building,110023.0,False,-1,im3
+Equinix SV5,Equinix,unknown,37.24204046852016,-121.7818392792948,CA,Santa Clara County,52.44381868805332,estimated from floor area,,im3,97,,,,building,166314.0,False,-1,im3
+"Union Pacific Jack Koraleski Technology, Research & Development Center",Union Pacific Railroad,unknown,41.31800464175668,-96.05034469682974,NE,Douglas County,17.149545577452695,estimated from floor area,,im3,98,,,,building,54386.0,False,-1,im3
+DataBank Pittsburgh PIT2,,unknown,40.4513685262094,-80.1901183810463,PA,Allegheny County,18.92201635469062,estimated from floor area,,im3,99,,,,building,60007.0,False,-1,im3
+Molina Healthcare,,unknown,34.99544591950108,-106.61803444531762,NM,Bernalillo County,8.062361293794552,estimated from floor area,,im3,100,,,,building,25568.0,False,-1,im3
+,,unknown,39.377776311443,-77.41151850611422,MD,Frederick County,20.18838224001129,estimated from floor area,,im3,104,,,,building,64023.0,False,-1,im3
+Verizon Wireline Network Building,,unknown,40.49490313172346,-74.44309493368364,NJ,Middlesex County,10.168451370501915,estimated from floor area,,im3,105,,,,building,32247.0,False,-1,im3
+RagingWire CA3,NTT,unknown,38.64423935185345,-121.49876273285923,CA,Sacramento County,47.730263594982254,estimated from floor area,,im3,106,,,,building,151366.0,False,-1,im3
+,,unknown,41.22148561735031,-95.86382197433596,IA,Pottawattamie County,71.81108121557082,estimated from floor area,,im3,107,,,,building,227733.0,False,-1,im3
+360 Spear Street Data Center,Digital Realty,unknown,37.788991656058194,-122.390136684847,CA,San Francisco County,10.910107885012426,estimated from floor area,,im3,108,,,,building,34599.0,False,-1,im3
+Centersquare NYC3 Data Center,Centersquare,unknown,40.786164392038,-74.06918218107636,NJ,Hudson County,45.143610368566556,estimated from floor area,,im3,113,,,,building,143163.0,False,-1,im3
+QTS Sacramento,Quality Technology Services,unknown,38.64634932685158,-121.48622274444377,CA,Sacramento County,28.441518274995833,estimated from floor area,,im3,114,,,,building,90196.0,False,-1,im3
+,,unknown,39.2906006524332,-94.67586457208311,MO,Platte County,18.629074644664996,estimated from floor area,,im3,115,,,,building,59078.0,False,-1,im3
+,,unknown,39.29565786992253,-94.67347189936218,MO,Platte County,75.71739112278011,estimated from floor area,,im3,116,,,,building,240121.0,False,-1,im3
+Black Rock Financial Management,,unknown,39.295491746601805,-94.67802527416188,MO,Platte County,25.234295311948884,estimated from floor area,,im3,117,,,,building,80025.0,False,-1,im3
+,,unknown,39.30240570006526,-94.68479180000348,MO,Platte County,16.125983908192016,estimated from floor area,,im3,118,,,,building,51140.0,False,-1,im3
+Cherokee Data Center,,unknown,36.262546063389934,-95.9100313251996,OK,Tulsa County,130.80746043573657,estimated from floor area,,im3,119,,,,building,414827.0,False,-1,im3
+Xfinity/Comcast Data Center,,unknown,39.58830727917688,-104.83243481918149,CO,Arapahoe County,16.18841927803601,estimated from floor area,,im3,121,,,,building,51338.0,False,-1,im3
+IU Data Center,Indiana University,unknown,39.17441904078126,-86.50070264503239,IN,Monroe County,29.735002553279053,estimated from floor area,,im3,122,,,,building,94298.0,False,-1,im3
+IO Datacenter,,unknown,40.52090133887192,-74.34731684357497,NJ,Middlesex County,261.6950147297579,estimated from floor area,,im3,123,,,,building,829908.0,False,-1,im3
+DataBank Piscataway EWR2,,unknown,40.54921344851484,-74.45820961832148,NJ,Middlesex County,15.970210813732749,estimated from floor area,,im3,124,,,,building,50646.0,False,-1,im3
+Optimum,,unknown,40.54682624136092,-74.49202896228643,NJ,Middlesex County,21.482181848445233,estimated from floor area,,im3,125,,,,building,68126.0,False,-1,im3
+Equinix,Equinix,unknown,40.544881931883474,-74.49538057530053,NJ,Middlesex County,19.654843624980767,estimated from floor area,,im3,126,,,,building,62331.0,False,-1,im3
+Barclays Datacenter,Barclays,unknown,40.5472442650833,-74.45973725576991,NJ,Middlesex County,111.08639747910308,estimated from floor area,,im3,127,,,,building,352286.0,False,-1,im3
+Digital Realty New York EWR12,Digital Realty,unknown,40.5529045023767,-74.45930065392976,NJ,Middlesex County,95.48039298946033,estimated from floor area,,im3,128,,,,building,302795.0,False,-1,im3
+Digital Realty New York EWR11,Digital Realty,unknown,40.55377882278532,-74.4571794816788,NJ,Middlesex County,30.307642106999754,estimated from floor area,,im3,129,,,,building,96114.0,False,-1,im3
+Intergate Seattle East Building 2,,unknown,47.49503090192437,-122.29056964991396,WA,King County,33.840916445898685,estimated from floor area,,im3,130,,,,building,107319.0,False,-1,im3
+Intergate Seattle East Building 1,Sabey,unknown,47.49485963017309,-122.28819434180774,WA,King County,30.858839210471,estimated from floor area,,im3,131,,,,building,97862.0,False,-1,im3
+Equinix SV15,Equinix,unknown,37.3754951498238,-121.98840629999836,CA,Santa Clara County,12.049080389439286,estimated from floor area,,im3,132,,,,building,38211.0,False,-1,im3
+Equinix SV16,Equinix,unknown,37.37611802320719,-121.98868795324002,CA,Santa Clara County,8.308003481211086,estimated from floor area,,im3,133,,,,building,26347.0,False,-1,im3
+Equinix SV17,Equinix,unknown,37.37652899594956,-121.98858391314208,CA,Santa Clara County,13.357385184806683,estimated from floor area,,im3,134,,,,building,42360.0,False,-1,im3
+Equinix SV14,Equinix,unknown,37.37496213850432,-121.98850932446408,CA,Santa Clara County,6.373768336650081,estimated from floor area,,im3,135,,,,building,20213.0,False,-1,im3
+CoreSite SV4,CoreSite,unknown,37.37626310504029,-121.97068417339612,CA,Santa Clara County,16.374464066965096,estimated from floor area,,im3,136,,,,building,51928.0,False,-1,im3
+Lumen Santa Clara,Lumen Technologies,unknown,37.37700481451302,-121.952081932971,CA,Santa Clara County,8.016953752089828,estimated from floor area,,im3,137,,,,building,25424.0,False,-1,im3
+Prime Santa Clara,Prime,unknown,37.37501721660046,-121.95324973327962,CA,Santa Clara County,9.480400981615036,estimated from floor area,,im3,138,,,,building,30065.0,False,-1,im3
+Digital Realty Silicon Valley SJC10,Digital Realty,unknown,37.37582290579368,-121.95333535904548,CA,Santa Clara County,17.989900429140842,estimated from floor area,,im3,139,,,,building,57051.0,False,-1,im3
+Colovore,,unknown,37.37672946683328,-121.95314883048796,CA,Santa Clara County,7.618691771721299,estimated from floor area,,im3,140,,,,building,24161.0,False,-1,im3
+Digital Realty Silicon Valley SJC30,Digital Realty,unknown,37.37828897395487,-121.95810528697965,CA,Santa Clara County,15.305810186150415,estimated from floor area,,im3,141,,,,building,48539.0,False,-1,im3
+Digital Realty Silicon Valley SJC15,Digital Realty,unknown,37.374996550088426,-121.95407689999966,CA,Santa Clara County,7.761851660151476,estimated from floor area,,im3,142,,,,building,24615.0,False,-1,im3
+Digital Realty Silicon Valley SJC16,Digital Realty,unknown,37.374929097082685,-121.9559861698452,CA,Santa Clara County,13.402792726511407,estimated from floor area,,im3,143,,,,building,42504.0,False,-1,im3
+Digital Realty Silicon Valley SJC29,Digital Realty,unknown,37.37502320043753,-121.95809620000126,CA,Santa Clara County,12.703705782349076,estimated from floor area,,im3,144,,,,building,40287.0,False,-1,im3
+Csquare SFO4,Csquare,unknown,37.37577706129449,-121.9551929871648,CA,Santa Clara County,8.604098492743985,estimated from floor area,,im3,145,,,,building,27286.0,False,-1,im3
+Prime SANTA CLARA DATA CENTER,Prime,unknown,37.37502630609213,-121.95488070140485,CA,Santa Clara County,8.14340114253146,estimated from floor area,,im3,146,,,,building,25825.0,False,-1,im3
+Digital Realty Silicon Valley SJC11,Digital Realty,unknown,37.3763410080539,-121.94853104740696,CA,Santa Clara County,13.883040546069022,estimated from floor area,,im3,147,,,,building,44027.0,False,-1,im3
+Lumen,Lumen Technologies,unknown,37.37758479573238,-121.95068207526988,CA,Santa Clara County,4.99482958751978,estimated from floor area,,im3,148,,,,building,15840.0,False,-1,im3
+Silicon Valley SJC31,Digital Realty,unknown,37.37224989820432,-121.9483289304616,CA,Santa Clara County,46.226454106163956,estimated from floor area,,im3,149,,,,building,146597.0,False,-1,im3
+,,unknown,37.37977911163557,-121.9499100438154,CA,Santa Clara County,5.94838796331901,estimated from floor area,,im3,150,,,,building,18864.0,False,-1,im3
+Evocative Santa Clara SJC11,,unknown,37.389539602058925,-121.9619460438575,CA,Santa Clara County,16.213645690094193,estimated from floor area,,im3,151,,,,building,51418.0,False,-1,im3
+QTS Chicago,Quality Technology Services,unknown,41.84218652884067,-87.66900814712955,IL,Cook County,84.22846722105956,estimated from floor area,,im3,152,,,,building,267112.0,False,-1,im3
+Iron Mountain Data & Record Storage,Iron Mountain,unknown,41.84879669155961,-87.64550983406528,IL,Cook County,33.43540187206343,estimated from floor area,,im3,153,,,,building,106033.0,False,-1,im3
+Data Storage Centers,,unknown,33.42169287468072,-112.03430310768364,AZ,Maricopa County,12.016916714065104,estimated from floor area,,im3,154,,,,building,38109.0,False,-1,im3
+,TierPoint,unknown,42.68570898649228,-71.20859932011268,MA,Essex County,16.193464560447648,estimated from floor area,,im3,155,,,,building,51354.0,False,-1,im3
+Markley Data Center,Markley Group,unknown,42.6302619946922,-71.30442370850213,MA,Middlesex County,38.99530308968646,estimated from floor area,,im3,156,,,,building,123665.0,False,-1,im3
+Flexential Charlotte - South,Flexential,unknown,35.13543064967395,-80.93687158006364,NC,Mecklenburg County,10.63955461568844,estimated from floor area,,im3,157,,,,building,33741.0,False,-1,im3
+Digital Realty Data Center,Digital Realty,unknown,33.344648208315185,-111.899226799974,AZ,Maricopa County,21.306227624339424,estimated from floor area,,im3,158,,,,building,67568.0,False,-1,im3
+,Comcast,unknown,47.69332367380439,-122.31731718771368,WA,King County,2.5305244595862515,estimated from floor area,,im3,159,,,,building,8025.0,False,-1,im3
+CTI Biopharma,,unknown,47.6177878057982,-122.35669303335187,WA,King County,6.495801104981531,estimated from floor area,,im3,162,,,,building,20600.0,False,-1,im3
+Westin Building,Digital Realty,unknown,47.61435537680634,-122.3388642251616,WA,King County,4.136185587089454,estimated from floor area,,im3,163,,,,building,13117.0,False,-1,im3
+Dell 350 Holger Way,,unknown,37.418407037850685,-121.9430846177997,CA,Santa Clara County,14.278779885231733,estimated from floor area,,im3,165,,,,building,45282.0,False,-1,im3
+SV Colo,SV Colo,unknown,37.36431021578032,-121.9587992678193,CA,Santa Clara County,18.19738766831938,estimated from floor area,,im3,166,,,,building,57709.0,False,-1,im3
+Microsoft,Microsoft,unknown,37.3620662092011,-121.94643635591544,CA,Santa Clara County,52.551346269451315,estimated from floor area,,im3,167,,,,building,166655.0,False,-1,im3
+NCAR-Wyoming Supercomputing Center,University Corporation for Atmospheric Research,unknown,41.12879048730292,-104.89748679471974,WY,Laramie County,31.889022812896954,estimated from floor area,,im3,169,,,,building,101129.0,False,-1,im3
+The Seattle Times,H5 Data Centers,unknown,47.61898482839781,-122.33646162358502,WA,King County,15.321576693686778,estimated from floor area,,im3,170,,,,building,48589.0,False,-1,im3
+Segra Data Center,,unknown,35.7249920936468,-78.66236321040674,NC,Wake County,14.549648484706449,estimated from floor area,,im3,172,,,,building,46141.0,False,-1,im3
+TierPoint Sioux Falls West Data Center,,unknown,43.60697077791878,-96.80919489840308,SD,Minnehaha County,17.646821225149584,estimated from floor area,,im3,175,,,,building,55963.0,False,-1,im3
+eBay,,unknown,40.5637493311281,-112.04772494385752,UT,Salt Lake County,57.75807771825981,estimated from floor area,,im3,178,,,,building,183167.0,False,-1,im3
+Equinix Chicago Data CH7,Equinix,unknown,41.812557111453394,-87.9728434935898,IL,DuPage County,14.926468014825524,estimated from floor area,,im3,179,,,,building,47336.0,False,-1,im3
+PhoenixNAP,,unknown,33.41605053769886,-112.0094263246897,AZ,Maricopa County,24.981400531065624,estimated from floor area,,im3,180,,,,building,79223.0,False,-1,im3
+Merrill Lynch Data Center,Merrill Lynch,unknown,40.60738024218361,-74.17317970568563,NY,Richmond County,20.002968111383662,estimated from floor area,,im3,181,,,,building,63435.0,False,-1,im3
+Telehouse Teleport,Telehouse,unknown,40.606985209666014,-74.17488651961352,NY,Richmond County,22.07279522075739,estimated from floor area,,im3,182,,,,building,69999.0,False,-1,im3
+32 Avenue of the Americas,,unknown,40.719998478665225,-74.00463586981833,NY,New York County,13.368737070232864,estimated from floor area,,im3,183,,,,building,42396.0,False,-1,im3
+TierPoint,,unknown,38.62976100794761,-90.1964202669285,MO,St. Louis city,7.580221493332575,estimated from floor area,,im3,185,,,,building,24039.0,False,-1,im3
+,,unknown,29.44667420261524,-98.64069026748368,TX,Bexar County,40.22446001722132,estimated from floor area,,im3,187,,,,building,127563.0,False,-1,im3
+,,unknown,29.44792213625347,-98.64112862038242,TX,Bexar County,45.00139647058856,estimated from floor area,,im3,188,,,,building,142712.0,False,-1,im3
+,,unknown,29.447199009365736,-98.64099341797508,TX,Bexar County,11.356300048291498,estimated from floor area,,im3,189,,,,building,36014.0,False,-1,im3
+,,unknown,33.09599431363361,-96.68156543918737,TX,Collin County,38.36464278823194,estimated from floor area,,im3,190,,,,building,121665.0,False,-1,im3
+Evoque Allen DA1,Centersquare,unknown,33.09506355613131,-96.68376373847305,TX,Collin County,36.11602348339586,estimated from floor area,,im3,191,,,,building,114534.0,False,-1,im3
+,,unknown,38.75081659536996,-77.19627275728058,VA,Fairfax County,17.67393961811213,estimated from floor area,,im3,199,,,,building,56049.0,False,-1,im3
+Cox Data Center,,unknown,34.03620188757935,-84.31955321505815,GA,Fulton County,40.31748241168585,estimated from floor area,,im3,200,,,,building,127858.0,False,-1,im3
+QTS Atlanta Data Center 1,Quality Technology Services,unknown,33.7776811736858,-84.42109985598158,GA,Fulton County,226.95446136383435,estimated from floor area,,im3,201,,,,building,719736.0,False,-1,im3
+Csquare SFO3,Csquare,unknown,37.372103697929965,-121.98603139645,CA,Santa Clara County,22.45434470313737,estimated from floor area,,im3,202,,,,building,71209.0,False,-1,im3
+Digital Realty Data Center,Digital Realty,unknown,33.65703230386123,-84.41520253319351,GA,Fulton County,40.60979346141003,estimated from floor area,,im3,207,,,,building,128785.0,False,-1,im3
+Cyxtera (Digital Realty Trust) Citibank Data Center,Cyxtera,unknown,40.76076492901499,-74.02575833881977,NJ,Hudson County,18.401406275839914,estimated from floor area,,im3,208,,,,building,58356.0,False,-1,im3
+Digital Realty New Jersey EWR10,Digital Realty,unknown,40.76183107982837,-74.0250249144998,NJ,Hudson County,40.034315936332774,estimated from floor area,,im3,209,,,,building,126960.0,False,-1,im3
+,,unknown,47.24621227884292,-119.81322935255956,WA,Grant County,47.922614986925886,estimated from floor area,,im3,210,,,,building,151976.0,False,-1,im3
+,,unknown,47.24765247479226,-119.81318678101924,WA,Grant County,42.05337489143942,estimated from floor area,,im3,211,,,,building,133363.0,False,-1,im3
+,,unknown,47.24616793078344,-119.81575602489733,WA,Grant County,42.667322694905394,estimated from floor area,,im3,212,,,,building,135310.0,False,-1,im3
+,,unknown,47.2525738060569,-119.81966487505578,WA,Grant County,77.81654393617147,estimated from floor area,,im3,215,,,,building,246778.0,False,-1,im3
+,,unknown,47.24673555311077,-119.82886591661293,WA,Grant County,47.68201808192098,estimated from floor area,,im3,217,,,,building,151213.0,False,-1,im3
+,,unknown,47.2459914143102,-119.8297911817926,WA,Grant County,11.303955243270773,estimated from floor area,,im3,218,,,,building,35848.0,False,-1,im3
+,,unknown,47.24598939949083,-119.8291703,WA,Grant County,11.328235664876772,estimated from floor area,,im3,219,,,,building,35925.0,False,-1,im3
+,,unknown,47.24598937431324,-119.82815880653992,WA,Grant County,10.665727018198801,estimated from floor area,,im3,220,,,,building,33824.0,False,-1,im3
+,,unknown,47.24600329947973,-119.82754149992972,WA,Grant County,10.622842117699895,estimated from floor area,,im3,221,,,,building,33688.0,False,-1,im3
+,,unknown,47.24606673682079,-119.82866158737184,WA,Grant County,6.0123999839166435,estimated from floor area,,im3,222,,,,building,19067.0,False,-1,im3
+DataSite Atlanta,datasite,unknown,33.92551125989177,-84.48161598883719,GA,Cobb County,24.48853950547892,estimated from floor area,,im3,224,,,,building,77660.0,False,-1,im3
+,,unknown,39.290121050497966,-94.68505095083452,MO,Platte County,9.750954250939024,estimated from floor area,,im3,225,,,,building,30923.0,False,-1,im3
+Digital Realty San Francisco SFO10,Digital Realty,unknown,37.7236016950597,-122.39793596994734,CA,San Francisco County,33.06772691631545,estimated from floor area,,im3,226,,,,building,104867.0,False,-1,im3
+33 Thomas Street,,unknown,40.7165249817088,-74.0059130609563,NY,New York County,9.709330671043025,estimated from floor area,,im3,227,,,,building,30791.0,False,-1,im3
+VentureData,,unknown,43.8252432321768,-111.78209278694165,ID,Madison County,5.760766523636291,estimated from floor area,,im3,228,,,,building,18269.0,False,-1,im3
+Cogent Data Center,"Cogent Communications, Inc.",unknown,33.400255234990105,-112.04789988122732,AZ,Maricopa County,16.294685538831096,estimated from floor area,,im3,229,,,,building,51675.0,False,-1,im3
+CoreSpace Dallas,CoreSpace,unknown,32.81755909182154,-96.87306493151615,TX,Dallas County,9.972631346900288,estimated from floor area,,im3,230,,,,building,31626.0,False,-1,im3
+,,unknown,39.59013144249605,-104.8469632823158,CO,Arapahoe County,34.20480743983794,estimated from floor area,,im3,231,,,,building,108473.0,False,-1,im3
+zColo by Zayo,,unknown,39.591351747526645,-104.84703864109652,CO,Arapahoe County,19.606282781768773,estimated from floor area,,im3,232,,,,building,62177.0,False,-1,im3
+Intergate Seattle East Building 5,Sabey,unknown,47.49191977023952,-122.28973615206532,WA,King County,63.10513108414194,estimated from floor area,,im3,233,,,,building,200124.0,False,-1,im3
+Intergate Seattle East Building 3,Sabey,unknown,47.493556238112845,-122.29030164481166,WA,King County,64.13405336596499,estimated from floor area,,im3,234,,,,building,203387.0,False,-1,im3
+Intergate Seattle East Building 4,Digital Realty,unknown,47.49341087440766,-122.28885825770004,WA,King County,36.83939084916419,estimated from floor area,,im3,235,,,,building,116828.0,False,-1,im3
+Flexential Allentown data center,Flexential,unknown,40.635695315852814,-75.45757328328773,PA,Lehigh County,15.449600734882043,estimated from floor area,,im3,236,,,,building,48995.0,False,-1,im3
+CoreSite SV2,"CoreSite Real Estate 1656 McCarthy, L.P.",unknown,37.40568310648504,-121.91624119521208,CA,Santa Clara County,28.36047842625893,estimated from floor area,,im3,243,,,,building,89939.0,False,-1,im3
+CyrusOne PHX1,CyrusOne,unknown,33.27085532906607,-111.88191152923802,AZ,Maricopa County,43.312172853142634,estimated from floor area,,im3,254,,,,building,137355.0,False,-1,im3
+Apple Data Center,Apple Inc.,unknown,33.34701915860399,-111.60405623426205,AZ,Maricopa County,421.99404284241206,estimated from floor area,,im3,263,,,,building,1338261.0,False,-1,im3
+VISA,VISA,unknown,42.216756536018735,-87.95284650862307,IL,Lake County,17.34347362014996,estimated from floor area,,im3,264,,,,building,55001.0,False,-1,im3
+John F. Simms Building,SONM,unknown,35.67244389730999,-105.95657515744648,NM,Santa Fe County,10.00447969212374,estimated from floor area,,im3,265,,,,building,31727.0,False,-1,im3
+Lumen San Antonio 2,Lumen Technologies,unknown,29.438279094436894,-98.50652172672936,TX,Bexar County,4.0116301775521865,estimated from floor area,,im3,266,,,,building,12722.0,False,-1,im3
+,,unknown,44.29588334105515,-120.88726144669496,OR,Crook County,85.02625250239952,estimated from floor area,,im3,267,,,,building,269642.0,False,-1,im3
+Adobe Data Center,,unknown,45.55018168886831,-122.93181213080427,OR,Washington County,28.13754000969476,estimated from floor area,,im3,268,,,,building,89232.0,False,-1,im3
+Stack Infrastructure Portland 2 Data Center,,unknown,45.547311791366376,-122.89744896301694,OR,Washington County,67.86440904906846,estimated from floor area,,im3,269,,,,building,215217.0,False,-1,im3
+Digital Realty PDX10 Data Center,Digital Realty,unknown,45.54761722382477,-122.89195798239216,OR,Washington County,21.696921681090494,estimated from floor area,,im3,270,,,,building,68807.0,False,-1,im3
+Flexential,Flexential,unknown,45.5498209002179,-122.8908514025637,OR,Washington County,13.005792066745789,estimated from floor area,,im3,271,,,,building,41245.0,False,-1,im3
+Flexential Portland - Hillsboro 1,Flexential,unknown,45.55033398642741,-122.89220172053012,OR,Washington County,13.902275685263387,estimated from floor area,,im3,272,,,,building,44088.0,False,-1,im3
+Flexential Louisville - East,Flexential,unknown,38.277197827679295,-85.50724111669626,KY,Jefferson County,10.971597264404242,estimated from floor area,,im3,273,,,,building,34794.0,False,-1,im3
+Flexential Louisville - Downtown,Flexential,unknown,38.24249601378566,-85.73335104065765,KY,Jefferson County,11.517433755313128,estimated from floor area,,im3,274,,,,building,36525.0,False,-1,im3
+Terminal Commerce Building,,unknown,39.95980952635984,-75.16083249176855,PA,Philadelphia County,37.73209050587306,estimated from floor area,,im3,275,,,,building,119659.0,False,-1,im3
+TierPoint,,unknown,47.671916867147694,-117.09593477622664,WA,Spokane County,4.55179072574798,estimated from floor area,,im3,276,,,,building,14435.0,False,-1,im3
+Baltimore Technology Park,,unknown,39.27538391165092,-76.62552663391303,MD,Baltimore city,9.501212771563035,estimated from floor area,,im3,277,,,,building,30131.0,False,-1,im3
+Intergate Seattle West Building C,Sabey,unknown,47.49413118771306,-122.29440690516354,WA,King County,6.240699013043178,estimated from floor area,,im3,278,,,,building,19791.0,False,-1,im3
+Intergate Seattle West Building B,Sabey,unknown,47.49307629033907,-122.29368392327882,WA,King County,6.035419084919734,estimated from floor area,,im3,279,,,,building,19140.0,False,-1,im3
+Intergate Seattle West Building A,Sabey,unknown,47.49214782871073,-122.293319807759,WA,King County,12.155031320083644,estimated from floor area,,im3,280,,,,building,38547.0,False,-1,im3
+Vantage WA11,,unknown,47.25016454994511,-119.81449029306091,WA,Grant County,46.48912412171977,estimated from floor area,,im3,281,,,,building,147430.0,False,-1,im3
+NTT Data Quincy,NTT,unknown,47.24358751309279,-119.86571157127666,WA,Grant County,31.457335836551337,estimated from floor area,,im3,282,,,,building,99760.0,False,-1,im3
+,,unknown,47.23881859630125,-119.85935927491568,WA,Grant County,13.989622137014837,estimated from floor area,,im3,283,,,,building,44365.0,False,-1,im3
+,,unknown,47.23826232566218,-119.85936632665342,WA,Grant County,10.123989819249372,estimated from floor area,,im3,284,,,,building,32106.0,False,-1,im3
+Geneseo Communications Inc,,unknown,41.55026944582376,-90.482409225225,IA,Scott County,17.02246752670961,estimated from floor area,,im3,285,,,,building,53983.0,False,-1,im3
+,,unknown,41.90535458903981,-88.21951394141162,IL,DuPage County,4.588053693081616,estimated from floor area,,im3,286,,,,building,14550.0,False,-1,im3
+,,unknown,40.5528187281629,-74.45667583889342,NJ,Middlesex County,19.318071024004055,estimated from floor area,,im3,287,,,,building,61263.0,False,-1,im3
+,Verizon Wireless,unknown,39.71718414793671,-85.94132960161893,IN,Hancock County,6.623509816026071,estimated from floor area,,im3,288,,,,building,21005.0,False,-1,im3
+,,unknown,40.78473886879808,-74.06435818266343,NJ,Hudson County,10.866907654362793,estimated from floor area,,im3,289,,,,building,34462.0,False,-1,im3
+Flexential Salt Lake City - South Valley,Flexential,unknown,40.62035188350187,-111.9860469169242,UT,Salt Lake County,9.632390114265576,estimated from floor area,,im3,290,,,,building,30547.0,False,-1,im3
+Digital Realty Silicon Valley SC1,Digital Realty,unknown,37.36168658658687,-121.94391134202756,CA,Santa Clara County,93.9519877488853,estimated from floor area,,im3,291,,,,building,297948.0,False,-1,im3
+QES Computers,,unknown,37.699475300043446,-121.90379949999844,CA,Alameda County,0.2967256718343505,estimated from floor area,,im3,292,,,,building,941.0,False,-1,im3
+Equinix SE3 Data Center,Equinix,unknown,47.61442272967249,-122.33974344575807,WA,King County,3.9652766453952792,estimated from floor area,,im3,293,,,,building,12575.0,False,-1,im3
+QTS Piscataway Data Center,Quality Technology Services,unknown,40.55696486399719,-74.48400692707673,NJ,Middlesex County,108.29824828637268,estimated from floor area,,im3,294,,,,building,343444.0,False,-1,im3
+AiNET,,unknown,39.052822508078144,-76.92590821703205,MD,Prince George's County,13.577170299863582,estimated from floor area,,im3,295,,,,building,43057.0,False,-1,im3
+Microsoft,Microsoft,unknown,29.478216376231007,-98.69072125219772,TX,Bexar County,81.41540694642168,estimated from floor area,,im3,296,,,,building,258191.0,False,-1,im3
+Microsoft San Antonio,Microsoft,unknown,29.479925996060736,-98.6926080915504,TX,Bexar County,150.9302540043966,estimated from floor area,,im3,297,,,,building,478642.0,False,-1,im3
+Microsoft,Microsoft,unknown,29.48106634167372,-98.69655923476324,TX,Bexar County,61.46289165915438,estimated from floor area,,im3,298,,,,building,194916.0,False,-1,im3
+,Claro,unknown,18.446826968330527,-66.0516872147712,PR,San Juan Municipio,7.295793697376587,estimated from floor area,,im3,299,,,,building,23137.0,False,-1,im3
+Lumen Norristown,Lumen Technologies,unknown,40.1270582669318,-75.40863781443159,PA,Montgomery County,10.791859078489704,estimated from floor area,,im3,300,,,,building,34224.0,False,-1,im3
+Pittock Block,,unknown,45.52154358199719,-122.68070403612808,OR,Multnomah County,13.103859743621967,estimated from floor area,,im3,303,,,,building,41556.0,False,-1,im3
+Data Center,Oregon Health & Science University,unknown,45.52668379341888,-122.87550380152314,OR,Washington County,7.976906822947466,estimated from floor area,,im3,304,,,,building,25297.0,False,-1,im3
+,,unknown,44.29489361961425,-120.8839983863009,OR,Crook County,73.1029888431004,estimated from floor area,,im3,306,,,,building,231830.0,False,-1,im3
+CSSNW Bellingham,CSS Communications,unknown,48.75726819331372,-122.480547528078,WA,Whatcom County,1.3597036099359399,estimated from floor area,,im3,307,,,,building,4312.0,False,-1,im3
+Element Critical CH2,Element Critical,unknown,41.97422731222964,-87.9671757623118,IL,DuPage County,13.987414825959746,estimated from floor area,,im3,310,,,,building,44358.0,False,-1,im3
+Centersquare Elk Grove Village Data Center Campus ORD2,Centersquare,unknown,41.99204041535668,-87.95817200961845,IL,DuPage County,62.53722148268215,estimated from floor area,,im3,311,,,,building,198323.0,False,-1,im3
+Flexential Denver - Englewood,Flexential,unknown,39.55897087407264,-104.83755343632713,CO,Douglas County,62.678804720358684,estimated from floor area,,im3,312,,,,building,198772.0,False,-1,im3
+EdgeConneX Detroit DET01,EdgeConneX,unknown,42.4476969142348,-83.26266713633784,MI,Oakland County,12.794205535607798,estimated from floor area,,im3,313,,,,building,40574.0,False,-1,im3
+Lumen Austin 3,Lumen Technologies,unknown,30.261396172131168,-97.72359737399287,TX,Travis County,1.5980932038857474,estimated from floor area,,im3,314,,,,building,5068.0,False,-1,im3
+Alpheus DataCenter,Alpheus,unknown,30.261043226760545,-97.72210231000722,TX,Travis County,11.379949809596043,estimated from floor area,,im3,315,,,,building,36089.0,False,-1,im3
+Digital Realty Austin AUS11,,unknown,30.21217551197644,-97.6957806400088,TX,Travis County,25.221682105919793,estimated from floor area,,im3,316,,,,building,79985.0,False,-1,im3
+LightEdge Austin II,,unknown,30.20067632042548,-97.7070441537442,TX,Travis County,27.258714879617884,estimated from floor area,,im3,317,,,,building,86445.0,False,-1,im3
+CyrusOne Austin Data Center II,,unknown,30.205929677925745,-97.69796494527762,TX,Travis County,24.39267913965783,estimated from floor area,,im3,318,,,,building,77356.0,False,-1,im3
+Data Foundry Austin 1 Data Center,,unknown,30.215503976280196,-97.69607393452048,TX,Travis County,15.911874735848206,estimated from floor area,,im3,319,,,,building,50461.0,False,-1,im3
+LightEdge Austin I,,unknown,30.21429715095225,-97.7126675657396,TX,Travis County,9.736133733854842,estimated from floor area,,im3,321,,,,building,30876.0,False,-1,im3
+Skybox Chicago I,Skybox,unknown,41.99366849754896,-87.9735185179455,IL,Cook County,55.04876106321121,estimated from floor area,,im3,322,,,,building,174575.0,False,-1,im3
+Hurricane Electric Fremont 1,Hurricane Electric,unknown,37.48986462008944,-121.93101655253416,CA,Alameda County,10.607706270464988,estimated from floor area,,im3,323,,,,building,33640.0,False,-1,im3
+Lumen Austin 1,,unknown,30.196499004972576,-97.71239983833571,TX,Travis County,23.56209952264223,estimated from floor area,,im3,325,,,,building,74722.0,False,-1,im3
+Data Foundry - Texas 1,,unknown,30.198926082371678,-97.71378843935518,TX,Travis County,43.23018701395354,estimated from floor area,,im3,326,,,,building,137095.0,False,-1,im3
+XO Fremont,XO,unknown,37.47533720746737,-121.92211346250495,CA,Alameda County,20.753453870114537,estimated from floor area,,im3,327,,,,building,65815.0,False,-1,im3
+Hurricane Electric Fremont 2,Hurricane Electric,unknown,37.471827238512944,-121.92031059714007,CA,Alameda County,57.15926576202875,estimated from floor area,,im3,328,,,,building,181268.0,False,-1,im3
+Element Critical,,unknown,30.342800020345656,-97.69617577010004,TX,Travis County,19.543532081774046,estimated from floor area,,im3,329,,,,building,61978.0,False,-1,im3
+Element Critical CH1,Element Critical,unknown,41.97576175006559,-87.96468543810447,IL,DuPage County,29.034338958363083,estimated from floor area,,im3,330,,,,building,92076.0,False,-1,im3
+165 Halsey / Equinix NY1 / Databank EWR1,Tishman,unknown,40.73672574708444,-74.17392520750958,NJ,Essex County,28.178848259440027,estimated from floor area,,im3,331,,,,building,89363.0,False,-1,im3
+QTS Suwanee Data Center 1,Quality Technology Services,unknown,34.03538969563108,-84.06107488394335,GA,Gwinnett County,97.90622783900513,estimated from floor area,,im3,332,,,,building,310488.0,False,-1,im3
+QTS Suwanee Data Center 2,Quality Technology Services,unknown,34.03709880816788,-84.0577034926908,GA,Gwinnett County,113.6383643889388,estimated from floor area,,im3,333,,,,building,360379.0,False,-1,im3
+TierPoint Little Rock,,unknown,34.75623579847398,-92.44472351005184,AR,Pulaski County,10.041688649909556,estimated from floor area,,im3,334,,,,building,31845.0,False,-1,im3
+Equinix SV6,Equinix,unknown,37.39960173949957,-122.01456250837072,CA,Santa Clara County,6.835727007465516,estimated from floor area,,im3,335,,,,building,21678.0,False,-1,im3
+Flexential Atlanta - Norcross,Flexential,unknown,33.95476871472785,-84.19856192066597,GA,Gwinnett County,10.188001839847004,estimated from floor area,,im3,336,,,,building,32309.0,False,-1,im3
+Centersquare Lynnwood SE1,Centersquare,unknown,47.84181079877673,-122.3016903104198,WA,Snohomish County,32.939387544969456,estimated from floor area,,im3,337,,,,building,104460.0,False,-1,im3
+,Apple,unknown,44.28941552511668,-120.87507749015272,OR,Crook County,2.9098666309111443,estimated from floor area,,im3,338,,,,building,9228.0,False,-1,im3
+Walmart Colorado Data Center,Walmart,unknown,38.98574620589175,-104.78726998003246,CO,El Paso County,69.22821195096385,estimated from floor area,,im3,339,,,,building,219542.0,False,-1,im3
+Verizon,,unknown,41.33832138450139,-96.0277741269746,NE,Douglas County,3.732247664007835,estimated from floor area,,im3,340,,,,building,11836.0,False,-1,im3
+Verizon,,unknown,41.33843614997797,-96.02861432583268,NE,Douglas County,27.551971919794237,estimated from floor area,,im3,341,,,,building,87375.0,False,-1,im3
+George C. Wallace Alabama Supercomputer Center,Alabama Supercomputer Authority,unknown,34.73654090277783,-86.67309882783594,AL,Madison County,4.704410518699974,estimated from floor area,,im3,342,,,,building,14919.0,False,-1,im3
+Digital Realty Chicago ORD12,Digital Realty,unknown,41.92837828612005,-87.85923594325138,IL,Cook County,28.431743040323287,estimated from floor area,,im3,343,,,,building,90165.0,False,-1,im3
+,,unknown,47.23763280547861,-119.86448737759343,WA,Grant County,11.64135850454894,estimated from floor area,,im3,344,,,,building,36918.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23947854795628,-119.88299787007462,WA,Grant County,47.69242397689498,estimated from floor area,,im3,345,,,,building,151246.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23857484529072,-119.88308360926234,WA,Grant County,46.64426655587758,estimated from floor area,,im3,346,,,,building,147922.0,False,-1,im3
+,,unknown,47.23948769629937,-119.85940592515068,WA,Grant County,14.768487609311165,estimated from floor area,,im3,347,,,,building,46835.0,False,-1,im3
+,,unknown,41.1262309898459,-104.90187602195962,WY,Laramie County,44.39217861938349,estimated from floor area,,im3,349,,,,building,140780.0,False,-1,im3
+KOMO Plaza East,,unknown,47.619324932166734,-122.34815288067006,WA,King County,14.424147084717,estimated from floor area,,im3,350,,,,building,45743.0,False,-1,im3
+KOMO Plaza West,,unknown,47.61891975961567,-122.34859631775392,WA,King County,6.381966920568991,estimated from floor area,,im3,351,,,,building,20239.0,False,-1,im3
+Fidelity,Fidelity,unknown,41.16546905416773,-96.08338762268534,NE,Sarpy County,12.838351756709615,estimated from floor area,,im3,352,,,,building,40714.0,False,-1,im3
+,Centurylink,unknown,33.91772905166227,-118.38631267027328,CA,Los Angeles County,22.546105776999003,estimated from floor area,,im3,353,,,,building,71500.0,False,-1,im3
+DRT LAX12,Digital Realty,unknown,33.9156488974591,-118.38463005026092,CA,Los Angeles County,35.73005937890569,estimated from floor area,,im3,355,,,,building,113310.0,False,-1,im3
+Google - Thornton,Google,unknown,39.92241855755477,-104.98324467111505,CO,Adams County,27.136997441437163,estimated from floor area,,im3,356,,,,building,86059.0,False,-1,im3
+DRT LAX10,,unknown,34.04732574551566,-118.25751427697324,CA,Los Angeles County,21.120498165561067,estimated from floor area,,im3,357,,,,building,66979.0,False,-1,im3
+One Wilshire,,unknown,34.04789230531704,-118.25554585155656,CA,Los Angeles County,13.827227109390298,estimated from floor area,,im3,358,,,,building,43850.0,False,-1,im3
+UF Research Computing Center,University of Florida,unknown,29.672591133291224,-82.29992999372256,FL,Alachua County,11.468557581950403,estimated from floor area,,im3,359,,,,building,36370.0,False,-1,im3
+NAP of the Americas,,unknown,25.782378977030262,-80.19307541186281,FL,Miami-Dade County,38.66735973293011,estimated from floor area,,im3,361,,,,building,122625.0,False,-1,im3
+,,unknown,25.79754440402661,-80.230033722435,FL,Miami-Dade County,5.017218028221415,estimated from floor area,,im3,362,,,,building,15911.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.540615955851,-93.82494906980826,IA,Dallas County,12.343914080369274,estimated from floor area,,im3,364,,,,building,39146.0,False,-1,im3
+Facebook Altoona Data Center 1,Meta,unknown,41.6642411277008,-93.51472775765038,IA,Polk County,99.45512953937742,estimated from floor area,,im3,365,,,,building,315400.0,False,-1,im3
+Facebook Altoona Data Center 2,Meta,unknown,41.66553719114288,-93.5081704115336,IA,Polk County,96.92302842903753,estimated from floor area,,im3,366,,,,building,307370.0,False,-1,im3
+Lumen Technologies,,unknown,33.716777907497594,-117.80580094927475,CA,Orange County,27.010550050995533,estimated from floor area,,im3,367,,,,building,85658.0,False,-1,im3
+Lumen,Lumen Technologies,unknown,47.654225584825305,-117.42000258764048,WA,Spokane County,8.009070498321647,estimated from floor area,,im3,368,,,,building,25399.0,False,-1,im3
+,,unknown,43.06728877873921,-89.43673598135521,WI,Dane County,2.893469463073327,estimated from floor area,,im3,369,,,,building,9176.0,False,-1,im3
+,,unknown,37.33363768871057,-121.88797542273252,CA,Santa Clara County,32.16493669478331,estimated from floor area,,im3,371,,,,building,102004.0,False,-1,im3
+,,unknown,40.78413403768732,-74.06556019989502,NJ,Hudson County,47.599401582430446,estimated from floor area,,im3,372,,,,building,150951.0,False,-1,im3
+Evocative Secaucus,Evocative,unknown,40.787550185315126,-74.06804834898094,NJ,Hudson County,31.944205589274226,estimated from floor area,,im3,373,,,,building,101304.0,False,-1,im3
+BT Radianz: 492 River Road,bt,unknown,40.82145355154189,-74.13418574563293,NJ,Essex County,34.01056406698995,estimated from floor area,,im3,374,,,,building,107857.0,False,-1,im3
+Time Warner Datacenter,,unknown,39.5989600863557,-104.8603774822199,CO,Arapahoe County,10.659420415184256,estimated from floor area,,im3,375,,,,building,33804.0,False,-1,im3
+Time Warner Datacenter,,unknown,39.59993080115642,-104.86018232055083,CO,Arapahoe County,19.372307809929143,estimated from floor area,,im3,376,,,,building,61435.0,False,-1,im3
+CyrusOne Austin Data Center III,,unknown,30.206993743520524,-97.7011142781365,TX,Travis County,59.88781755627172,estimated from floor area,,im3,377,,,,building,189921.0,False,-1,im3
+Apollo Cable Landing Station,Apollo,unknown,40.15704355065648,-74.10158204974093,NJ,Monmouth County,8.168312224438912,estimated from floor area,,im3,378,,,,building,25904.0,False,-1,im3
+Cable & Wireless Cable Landing Station,,unknown,40.84365992460773,-72.88334530997138,NY,Suffolk County,11.587121718623852,estimated from floor area,,im3,379,,,,building,36746.0,False,-1,im3
+,,unknown,45.91583559984652,-119.26632355,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,394,,,,building,2605.0,False,-1,im3
+,,unknown,45.915835599846574,-119.2665274,OR,Umatilla County,0.822381033096691,estimated from floor area,,im3,395,,,,building,2608.0,False,-1,im3
+,,unknown,45.91583559984652,-119.26672585,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,396,,,,building,2605.0,False,-1,im3
+,,unknown,45.91583559984655,-119.26711215,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,397,,,,building,2605.0,False,-1,im3
+,,unknown,45.91584309984662,-119.26731594999998,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,398,,,,building,2605.0,False,-1,im3
+,,unknown,45.91583189984655,-119.26751175,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,399,,,,building,2605.0,False,-1,im3
+,,unknown,45.91583559984655,-119.26771695000002,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,400,,,,building,2605.0,False,-1,im3
+Amazon PDX2,Amazon Web Services,unknown,45.91640356429687,-119.26777584933068,OR,Umatilla County,41.95562254471397,estimated from floor area,,im3,401,,,,building,133053.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.84100319369004,-119.65276874957644,OR,Morrow County,40.19923360516314,estimated from floor area,,im3,402,,,,building,127483.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.85223533738975,-119.62988821726834,OR,Morrow County,84.33567947230682,estimated from floor area,,im3,403,,,,building,267452.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.85088075126984,-119.6305237000272,OR,Morrow County,32.56099136409674,estimated from floor area,,im3,404,,,,building,103260.0,False,-1,im3
+Equinix San Jose SV3,Equinix,unknown,37.38826955704538,-121.88842909046676,CA,Santa Clara County,34.58667225236866,estimated from floor area,,im3,405,,,,building,109684.0,False,-1,im3
+365 Main Street Data Center,Digital Realty,unknown,37.78873103633594,-122.39046904827536,CA,San Francisco County,12.398150866294362,estimated from floor area,,im3,406,,,,building,39318.0,False,-1,im3
+,NTT Limited,unknown,37.40390424000007,-121.88929689106432,CA,Santa Clara County,23.728278512075494,estimated from floor area,,im3,409,,,,building,75249.0,False,-1,im3
+Csquare SFO1,Csquare,unknown,37.37043804478318,-121.96982954691394,CA,Santa Clara County,26.462821579182283,estimated from floor area,,im3,410,,,,building,83921.0,False,-1,im3
+,Vantage,unknown,37.371778697164096,-121.97250520730036,CA,Santa Clara County,23.86607778794331,estimated from floor area,,im3,411,,,,building,75686.0,False,-1,im3
+Intergate Columbia B,Sabey Data Centers,unknown,47.40716362579416,-120.1874901793035,WA,Douglas County,60.82308678332877,estimated from floor area,,im3,412,,,,building,192887.0,False,-1,im3
+Intergate Columbia A,Sabey Data Centers,unknown,47.40871425585381,-120.18929355566496,WA,Douglas County,82.73569428751671,estimated from floor area,,im3,413,,,,building,262378.0,False,-1,im3
+Digital Realty New Jersey EWR20,Digital Realty,unknown,40.82992945585005,-74.12674913164862,NJ,Passaic County,9.338187083637042,estimated from floor area,,im3,418,,,,building,29614.0,False,-1,im3
+BNY Mellon Somerset,,unknown,40.53601964911133,-74.5534089707814,NJ,Somerset County,38.155578898299765,estimated from floor area,,im3,420,,,,building,121002.0,False,-1,im3
+,Digital Realty,unknown,40.5375383526,-74.55554039982248,NJ,Somerset County,39.62690938159316,estimated from floor area,,im3,421,,,,building,125668.0,False,-1,im3
+Digital Realty New Jersey EWR21,Digital Realty,unknown,40.83058580151704,-74.12451439724033,NJ,Passaic County,22.591828648854456,estimated from floor area,,im3,422,,,,building,71645.0,False,-1,im3
+,Centurylink,unknown,34.19986910792885,-118.34378887471212,CA,Los Angeles County,13.603342702373943,estimated from floor area,,im3,423,,,,building,43140.0,False,-1,im3
+,,unknown,39.56710538351869,-119.54857352752408,NV,Washoe County,87.24775341427306,estimated from floor area,,im3,426,,,,building,276687.0,False,-1,im3
+Kaiser Data Center,,unknown,38.254085135435545,-122.2730981200017,CA,Napa County,51.33291056704118,estimated from floor area,,im3,427,,,,building,162791.0,False,-1,im3
+Lumen Dallas - 3180 Irving Blvd.,Lumen Technologies,unknown,32.806954885472585,-96.86858877539872,TX,Dallas County,25.49728065765542,estimated from floor area,,im3,428,,,,building,80859.0,False,-1,im3
+Lumen Dallas 6,Lumen Technologies,unknown,32.82799793180718,-96.88438205812224,TX,Dallas County,4.092039365987637,estimated from floor area,,im3,430,,,,building,12977.0,False,-1,im3
+Digital Realty DFW36,Digital Realty,unknown,32.82754986077816,-96.87374979541195,TX,Dallas County,7.725273362667113,estimated from floor area,,im3,431,,,,building,24499.0,False,-1,im3
+DataBank Dallas Empire Central Data Center,DataBank,unknown,32.82173820429836,-96.87359763406624,TX,Dallas County,21.353211816797785,estimated from floor area,,im3,432,,,,building,67717.0,False,-1,im3
+TierPoint Dallas Data Center,TierPoint,unknown,32.807972677629614,-96.85735461854576,TX,Dallas County,22.501328895595734,estimated from floor area,,im3,433,,,,building,71358.0,False,-1,im3
+Verizon,Verizon,unknown,39.58924804995954,-104.87793294999813,CO,Arapahoe County,2.5412456847109786,estimated from floor area,,im3,436,,,,building,8059.0,False,-1,im3
+Live Oak Data Center,,unknown,32.78371232090692,-96.79457490220037,TX,Dallas County,15.720154004206034,estimated from floor area,,im3,438,,,,building,49853.0,False,-1,im3
+Flexential Portland - Hillsboro 2,Flexential,unknown,45.558285521867774,-122.91709178475038,OR,Washington County,67.56232276467175,estimated from floor area,,im3,439,,,,building,214259.0,False,-1,im3
+NYSE Data Center,nyse,unknown,41.078302339181775,-74.15291807503208,NJ,Bergen County,63.319555586636476,estimated from floor area,,im3,440,,,,building,200804.0,False,-1,im3
+AT&T,,unknown,34.57998399250564,-118.11402444850228,CA,Los Angeles County,5.482960660845576,estimated from floor area,,im3,441,,,,building,17388.0,False,-1,im3
+,,unknown,38.80265970986479,-104.52196604272532,CO,El Paso County,13.44157833505086,estimated from floor area,,im3,442,,,,building,42627.0,False,-1,im3
+Juniper,,unknown,45.31873065187943,-122.76587362101382,OR,Clackamas County,7.83721556617529,estimated from floor area,,im3,443,,,,building,24854.0,False,-1,im3
+,DXC Technology,unknown,30.018697853415755,-95.86367622394388,TX,Harris County,111.073784273074,estimated from floor area,,im3,446,,,,building,352246.0,False,-1,im3
+H5 Data Center,,unknown,41.50635749142958,-81.6835984766603,OH,Cuyahoga County,22.52687063780464,estimated from floor area,,im3,449,,,,building,71439.0,False,-1,im3
+TPx Colocation Datacenter,TPx Communications,unknown,33.70750645042811,-117.84410419953558,CA,Orange County,11.687712036705847,estimated from floor area,,im3,450,,,,building,37065.0,False,-1,im3
+Cologix Jacksonville JAX1,,unknown,30.33142981885113,-81.66242566977944,FL,Duval County,9.523285882113942,estimated from floor area,,im3,452,,,,building,30201.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23948680981334,-119.8874068597649,WA,Grant County,45.23064149016728,estimated from floor area,,im3,453,,,,building,143439.0,False,-1,im3
+,,unknown,47.23856068621164,-119.86445275389522,WA,Grant County,14.015163879223744,estimated from floor area,,im3,454,,,,building,44446.0,False,-1,im3
+,,unknown,47.24760077002591,-119.82542905367347,WA,Grant County,43.68394710085007,estimated from floor area,,im3,455,,,,building,138534.0,False,-1,im3
+Data Center Lenexa,,unknown,38.92517007028676,-94.7702895910638,KS,Johnson County,14.048588875200835,estimated from floor area,,im3,457,,,,building,44552.0,False,-1,im3
+CITIGROUP TECHNOLOGY INC,,unknown,33.00638147848431,-97.24529013457187,TX,Denton County,76.47891343678644,estimated from floor area,,im3,458,,,,building,242536.0,False,-1,im3
+QTS Data Center,Quality Technology Services,unknown,32.98885535912591,-97.25920173475927,TX,Tarrant County,87.66052058157504,estimated from floor area,,im3,459,,,,building,277996.0,False,-1,im3
+Lowe's Data Center,Lowe's,unknown,29.472846040284345,-98.68954665082217,TX,Bexar County,17.363970079947233,estimated from floor area,,im3,460,,,,building,55066.0,False,-1,im3
+,CHRISTUS Health,unknown,29.47034447909316,-98.68620953197288,TX,Bexar County,15.392841307751137,estimated from floor area,,im3,461,,,,building,48815.0,False,-1,im3
+,Frost Bank,unknown,29.470223440456333,-98.68765019924956,TX,Bexar County,21.628810368533408,estimated from floor area,,im3,462,,,,building,68591.0,False,-1,im3
+CyrusOne San Antonio I,CyrusOne,unknown,29.46655501468974,-98.68811007066918,TX,Bexar County,32.26678833346821,estimated from floor area,,im3,463,,,,building,102327.0,False,-1,im3
+Valero Wiserman,Valero,unknown,29.47428541340784,-98.68006447609892,TX,Bexar County,18.385009108002098,estimated from floor area,,im3,464,,,,building,58304.0,False,-1,im3
+Spectrum Charlotte National Data Center,,unknown,35.14278901717108,-80.91620847296733,NC,Mecklenburg County,29.516163428674336,estimated from floor area,,im3,468,,,,building,93604.0,False,-1,im3
+,,unknown,44.28888249144302,-120.87012500756974,OR,Crook County,119.02357270305892,estimated from floor area,,im3,469,,,,building,377457.0,False,-1,im3
+Cyxtera Tampa TP1,Cyxtera,unknown,27.94553184264413,-82.35116156727058,FL,Hillsborough County,30.691714230585553,estimated from floor area,,im3,470,,,,building,97332.0,False,-1,im3
+QTS Irving - Dallas Data Center Campus,Quality Technology Services,unknown,32.89728320232041,-96.98278763369082,TX,Dallas County,96.5581914446461,estimated from floor area,,im3,471,,,,building,306213.0,False,-1,im3
+Centersquare Lisle ORD4 Data Center,Centersquare,unknown,41.80234062646393,-88.09488558888414,IL,DuPage County,113.89882709343951,estimated from floor area,,im3,472,,,,building,361205.0,False,-1,im3
+GoDaddy - Gilbert,,unknown,33.36191382983084,-111.83930897383505,AZ,Maricopa County,28.950776468420358,estimated from floor area,,im3,473,,,,building,91811.0,False,-1,im3
+AT&T Center,American Telephone & Telegraph,unknown,32.74757512655355,-117.15894804229632,CA,San Diego County,28.03600370116058,estimated from floor area,,im3,474,,,,building,88910.0,False,-1,im3
+,,unknown,36.14048086552297,-86.76414722152771,TN,Davidson County,3.265243710780765,estimated from floor area,,im3,475,,,,building,10355.0,False,-1,im3
+CenturyLink,,unknown,33.76514415943699,-84.38373631254974,GA,Fulton County,7.2670986536604065,estimated from floor area,,im3,476,,,,building,23046.0,False,-1,im3
+,,unknown,41.124032949239215,-104.8980886,WY,Laramie County,19.83868110285476,estimated from floor area,,im3,477,,,,building,62914.0,False,-1,im3
+,,unknown,41.124036799320784,-104.8992687499629,WY,Laramie County,21.378438228855963,estimated from floor area,,im3,478,,,,building,67797.0,False,-1,im3
+,,unknown,41.12528359932865,-104.89927145,WY,Laramie County,19.725477578743675,estimated from floor area,,im3,479,,,,building,62555.0,False,-1,im3
+,,unknown,41.12528676311575,-104.89808331876364,WY,Laramie County,19.9490466556093,estimated from floor area,,im3,480,,,,building,63264.0,False,-1,im3
+Expedient Pittsburgh South,Expedient,unknown,40.42737727783291,-80.04253151075422,PA,Allegheny County,8.652974666106708,estimated from floor area,,im3,481,,,,building,27441.0,False,-1,im3
+Centersquare: Phoenix - (PHX1 - Mesa),Centersquare,unknown,33.421284262350255,-111.85899423023751,AZ,Maricopa County,18.286626100975194,estimated from floor area,,im3,482,,,,building,57992.0,False,-1,im3
+,DXC Technology,unknown,29.99520064778405,-95.56325379028314,TX,Harris County,83.30171190807214,estimated from floor area,,im3,483,,,,building,264173.0,False,-1,im3
+,DXC Technology,unknown,29.997307161324283,-95.56398536553904,TX,Harris County,35.93817727838569,estimated from floor area,,im3,484,,,,building,113970.0,False,-1,im3
+Liquid Web,,unknown,42.68795132456832,-84.64299464110024,MI,Eaton County,7.277504548634405,estimated from floor area,,im3,485,,,,building,23079.0,False,-1,im3
+"Liquid Web, Inc",,unknown,42.70539040001097,-84.66608910001226,MI,Eaton County,22.969594169425715,estimated from floor area,,im3,487,,,,building,72843.0,False,-1,im3
+,,unknown,34.0707036329806,-84.67590752731094,GA,Cobb County,5.851896937196469,estimated from floor area,,im3,489,,,,building,18558.0,False,-1,im3
+ADP South Dakota,,unknown,43.59991456599551,-96.79470699634729,SD,Minnehaha County,76.6646428955648,estimated from floor area,,im3,491,,,,building,243125.0,False,-1,im3
+Compugen New Albany,,unknown,40.10455003825464,-82.80494540049781,OH,Franklin County,13.953359169681201,estimated from floor area,,im3,493,,,,building,44250.0,False,-1,im3
+Flexential Dallas - Richardson,Flexential,unknown,32.99481331799373,-96.7525015956488,TX,Collin County,21.60642192783177,estimated from floor area,,im3,495,,,,building,68520.0,False,-1,im3
+Experian McKinney Data Center,,unknown,33.17179580069162,-96.72550500041572,TX,Collin County,24.161857469325476,estimated from floor area,,im3,496,,,,building,76624.0,False,-1,im3
+,,unknown,40.11571701578424,-83.00256546104873,OH,Franklin County,17.742366260819942,estimated from floor area,,im3,497,,,,building,56266.0,False,-1,im3
+Stack Infrastructure,Stack Infrastructure,unknown,37.40255873642884,-121.89338203369856,CA,Santa Clara County,24.628861422552546,estimated from floor area,,im3,498,,,,building,78105.0,False,-1,im3
+Stack Infrastructure,Stack Infrastructure,unknown,37.40221252579365,-121.89238428102912,CA,Santa Clara County,34.05344896748886,estimated from floor area,,im3,499,,,,building,107993.0,False,-1,im3
+Carfax,,unknown,38.9235119701765,-92.28862384290709,MO,Boone County,12.451441661767268,estimated from floor area,,im3,500,,,,building,39487.0,False,-1,im3
+Facebook Altoona Data Center 3,Meta,unknown,41.66707142244616,-93.50646556541808,IA,Polk County,119.11754108797565,estimated from floor area,,im3,501,,,,building,377755.0,False,-1,im3
+Amazon Web Services  CMH50,Amazon Web Services,unknown,40.09462975659448,-82.75133937578003,OH,Licking County,50.98352476003538,estimated from floor area,,im3,505,,,,building,161683.0,False,-1,im3
+,,unknown,33.34702102097167,-111.60413892780116,AZ,Maricopa County,398.3493268202793,estimated from floor area,,im3,506,,,,building,1263277.0,False,-1,im3
+Thin-nology,,unknown,30.421141229242764,-97.59160304354108,TX,Travis County,2.903875358047326,estimated from floor area,,im3,508,,,,building,9209.0,False,-1,im3
+CyrusOne Norwalk,CyrusOne,unknown,41.11309235035119,-73.38864944847491,CT,Western Connecticut Planning Region,24.525748463264733,estimated from floor area,,im3,509,,,,building,77778.0,False,-1,im3
+Data Foundry - Texas 2,,unknown,30.19958813781982,-97.71307641626,TX,Travis County,33.064573614808175,estimated from floor area,,im3,510,,,,building,104857.0,False,-1,im3
+Microsoft - Azure Datacenter,Microsoft,unknown,41.923005619536646,-87.91824122484651,IL,Cook County,96.73256901799827,estimated from floor area,,im3,514,,,,building,306766.0,False,-1,im3
+Cloud Storage Corp,,unknown,38.87213220021316,-99.30018745000542,KS,Ellis County,3.645531872557839,estimated from floor area,,im3,515,,,,building,11561.0,False,-1,im3
+,,unknown,29.82150611372374,-95.57078462369284,TX,Harris County,30.963844150663178,estimated from floor area,,im3,518,,,,building,98195.0,False,-1,im3
+Information Technology Data Center,Phillips Exeter Academy,unknown,42.982091089771785,-70.9505927450425,NH,Rockingham County,2.4384480555738923,estimated from floor area,,im3,519,,,,building,7733.0,False,-1,im3
+Digital Fortress Lynnwood,,unknown,47.82242518543509,-122.28956096659816,WA,Snohomish County,7.865595279740743,estimated from floor area,,im3,520,,,,building,24944.0,False,-1,im3
+,,unknown,33.13780536915544,-96.6559259339588,TX,Collin County,10.426076103646086,estimated from floor area,,im3,521,,,,building,33064.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.8404435353901,-119.65497937870389,OR,Morrow County,47.88509069898934,estimated from floor area,,im3,523,,,,building,151857.0,False,-1,im3
+Amazon PDX51/54,Amazon Web Services,unknown,45.91744776004561,-119.26773387516516,OR,Umatilla County,82.23999529057345,estimated from floor area,,im3,524,,,,building,260806.0,False,-1,im3
+Stream DFW IV,Stream,unknown,33.000144175089304,-96.66164643777844,TX,Collin County,6.206958686915362,estimated from floor area,,im3,527,,,,building,19684.0,False,-1,im3
+Rackspace Richardson DFW3,Rackspace,unknown,32.96478869284149,-96.71587662115734,TX,Dallas County,35.61654052464388,estimated from floor area,,im3,528,,,,building,112950.0,False,-1,im3
+Digital Realty Dallas DFW17,Digital Realty,unknown,32.966281179214505,-96.71321200734354,TX,Dallas County,26.366330553059743,estimated from floor area,,im3,529,,,,building,83615.0,False,-1,im3
+Digital Realty Dallas DFW29,Digital Realty,unknown,32.96723267704503,-96.71054642217494,TX,Dallas County,38.60776233444266,estimated from floor area,,im3,530,,,,building,122436.0,False,-1,im3
+,,unknown,32.96625357197764,-96.71119611224064,TX,Dallas County,19.695521214424584,estimated from floor area,,im3,531,,,,building,62460.0,False,-1,im3
+Digital Realty Dallas DFW28,Digital Realty,unknown,32.96724066068804,-96.7133081589403,TX,Dallas County,38.475008340986484,estimated from floor area,,im3,532,,,,building,122015.0,False,-1,im3
+Digital Realty Dallas DFW35,Digital Realty,unknown,32.96504621467304,-96.71029113488274,TX,Dallas County,36.74826043560402,estimated from floor area,,im3,533,,,,building,116539.0,False,-1,im3
+Digital Realty Dallas DFW18,Digital Realty,unknown,32.96520380450456,-96.71260861653484,TX,Dallas County,70.10892906194509,estimated from floor area,,im3,534,,,,building,222335.0,False,-1,im3
+Digital Realty Dallas DFW16,Digital Realty,unknown,32.96607650613046,-96.7155872032112,TX,Dallas County,34.51919160011302,estimated from floor area,,im3,535,,,,building,109470.0,False,-1,im3
+State Farm Data Center,,unknown,38.94011284438559,-94.86768784080613,KS,Johnson County,62.62488326458433,estimated from floor area,,im3,540,,,,building,198601.0,False,-1,im3
+U.S. Bank National Data Process Center,,unknown,38.93564309846072,-94.8644712263048,KS,Johnson County,51.114386772587196,estimated from floor area,,im3,541,,,,building,162098.0,False,-1,im3
+Equinix SV10,Equinix,unknown,37.241198528847725,-121.78476265158876,CA,Santa Clara County,27.225605213791525,estimated from floor area,,im3,542,,,,building,86340.0,False,-1,im3
+,,unknown,39.83093011411571,-75.19532326682351,NJ,Gloucester County,12.946825328559791,estimated from floor area,,im3,543,,,,building,41058.0,False,-1,im3
+,Verizon Wireless,unknown,41.22040844920032,-96.14761886051996,NE,Douglas County,12.25782894922073,estimated from floor area,,im3,544,,,,building,38873.0,False,-1,im3
+,,unknown,28.61746822748528,-81.39343863284896,FL,Orange County,33.913127050415234,estimated from floor area,,im3,545,,,,building,107548.0,False,-1,im3
+TierPoint Baltimore BWI,,unknown,39.213451704108,-76.6828450662765,MD,Anne Arundel County,10.52319779007008,estimated from floor area,,im3,547,,,,building,33372.0,False,-1,im3
+Strata Networks,,unknown,40.45659345173178,-109.52899881097022,UT,Uintah County,4.090147385083274,estimated from floor area,,im3,549,,,,building,12971.0,False,-1,im3
+Goldman Sachs,,unknown,40.570372202161614,-74.67032960036524,NJ,Somerset County,87.2609972806036,estimated from floor area,,im3,550,,,,building,276729.0,False,-1,im3
+Mapletree Industrial,,unknown,34.09658361289754,-84.23739137243545,GA,Fulton County,36.84380547127437,estimated from floor area,,im3,551,,,,building,116842.0,False,-1,im3
+Genome Data Center,Washington University in St. Louis,unknown,38.63656882805553,-90.25539338967404,MO,St. Louis city,7.731579965681658,estimated from floor area,,im3,553,,,,building,24519.0,False,-1,im3
+365 Bridgewater NJ,,unknown,40.58147446747312,-74.57387794234592,NJ,Somerset County,8.976818730903604,estimated from floor area,,im3,554,,,,building,28468.0,False,-1,im3
+AngelTrax Data Center,AngelTrax Mobile Video Surveillance Solutions,unknown,31.231904196338384,-85.45584883805839,AL,Houston County,3.3853844982078507,estimated from floor area,,im3,556,,,,building,10736.0,False,-1,im3
+Meta,Meta,unknown,34.830246608460115,-106.78382909936067,NM,Valencia County,206.36245653089216,estimated from floor area,,im3,557,,,,building,654433.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.841413570882,-119.65793309033624,OR,Morrow County,89.5641687015155,estimated from floor area,,im3,558,,,,building,284033.0,False,-1,im3
+Centeris SH2 Build-to-Suit,,unknown,47.15884380411734,-122.27986153681454,WA,Pierce County,29.49566696887706,estimated from floor area,,im3,559,,,,building,93539.0,False,-1,im3
+Centeris SH1 Colocation,,unknown,47.16085522590024,-122.27930643656472,WA,Pierce County,36.510816832106386,estimated from floor area,,im3,560,,,,building,115786.0,False,-1,im3
+Microsoft TRP2,Microsoft,unknown,29.41195432542485,-98.80398520347534,TX,Bexar County,53.53706832062472,estimated from floor area,,im3,562,,,,building,169781.0,False,-1,im3
+Microsoft TRP1,Microsoft,unknown,29.41201232003809,-98.80273022506276,TX,Bexar County,55.96101118926516,estimated from floor area,,im3,563,,,,building,177468.0,False,-1,im3
+,,unknown,35.58705991324804,-81.26027296867808,NC,Catawba County,65.29951360305293,estimated from floor area,,im3,570,,,,building,207083.0,False,-1,im3
+Expedient Milwaukee,,unknown,42.86317702172799,-87.97785780206577,WI,Milwaukee County,8.229801603830728,estimated from floor area,,im3,571,,,,building,26099.0,False,-1,im3
+Oxford Networks,FirstLight,unknown,43.895071082625066,-69.92315054547124,ME,Cumberland County,17.463929737727774,estimated from floor area,,im3,573,,,,building,55383.0,False,-1,im3
+Meta New Albany Data Center,Meta,unknown,40.06840826479164,-82.7503408359755,OH,Licking County,209.13893850804567,estimated from floor area,,im3,574,,,,building,663238.0,False,-1,im3
+Rice Data Center,,unknown,29.65814636487484,-95.44332796622496,TX,Harris County,8.036819551585644,estimated from floor area,,im3,575,,,,building,25487.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23765678799786,-119.88757256028282,WA,Grant County,35.32832876687917,estimated from floor area,,im3,585,,,,building,112036.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23762824027307,-119.88319809847748,WA,Grant County,36.57861281451275,estimated from floor area,,im3,586,,,,building,116001.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23672160801631,-119.88329009579328,WA,Grant County,49.56706172296854,estimated from floor area,,im3,587,,,,building,157191.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.236737102694434,-119.88747588150468,WA,Grant County,51.2752051494581,estimated from floor area,,im3,588,,,,building,162608.0,False,-1,im3
+Vantage WA12,,unknown,47.25394644110428,-119.81372107907391,WA,Grant County,39.320093144935534,estimated from floor area,,im3,589,,,,building,124695.0,False,-1,im3
+Amazon PDX57/60,Amazon Web Services,unknown,45.913883188873065,-119.26771376022246,OR,Umatilla County,85.64051563601622,estimated from floor area,,im3,597,,,,building,271590.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.84117425838994,-119.65544902618971,OR,Morrow County,38.975121960039914,estimated from floor area,,im3,598,,,,building,123601.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.853786061670256,-119.6300360999594,OR,Morrow County,83.14341617240706,estimated from floor area,,im3,599,,,,building,263671.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.84665532541318,-119.60370922412667,OR,Morrow County,66.84400068131505,estimated from floor area,,im3,600,,,,building,211981.0,False,-1,im3
+,,unknown,35.04834871785767,-106.5421751246662,NM,Bernalillo County,13.562665112930128,estimated from floor area,,im3,620,,,,building,43011.0,False,-1,im3
+,,unknown,44.28727726878123,-120.87021590519326,OR,Crook County,108.68326640041066,estimated from floor area,,im3,622,,,,building,344665.0,False,-1,im3
+,,unknown,44.29368315614664,-120.88151890467708,OR,Crook County,103.54685357521433,estimated from floor area,,im3,623,,,,building,328376.0,False,-1,im3
+Amazon PDX80,Amazon Web Services,unknown,45.79780879526037,-119.36661621765712,OR,Umatilla County,68.0176595023219,estimated from floor area,,im3,624,,,,building,215703.0,False,-1,im3
+Centersquare Atlanta ATL1,,unknown,33.74422840992556,-84.58121647346032,GA,Douglas County,78.6162211984158,estimated from floor area,,im3,630,,,,building,249314.0,False,-1,im3
+Digital Realty CH3,Digital Realty,unknown,41.99439647260606,-87.96490377244766,IL,Cook County,109.80426508624605,estimated from floor area,,im3,631,,,,building,348220.0,False,-1,im3
+Digital Realty CH2,Digital Realty,unknown,41.99446382316948,-87.95773561339534,IL,Cook County,95.53683708644051,estimated from floor area,,im3,632,,,,building,302974.0,False,-1,im3
+PSE&G Delivery Emergency Response Center,PSE&G,unknown,40.57989412652374,-74.51939325696017,NJ,Somerset County,26.812522716338815,estimated from floor area,,im3,641,,,,building,85030.0,False,-1,im3
+Epic / Mayo Data Center,,unknown,44.07081644375691,-92.52212055150672,MN,Olmsted County,15.235806892688963,estimated from floor area,,im3,643,,,,building,48317.0,False,-1,im3
+Choctaw Nation of Oklahoma Data Center,Choctaw Nation of oklahoma,unknown,33.971721452767405,-96.4028549048576,OK,Bryan County,4.25506505391363,estimated from floor area,,im3,645,,,,building,13494.0,False,-1,im3
+QTS Data Center Bld 1,Quality Technology Services,unknown,45.558767154104125,-122.92783045218717,OR,Washington County,49.77612561290071,estimated from floor area,,im3,646,,,,building,157854.0,False,-1,im3
+,,unknown,40.584343135171615,-74.24350729682128,NJ,Middlesex County,50.260157394267054,estimated from floor area,,im3,647,,,,building,159389.0,False,-1,im3
+Flexential Salt Lake City - Downtown,Flexential,unknown,40.756306581410776,-111.9548376637448,UT,Salt Lake County,19.979949010380572,estimated from floor area,,im3,648,,,,building,63362.0,False,-1,im3
+Oregon State Data Center,State of Oregon,unknown,44.92654909196885,-123.00186141171868,OR,Marion County,14.674203894243716,estimated from floor area,,im3,649,,,,building,46536.0,False,-1,im3
+Digital Realty PDX11 Data Center,Digital Realty,unknown,45.56799342826786,-122.91685270250116,OR,Washington County,89.25609114425495,estimated from floor area,,im3,650,,,,building,283056.0,False,-1,im3
+Flexential Fort Lauderdale,Flexential,unknown,26.190085718944182,-80.19329665075328,FL,Broward County,23.201992490511703,estimated from floor area,,im3,651,,,,building,73580.0,False,-1,im3
+,,unknown,30.17778285074309,-95.4865263462616,TX,Montgomery County,39.76975393987261,estimated from floor area,,im3,652,,,,building,126121.0,False,-1,im3
+Flexential Las Vegas - North,Flexential,unknown,36.24816478211208,-115.10126087457564,NV,Clark County,34.91587692972791,estimated from floor area,,im3,656,,,,building,110728.0,False,-1,im3
+,,unknown,33.95337794611651,-98.5247312569212,TX,Wichita County,12.337922807505455,estimated from floor area,,im3,657,,,,building,39127.0,False,-1,im3
+,,unknown,44.04740740013566,-121.3285496442757,OR,Deschutes County,3.5471488655309344,estimated from floor area,,im3,658,,,,building,11249.0,False,-1,im3
+,,unknown,42.968713165412495,-83.77960216531768,MI,Genesee County,11.615186102038578,estimated from floor area,,im3,659,,,,building,36835.0,False,-1,im3
+,,unknown,40.59934510477914,-74.70962307676368,NJ,Somerset County,6.165019776868636,estimated from floor area,,im3,660,,,,building,19551.0,False,-1,im3
+,,unknown,40.59971850671678,-74.71011198716056,NJ,Somerset County,17.19400712870524,estimated from floor area,,im3,661,,,,building,54527.0,False,-1,im3
+Meta,Meta,unknown,34.83004000903251,-106.78034710972685,NM,Valencia County,171.45635483583678,estimated from floor area,,im3,662,,,,building,543736.0,False,-1,im3
+iGLASS Networks,,unknown,35.76675058444294,-78.7839857849851,NC,Wake County,2.564895446015523,estimated from floor area,,im3,663,,,,building,8134.0,False,-1,im3
+Central Office,AT&T,unknown,42.83365364525283,-88.73398014165807,WI,Walworth County,2.8382866866960565,estimated from floor area,,im3,664,,,,building,9001.0,False,-1,im3
+,,unknown,46.33213162016486,-113.29267194552416,MT,Granite County,0.4761485275981608,estimated from floor area,,im3,665,,,,building,1510.0,False,-1,im3
+Vital Records,,unknown,40.52807180013584,-74.68281624993381,NJ,Somerset County,2.5043520570758893,estimated from floor area,,im3,666,,,,building,7942.0,False,-1,im3
+Verizon Wireless NE Headquarters,,unknown,40.555692492579,-74.70559634852464,NJ,Somerset County,49.40939664760491,estimated from floor area,,im3,667,,,,building,156691.0,False,-1,im3
+,Involta,unknown,44.20445478438387,-88.34487612453424,WI,Calumet County,18.976568470766434,estimated from floor area,,im3,669,,,,building,60180.0,False,-1,im3
+,,unknown,44.29909531760913,-120.879434601439,OR,Crook County,198.70844778228943,estimated from floor area,,im3,670,,,,building,630160.0,False,-1,im3
+,,unknown,44.30125484226488,-120.88988386659982,OR,Crook County,196.44437730006769,estimated from floor area,,im3,671,,,,building,622980.0,False,-1,im3
+,US Signal,unknown,42.23532661902879,-83.44414059814616,MI,Wayne County,7.756806377739839,estimated from floor area,,im3,672,,,,building,24599.0,False,-1,im3
+,,unknown,39.56771439975202,-119.542362748536,NV,Washoe County,28.326422769980383,estimated from floor area,,im3,673,,,,building,89831.0,False,-1,im3
+,,unknown,39.5675010277547,-119.54320948328537,NV,Washoe County,28.2444369307913,estimated from floor area,,im3,674,,,,building,89571.0,False,-1,im3
+,,unknown,39.567160471410034,-119.54438836390534,NV,Washoe County,27.936359373530767,estimated from floor area,,im3,675,,,,building,88594.0,False,-1,im3
+,,unknown,39.56692084061534,-119.54522686760028,NV,Washoe County,29.052312776954537,estimated from floor area,,im3,676,,,,building,92133.0,False,-1,im3
+,,unknown,39.56575835137741,-119.54797410085597,NV,Washoe County,28.603913302620374,estimated from floor area,,im3,677,,,,building,90711.0,False,-1,im3
+,,unknown,39.56510625130509,-119.54768980080748,NV,Washoe County,28.088348506181305,estimated from floor area,,im3,678,,,,building,89076.0,False,-1,im3
+Allentown-TekPark,,unknown,40.54423619107065,-75.65431290741553,PA,Lehigh County,46.11640388356014,estimated from floor area,,im3,679,,,,building,146248.0,False,-1,im3
+Meta,Meta,unknown,34.83028297052059,-106.77647063706308,NM,Valencia County,206.42047727862598,estimated from floor area,,im3,680,,,,building,654617.0,False,-1,im3
+,,unknown,39.55907170105136,-104.83358763919368,CO,Douglas County,8.870867800259244,estimated from floor area,,im3,681,,,,building,28132.0,False,-1,im3
+PG&E Datacenter,,unknown,38.24625878204932,-122.06720998673867,CA,Solano County,17.428297430695594,estimated from floor area,,im3,682,,,,building,55270.0,False,-1,im3
+CyrusOne PHX6,CyrusOne,unknown,33.26757617844676,-111.88253182214665,AZ,Maricopa County,31.01398164462881,estimated from floor area,,im3,683,,,,building,98354.0,False,-1,im3
+Facebook Altoona Data Center 4,Meta,unknown,41.66773731235317,-93.5163985612244,IA,Polk County,191.39215762511554,estimated from floor area,,im3,684,,,,building,606958.0,False,-1,im3
+PHX-10,Microsoft,unknown,33.40794624396243,-112.36482981743816,AZ,Maricopa County,77.62923782663948,estimated from floor area,,im3,695,,,,building,246184.0,False,-1,im3
+,,unknown,40.95126975040576,-73.89790099960555,NY,Westchester County,4.233622603664177,estimated from floor area,,im3,698,,,,building,13426.0,False,-1,im3
+Meta New Albany Data Center,Meta,unknown,40.06527171787832,-82.74890966242867,OH,Licking County,209.15407435528058,estimated from floor area,,im3,699,,,,building,663286.0,False,-1,im3
+,,unknown,47.23709780537748,-119.8951561143571,WA,Grant County,68.37871252490461,estimated from floor area,,im3,700,,,,building,216848.0,False,-1,im3
+EdgeCore,,unknown,33.344131138754335,-111.6195525034396,AZ,Maricopa County,35.601089347258245,estimated from floor area,,im3,701,,,,building,112901.0,False,-1,im3
+Comcast,Comcast,unknown,42.21390200001323,-83.19821400000001,MI,Wayne County,0.30050963364307764,estimated from floor area,,im3,702,,,,building,953.0,False,-1,im3
+SAP COS02,SAP,unknown,38.98888835974735,-104.78638139764936,CO,El Paso County,15.04282484044388,estimated from floor area,,im3,703,,,,building,47705.0,False,-1,im3
+,,unknown,47.40724312100206,-120.2139654565477,WA,Douglas County,32.167774666139856,estimated from floor area,,im3,704,,,,building,102013.0,False,-1,im3
+,,unknown,47.39214942683649,-120.21746237329,WA,Douglas County,4.397594282042351,estimated from floor area,,im3,706,,,,building,13946.0,False,-1,im3
+,,unknown,47.39179410004563,-120.21787734999982,WA,Douglas County,1.2625819235119442,estimated from floor area,,im3,707,,,,building,4004.0,False,-1,im3
+,,unknown,47.391756904098365,-120.2175143749647,WA,Douglas County,1.262266593361217,estimated from floor area,,im3,708,,,,building,4003.0,False,-1,im3
+,,unknown,47.39175897510766,-120.2169013334627,WA,Douglas County,2.429934141504256,estimated from floor area,,im3,709,,,,building,7706.0,False,-1,im3
+Charles Schwab Data Center,,unknown,33.004502129194734,-97.24615495491396,TX,Denton County,25.1280290511538,estimated from floor area,,im3,711,,,,building,79688.0,False,-1,im3
+Credit Suisse: Clifton Data Center,,unknown,40.83344999607061,-74.1402186895567,NJ,Passaic County,44.233882883718415,estimated from floor area,,im3,715,,,,building,140278.0,False,-1,im3
+,,unknown,36.03268133759001,-86.63779793677823,TN,Davidson County,29.425979005566337,estimated from floor area,,im3,716,,,,building,93318.0,False,-1,im3
+StrongMind,,unknown,33.342616247713266,-111.84097388722816,AZ,Maricopa County,6.49706242558444,estimated from floor area,,im3,723,,,,building,20604.0,False,-1,im3
+BB&T Data Center,,unknown,35.839325206702256,-78.32812683838715,NC,Wake County,45.09568018565601,estimated from floor area,,im3,724,,,,building,143011.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51674074828143,-93.70254178906356,IA,Polk County,48.54696868536586,estimated from floor area,,im3,725,,,,building,153956.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51584274137181,-93.70251346931218,IA,Polk County,47.03117665081992,estimated from floor area,,im3,726,,,,building,149149.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.5158179370744,-93.70630110395008,IA,Polk County,45.54250300923653,estimated from floor area,,im3,727,,,,building,144428.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51671171276783,-93.70635081713183,IA,Polk County,46.19019113883032,estimated from floor area,,im3,728,,,,building,146482.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51850163161288,-93.70633127239608,IA,Polk County,45.76512609564998,estimated from floor area,,im3,729,,,,building,145134.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51760660601612,-93.7063124996927,IA,Polk County,45.13793442585346,estimated from floor area,,im3,730,,,,building,143145.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51764119065465,-93.70249272354832,IA,Polk County,44.46659653495513,estimated from floor area,,im3,731,,,,building,141016.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.51853822500233,-93.70252494893268,IA,Polk County,44.53250053645712,estimated from floor area,,im3,732,,,,building,141225.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.49787064306023,-93.78703936226476,IA,Warren County,75.44904516451122,estimated from floor area,,im3,733,,,,building,239270.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.49891302864557,-93.78707464281725,IA,Warren County,76.83902046891697,estimated from floor area,,im3,734,,,,building,243678.0,False,-1,im3
+Facebook Altoona Data Center 5,Meta,unknown,41.67117312225116,-93.51662854518422,IA,Polk County,198.0282806471707,estimated from floor area,,im3,737,,,,building,628003.0,False,-1,im3
+,Blockfusion,unknown,43.07483783638032,-78.94480168233245,NY,Niagara County,5.121592308112137,estimated from floor area,,im3,738,,,,building,16242.0,False,-1,im3
+Lumen,Lumen Technologies,unknown,37.062799199655686,-113.54474869182133,UT,Washington County,0.5780001662830654,estimated from floor area,,im3,739,,,,building,1833.0,False,-1,im3
+Myndshift Technologies,,unknown,33.47542082249551,-111.71916515034208,AZ,Maricopa County,6.709910277325339,estimated from floor area,,im3,741,,,,building,21279.0,False,-1,im3
+ForceAmp.com,,unknown,41.70399842447885,-91.58707810457734,IA,Johnson County,0.8542293783201441,estimated from floor area,,im3,742,,,,building,2709.0,False,-1,im3
+TierPoint - Charlotte Data Center,TierPoint,unknown,35.17319550189212,-80.9281209975006,NC,Mecklenburg County,19.417400021483143,estimated from floor area,,im3,743,,,,building,61578.0,False,-1,im3
+SEGRA,,unknown,35.180053426012265,-80.92635689076968,NC,Mecklenburg County,5.705583747259021,estimated from floor area,,im3,744,,,,building,18094.0,False,-1,im3
+CoreSite Chicago Data Center (CH2),CoreSite,unknown,41.86279831305618,-87.64130393635244,IL,Cook County,19.47888940087496,estimated from floor area,,im3,746,,,,building,61773.0,False,-1,im3
+Norma Beach Cable Landing Station,Unity Cable System,unknown,47.86469753279464,-122.28415777716296,WA,Snohomish County,0.747017127072876,estimated from floor area,,im3,747,,,,building,2369.0,False,-1,im3
+,DirecTV,unknown,32.092706483207095,-110.7874236595772,AZ,Pima County,4.532240256402891,estimated from floor area,,im3,748,,,,building,14373.0,False,-1,im3
+Google,Google,unknown,36.056288380442616,-115.00857680765697,NV,Clark County,45.36623345498,estimated from floor area,,im3,750,,,,building,143869.0,False,-1,im3
+Google,Google,unknown,36.05880161382709,-115.00879721733386,NV,Clark County,44.533131196758575,estimated from floor area,,im3,751,,,,building,141227.0,False,-1,im3
+Google,Google,unknown,34.9136919358168,-85.74742813692481,AL,Jackson County,45.721610534849624,estimated from floor area,,im3,752,,,,building,144996.0,False,-1,im3
+Google,Google,unknown,34.91367641738197,-85.74593535678355,AL,Jackson County,44.7601689052822,estimated from floor area,,im3,753,,,,building,141947.0,False,-1,im3
+Google,Google,unknown,32.44212970719258,-97.06248797347524,TX,Ellis County,45.58854121124271,estimated from floor area,,im3,755,,,,building,144574.0,False,-1,im3
+Google,Google,unknown,32.44355545089075,-97.06333284249686,TX,Ellis County,43.58808673502898,estimated from floor area,,im3,756,,,,building,138230.0,False,-1,im3
+Google,Google,unknown,36.62458167653138,-87.26129639057423,TN,Montgomery County,53.522878463842,estimated from floor area,,im3,757,,,,building,169736.0,False,-1,im3
+Google NBY-1,Google,unknown,40.06114460722927,-82.76429366972576,OH,Licking County,45.77868529213125,estimated from floor area,,im3,758,,,,building,145177.0,False,-1,im3
+Meta Sarpy Data center,Meta,unknown,41.12354217069119,-96.14419028998032,NE,Sarpy County,210.1303365019322,estimated from floor area,,im3,759,,,,building,666382.0,False,-1,im3
+Meta Sarpy Data center,Meta,unknown,41.1207319993102,-96.14485433047682,NE,Sarpy County,162.42151535719935,estimated from floor area,,im3,760,,,,building,515084.0,False,-1,im3
+JPMorgan Chase,JPMorgan Chase,unknown,39.98908743748672,-105.02070322444692,CO,Broomfield County,59.33252116084101,estimated from floor area,,im3,762,,,,building,188160.0,False,-1,im3
+Marquette-Adams Telephone Coop,,unknown,43.78218427328896,-89.57480850448691,WI,Marquette County,2.603681054554976,estimated from floor area,,im3,763,,,,building,8257.0,False,-1,im3
+Compass Data Center,,unknown,32.53872184532015,-96.804396257992,TX,Ellis County,13.146744644120874,estimated from floor area,,im3,764,,,,building,41692.0,False,-1,im3
+Stream Chicago II,Stream,unknown,41.99912438131275,-87.95776458161538,IL,Cook County,68.08671680533118,estimated from floor area,,im3,767,,,,building,215922.0,False,-1,im3
+STACK Chicago CHI01,Stack Infrastructure,unknown,42.006843875852,-87.96519018575371,IL,Cook County,94.11690541771566,estimated from floor area,,im3,768,,,,building,298471.0,False,-1,im3
+Turnkey Internet,,unknown,42.74544108847024,-73.75919958242348,NY,Albany County,3.2999300273607632,estimated from floor area,,im3,770,,,,building,10465.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.540709217348976,-93.82789533434016,IA,Dallas County,69.60440082078146,estimated from floor area,,im3,771,,,,building,220735.0,False,-1,im3
+,,unknown,35.5903923643093,-81.26456965310366,NC,Catawba County,64.14130595943172,estimated from floor area,,im3,772,,,,building,203410.0,False,-1,im3
+Iron Mountain,,unknown,47.59461614024328,-117.53714762552474,WA,Spokane County,4.441425172993441,estimated from floor area,,im3,774,,,,building,14085.0,False,-1,im3
+amnet Data Center,,unknown,41.09183280598617,-73.51671558521066,CT,Western Connecticut Planning Region,3.3191651665551265,estimated from floor area,,im3,776,,,,building,10526.0,False,-1,im3
+,TierPoint,unknown,38.94066934722939,-94.7552318373576,KS,Johnson County,18.3191051065001,estimated from floor area,,im3,777,,,,building,58095.0,False,-1,im3
+NTT Silicon Valley SV1 Data Center,NTT,unknown,37.36905321130347,-121.95533775020122,CA,Santa Clara County,12.221881312037825,estimated from floor area,,im3,783,,,,building,38759.0,False,-1,im3
+T5 Data Center,,unknown,34.07592247657671,-84.26431627074264,GA,Fulton County,47.00153561665156,estimated from floor area,,im3,784,,,,building,149055.0,False,-1,im3
+,BNYM,unknown,36.21535165955505,-86.78368364527593,TN,Davidson County,60.41252692708188,estimated from floor area,,im3,785,,,,building,191585.0,False,-1,im3
+,Quicken Loans,unknown,42.32617958756391,-83.06975885855375,MI,Wayne County,14.574559566613901,estimated from floor area,,im3,790,,,,building,46220.0,False,-1,im3
+Family History Center,The Church of Jesus Christ of Latter-day Saints,unknown,42.317295842348535,-111.3042449169628,ID,Bear Lake County,1.2868623451179433,estimated from floor area,,im3,791,,,,building,4081.0,False,-1,im3
+,,unknown,36.32807395055384,-83.37670351660657,TN,Grainger County,0.38848674569598285,estimated from floor area,,im3,792,,,,building,1232.0,False,-1,im3
+QTS Data Center Bld 2,Quality Technology Services,unknown,45.55876356137954,-122.9296313964584,OR,Washington County,54.45688637029614,estimated from floor area,,im3,794,,,,building,172698.0,False,-1,im3
+Amazon PDX91,Amazon Web Services,unknown,45.83792394838973,-119.68835481078412,OR,Morrow County,66.53276982254724,estimated from floor area,,im3,795,,,,building,210994.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.84665461437445,-119.60564495354758,OR,Morrow County,66.83044148483377,estimated from floor area,,im3,797,,,,building,211938.0,False,-1,im3
+,,unknown,39.729478071116986,-104.71275427482882,CO,Arapahoe County,58.107463525265615,estimated from floor area,,im3,798,,,,building,184275.0,False,-1,im3
+,,unknown,43.04498475079566,-78.74920687191288,NY,Erie County,13.22431586119978,estimated from floor area,,im3,799,,,,building,41938.0,False,-1,im3
+QTS Data Center Bld 3,Quality Technology Services,unknown,45.55877963410689,-122.93190590213918,OR,Washington County,54.105923912536696,estimated from floor area,,im3,800,,,,building,171585.0,False,-1,im3
+QTS Data Center Bld 5,Quality Technology Services,unknown,45.55880139187874,-122.93522042560193,OR,Washington County,53.26588439099928,estimated from floor area,,im3,801,,,,building,168921.0,False,-1,im3
+QTS Data Center Bld 4,Quality Technology Services,unknown,45.5587812168356,-122.93294634090128,OR,Washington County,54.86523891548794,estimated from floor area,,im3,802,,,,building,173993.0,False,-1,im3
+,,unknown,42.67566516635273,-87.91840525370044,WI,Racine County,2.8676123907136915,estimated from floor area,,im3,804,,,,building,9094.0,False,-1,im3
+Lumen Cleveland,,unknown,41.50506588325723,-81.65777529837548,OH,Cuyahoga County,9.29908614494686,estimated from floor area,,im3,805,,,,building,29490.0,False,-1,im3
+SU Green Data Center,Syracuse University,unknown,43.01207616834648,-76.11592528923454,NY,Onondaga County,3.837252604200012,estimated from floor area,,im3,807,,,,building,12169.0,False,-1,im3
+Johns Hopkins Data Center,,unknown,39.29355879768687,-76.55173790938491,MD,Baltimore city,1.2234809848217643,estimated from floor area,,im3,809,,,,building,3880.0,False,-1,im3
+Ebay,,unknown,40.56409515233066,-112.05062821391914,UT,Salt Lake County,46.16685670767651,estimated from floor area,,im3,811,,,,building,146408.0,False,-1,im3
+Edgeconnex Data Center,EdgeConneX,unknown,38.59229735741739,-121.27743720748433,CA,Sacramento County,9.244849359021773,estimated from floor area,,im3,812,,,,building,29318.0,False,-1,im3
+,,unknown,33.43946838545604,-112.3770584915453,AZ,Maricopa County,70.8392336910294,estimated from floor area,,im3,813,,,,building,224651.0,False,-1,im3
+Omnis Network,,unknown,33.39440984512777,-111.95249099702062,AZ,Maricopa County,5.346738035731399,estimated from floor area,,im3,814,,,,building,16956.0,False,-1,im3
+Travelers Insurance,Travelers Insurance,unknown,41.12784313945287,-96.14504543454542,NE,Sarpy County,57.51874213385782,estimated from floor area,,im3,815,,,,building,182408.0,False,-1,im3
+Flexential Nashville - Franklin,Flexential,unknown,35.92045930433349,-86.81557369600324,TN,Williamson County,23.62894951459641,estimated from floor area,,im3,816,,,,building,74934.0,False,-1,im3
+,,unknown,41.55808334363262,-93.52766189092016,IA,Polk County,2.2044730837342663,estimated from floor area,,im3,818,,,,building,6991.0,False,-1,im3
+,,unknown,41.55813064318698,-93.52815685258032,IA,Polk County,5.33538615030522,estimated from floor area,,im3,819,,,,building,16920.0,False,-1,im3
+,,unknown,36.08125144033206,-95.8541491705349,OK,Tulsa County,2.708370664596426,estimated from floor area,,im3,820,,,,building,8589.0,False,-1,im3
+,,unknown,32.49826721190269,-84.8835713174046,GA,Muscogee County,36.78641538384201,estimated from floor area,,im3,823,,,,building,116660.0,False,-1,im3
+E-Foam,,unknown,28.57794329871264,-81.56454528552736,FL,Orange County,2.649719256561156,estimated from floor area,,im3,825,,,,building,8403.0,False,-1,im3
+,,unknown,41.47880657858901,-72.80100588134881,CT,South Central Connecticut Planning Region,17.017422244297975,estimated from floor area,,im3,826,,,,building,53967.0,False,-1,im3
+SimpleHelix,,unknown,34.7454310001572,-86.69188299975418,AL,Madison County,5.174883103585044,estimated from floor area,,im3,827,,,,building,16411.0,False,-1,im3
+CenturyLink,CenturyLink,unknown,44.93802973611572,-123.03368547875328,OR,Marion County,7.734733267188931,estimated from floor area,,im3,828,,,,building,24529.0,False,-1,im3
+Digital Realty Atlanta ATL11,Digital Realty,unknown,33.746561602113815,-84.57973805393436,GA,,98.84938031983036,estimated from floor area,,im3,829,,,,building,313479.0,True,-1,im3
+CyrusOne PHX7,,unknown,33.266358037761506,-111.88190865991773,AZ,Maricopa County,43.7271473314997,estimated from floor area,,im3,835,,,,building,138671.0,False,-1,im3
+CyrusOne PHX4,CyrusOne,unknown,33.2687661963882,-111.88251618115731,AZ,Maricopa County,32.48152816611348,estimated from floor area,,im3,836,,,,building,103008.0,False,-1,im3
+CyrusOne PHX5,CyrusOne,unknown,33.26974107141648,-111.88158696587298,AZ,Maricopa County,32.46576165857711,estimated from floor area,,im3,837,,,,building,102958.0,False,-1,im3
+Northwest Data Center and Communications Hub,,unknown,37.43343706484073,-122.18073854179175,CA,Santa Clara County,3.19902437912804,estimated from floor area,,im3,838,,,,building,10145.0,False,-1,im3
+Digital Crossroad,Digital Crossroad,unknown,41.707418451036666,-87.52019308155617,IN,Lake County,36.5827121064722,estimated from floor area,,im3,839,,,,building,116014.0,False,-1,im3
+Verizon Wireless Mew Building,,unknown,32.97215494101558,-97.15661083483384,TX,Tarrant County,55.61887797572609,estimated from floor area,,im3,846,,,,building,176383.0,False,-1,im3
+Rackspace Somerset NYC1,,unknown,40.54452566835303,-74.53775798797324,NJ,Somerset County,5.804282084436653,estimated from floor area,,im3,863,,,,building,18407.0,False,-1,im3
+Rackspace Belmont NYC2,,unknown,40.54083886834628,-74.53749197400815,NJ,Somerset County,18.12233909244629,estimated from floor area,,im3,864,,,,building,57471.0,False,-1,im3
+QTS Atlanta Data Center 2,Quality Technology Services,unknown,33.77750521515184,-84.41955232430595,GA,Fulton County,89.3352390120875,estimated from floor area,,im3,867,,,,building,283307.0,False,-1,im3
+,,unknown,29.41898804241692,-98.7874709988236,TX,Bexar County,34.52518287297684,estimated from floor area,,im3,868,,,,building,109489.0,False,-1,im3
+Microsoft TRP3 (SAT46),Microsoft,unknown,29.4129769887884,-98.806374449939,TX,Medina County,72.17812551101736,estimated from floor area,,im3,869,,,,building,228897.0,False,-1,im3
+Microsoft,Microsoft,unknown,29.41579676372189,-98.80331595094908,TX,Bexar County,72.17339555875645,estimated from floor area,,im3,870,,,,building,228882.0,False,-1,im3
+Microsoft,Microsoft,unknown,29.415795638787,-98.8045147999406,TX,Bexar County,72.17434154920863,estimated from floor area,,im3,871,,,,building,228885.0,False,-1,im3
+Pewaukee Data Center,WE Energies,unknown,43.05138860290855,-88.21666504030928,WI,Waukesha County,14.914485469097887,estimated from floor area,,im3,872,,,,building,47298.0,False,-1,im3
+CenturyLink,,unknown,36.18299775012923,-115.06266954999842,NV,Clark County,3.658145078586929,estimated from floor area,,im3,873,,,,building,11601.0,False,-1,im3
+EdgeConneX PHX02 Data Center,EdgeConneX,unknown,33.35201067934632,-111.64752987065916,AZ,Maricopa County,206.25902824145362,estimated from floor area,,im3,874,,,,building,654105.0,False,-1,im3
+T-Mobile Everglades MSO Data Center,,unknown,26.18499694137505,-80.28691594165383,FL,Broward County,15.524649310755132,estimated from floor area,,im3,879,,,,building,49233.0,False,-1,im3
+EdgeConneX Data Center,EdgeConneX,unknown,45.556621303589225,-122.91221283734208,OR,Washington County,35.1794929357359,estimated from floor area,,im3,881,,,,building,111564.0,False,-1,im3
+Amazon Web Services  CMH53,Amazon Web Services,unknown,40.09361643944408,-82.75145548070124,OH,Licking County,48.56998778636895,estimated from floor area,,im3,882,,,,building,154029.0,False,-1,im3
+Amazon Web Services  CMH59,Amazon Web Services,unknown,40.09404615807959,-82.74749104888826,OH,Licking County,50.80693987562812,estimated from floor area,,im3,884,,,,building,161123.0,False,-1,im3
+Searcy Information Technologies,City of Searcy,unknown,35.2492158371357,-91.7409058590938,AR,White County,1.4442120903308453,estimated from floor area,,im3,885,,,,building,4580.0,False,-1,im3
+Meta Eagle Mountain Data Center,Meta,unknown,40.26828850505122,-112.01507681579746,UT,Utah County,108.72268266925155,estimated from floor area,,im3,894,,,,building,344790.0,False,-1,im3
+Meta Eagle Mountain Data Center,Meta,unknown,40.2655639892377,-112.01512736677896,UT,Utah County,197.51366184118382,estimated from floor area,,im3,895,,,,building,626371.0,False,-1,im3
+,,unknown,38.926805991335975,-94.7683727731216,KS,Johnson County,1.5489017003722951,estimated from floor area,,im3,896,,,,building,4912.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.84666781437448,-119.60703845354756,OR,Morrow County,66.83044148483377,estimated from floor area,,im3,898,,,,building,211938.0,False,-1,im3
+Amazon Web Services us-west-2,Amazon Web Services,unknown,45.846753781437606,-119.60906254768788,OR,Morrow County,69.86517885543292,estimated from floor area,,im3,899,,,,building,221562.0,False,-1,im3
+,,unknown,28.29407690335012,-81.83484809231037,FL,Polk County,7.119524143120049,estimated from floor area,,im3,901,,,,building,22578.0,False,-1,im3
+Meta Eagle Mountain Data Center,Meta,unknown,40.27233431054834,-112.01505471830352,UT,Utah County,198.0793641315885,estimated from floor area,,im3,903,,,,building,628165.0,False,-1,im3
+,DirecTV,unknown,31.972674750091077,-110.3047516999998,AZ,Cochise County,2.377274006332804,estimated from floor area,,im3,907,,,,building,7539.0,False,-1,im3
+,Meta,unknown,33.6013709927818,-83.70541734238208,GA,Newton County,208.19925465887843,estimated from floor area,,im3,909,,,,building,660258.0,False,-1,im3
+Flexential Salt Lake City - Millcreek,Flexential,unknown,40.68552518346084,-111.88504405838351,UT,Salt Lake County,8.858254594230154,estimated from floor area,,im3,910,,,,building,28092.0,False,-1,im3
+Amazon PDX93,Amazon Web Services,unknown,45.83654228757941,-119.68986643174064,OR,Morrow County,67.42641546970829,estimated from floor area,,im3,911,,,,building,213828.0,False,-1,im3
+Amazon,Amazon Web Services,unknown,37.3899327218429,-121.96598983231348,CA,Santa Clara County,30.94713165267463,estimated from floor area,,im3,916,,,,building,98142.0,False,-1,im3
+,Google,unknown,33.06202195137125,-80.03831641068669,SC,Berkeley County,57.593475379580184,estimated from floor area,,im3,917,,,,building,182645.0,False,-1,im3
+Google,Google,unknown,33.06217398793264,-80.03966007767937,SC,Berkeley County,57.15705845097366,estimated from floor area,,im3,918,,,,building,181261.0,False,-1,im3
+Google,Google,unknown,33.0620532330343,-80.041154478933,SC,Berkeley County,65.03747424779858,estimated from floor area,,im3,919,,,,building,206252.0,False,-1,im3
+Google,Google,unknown,33.062000589098496,-80.04505685925874,SC,Berkeley County,220.04715441215373,estimated from floor area,,im3,923,,,,building,697831.0,False,-1,im3
+Google,Google,unknown,33.06443480153904,-80.04606755156347,SC,Berkeley County,45.890942825790155,estimated from floor area,,im3,924,,,,building,145533.0,False,-1,im3
+,Meta,unknown,33.60009367954904,-83.69683907912508,GA,Newton County,240.75646206116647,estimated from floor area,,im3,925,,,,building,763506.0,False,-1,im3
+,Meta,unknown,33.59802145151715,-83.69501281261269,GA,Newton County,108.12229406226687,estimated from floor area,,im3,926,,,,building,342886.0,False,-1,im3
+Microsoft EAT02,Microsoft,unknown,47.416868024109554,-120.20768784943974,WA,Douglas County,77.61189466834948,estimated from floor area,,im3,927,,,,building,246129.0,False,-1,im3
+Intergate Columbia D,Sabey Data Centers,unknown,47.40758548151772,-120.19160109219082,WA,Douglas County,42.57587695119448,estimated from floor area,,im3,928,,,,building,135020.0,False,-1,im3
+Google,Google,unknown,41.17734372844027,-95.80485695055478,IA,Pottawattamie County,23.966668106025306,estimated from floor area,,im3,929,,,,building,76005.0,False,-1,im3
+Google,Google,unknown,41.17727415208592,-95.80637969473156,IA,Pottawattamie County,100.57139827295192,estimated from floor area,,im3,930,,,,building,318940.0,False,-1,im3
+Google,Google,unknown,41.17745636098298,-95.8032146599412,IA,Pottawattamie County,81.42549751124494,estimated from floor area,,im3,931,,,,building,258223.0,False,-1,im3
+Google,Google,unknown,41.17748290529598,-95.80096717468037,IA,Pottawattamie County,66.7058860752965,estimated from floor area,,im3,932,,,,building,211543.0,False,-1,im3
+Google,Google,unknown,41.17554012114429,-95.80676284722784,IA,Pottawattamie County,41.46307684927798,estimated from floor area,,im3,933,,,,building,131491.0,False,-1,im3
+Google,Google,unknown,41.17554005850446,-95.80565239909376,IA,Pottawattamie County,40.938367478467825,estimated from floor area,,im3,934,,,,building,129827.0,False,-1,im3
+Google,Google,unknown,41.17554283490945,-95.80449329746104,IA,Pottawattamie County,41.660788853783984,estimated from floor area,,im3,935,,,,building,132118.0,False,-1,im3
+Google,Google,unknown,41.175543648575314,-95.8033895382722,IA,Pottawattamie County,41.70367375428289,estimated from floor area,,im3,936,,,,building,132254.0,False,-1,im3
+Google,Google,unknown,41.175547389125526,-95.80222393205068,IA,Pottawattamie County,41.25149031813999,estimated from floor area,,im3,937,,,,building,130820.0,False,-1,im3
+Google,Google,unknown,41.17554529809748,-95.80111944856117,IA,Pottawattamie County,40.8756167784731,estimated from floor area,,im3,938,,,,building,129628.0,False,-1,im3
+Google,Google,unknown,41.17555376295006,-95.79994803209584,IA,Pottawattamie County,42.39424678437558,estimated from floor area,,im3,939,,,,building,134444.0,False,-1,im3
+Google,Google,unknown,41.1726347246986,-95.80402364214318,IA,Pottawattamie County,54.950693386335026,estimated from floor area,,im3,940,,,,building,174264.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.49683039481866,-93.78699632287524,IA,Warren County,76.395035616693,estimated from floor area,,im3,943,,,,building,242270.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.5398138870052,-93.82631357913507,IA,Dallas County,28.400210025250566,estimated from floor area,,im3,944,,,,building,90065.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.539670453163886,-93.82866540068235,IA,Dallas County,25.396059679271968,estimated from floor area,,im3,945,,,,building,80538.0,False,-1,im3
+,,unknown,37.3611399057634,-121.9423061882177,CA,Santa Clara County,34.16476051069558,estimated from floor area,,im3,946,,,,building,108346.0,False,-1,im3
+xAI Macrohardrr,xAI,unknown,34.99348804291279,-90.03416995691286,MS,DeSoto County,256.34922268447866,estimated from floor area,,im3,947,,,,building,812955.0,False,-1,im3
+QTS San Antonio II,Quality Technology Services,unknown,29.4491563911304,-98.65314490826424,TX,Bexar County,44.24744208019968,estimated from floor area,,im3,950,,,,building,140321.0,False,-1,im3
+T5@Colorado Springs,,unknown,38.78617187499131,-104.7885349003077,CO,El Paso County,23.43123751009042,estimated from floor area,,im3,952,,,,building,74307.0,False,-1,im3
+Flexential Tampa - North,Flexential,unknown,28.07385598681517,-82.3683379069368,FL,Hillsborough County,9.662661808735391,estimated from floor area,,im3,953,,,,building,30643.0,False,-1,im3
+PHX-11,Microsoft,unknown,33.40903088866142,-112.3648033961419,AZ,Maricopa County,78.47495329088999,estimated from floor area,,im3,958,,,,building,248866.0,False,-1,im3
+,,unknown,41.05233000835496,-73.97183915643684,NY,Rockland County,82.85993436690325,estimated from floor area,,im3,959,,,,building,262772.0,False,-1,im3
+Google,Google,unknown,36.62483034098189,-87.26351478308135,TN,Montgomery County,53.52193247338982,estimated from floor area,,im3,961,,,,building,169733.0,False,-1,im3
+SPC3A,Google,unknown,36.62430276342711,-87.25902652953205,TN,Montgomery County,53.52666242565073,estimated from floor area,,im3,962,,,,building,169748.0,False,-1,im3
+,US Bitcoin,unknown,43.082056267934384,-79.03072271617526,NY,Niagara County,19.411408748619326,estimated from floor area,,im3,964,,,,building,61559.0,False,-1,im3
+TierPoint Valley Forge,TierPoint,unknown,40.12187904293604,-75.42087693876488,PA,Montgomery County,19.66871815161277,estimated from floor area,,im3,965,,,,building,62375.0,False,-1,im3
+Flexential Salt Lake City - Fair Park,Flexential,unknown,40.76678608763819,-111.92029244663202,UT,Salt Lake County,3.9621233438880066,estimated from floor area,,im3,969,,,,building,12565.0,False,-1,im3
+Amazon PDX63,Amazon Web Services,unknown,45.901449845508274,-119.32052237838585,OR,Umatilla County,71.69850835176119,estimated from floor area,,im3,973,,,,building,227376.0,False,-1,im3
+Amazon PDX65,Amazon Web Services,unknown,45.90276331956975,-119.32049760712084,OR,Umatilla County,68.56065802187425,estimated from floor area,,im3,974,,,,building,217425.0,False,-1,im3
+Amazon PDX67,Amazon Web Services,unknown,45.90385105351774,-119.32048702148562,OR,Umatilla County,69.34110014492421,estimated from floor area,,im3,975,,,,building,219900.0,False,-1,im3
+Amazon PDX69,Amazon Web Services,unknown,45.9050943707071,-119.32016656388495,OR,Umatilla County,69.28907067005422,estimated from floor area,,im3,976,,,,building,219735.0,False,-1,im3
+,,unknown,45.915709847092806,-119.26998056724548,OR,Umatilla County,4.828650598086514,estimated from floor area,,im3,979,,,,building,15313.0,False,-1,im3
+QTS,Quality Technology Services,unknown,33.460806376980806,-111.99712196333098,AZ,Maricopa County,49.35326788077546,estimated from floor area,,im3,983,,,,building,156513.0,False,-1,im3
+,,unknown,38.81056014127996,-89.94870327621621,IL,Madison County,0.0643273507483608,estimated from floor area,,im3,984,,,,building,204.0,False,-1,im3
+,,unknown,39.13368478590359,-76.85140715035047,MD,Howard County,35.38161956235207,estimated from floor area,,im3,989,,,,building,112205.0,False,-1,im3
+,,unknown,44.30167224151622,-120.89459613565027,OR,Crook County,143.60166597134437,estimated from floor area,,im3,990,,,,building,455401.0,False,-1,im3
+,,unknown,44.29928794775434,-120.894594693301,OR,Crook County,76.05227174285245,estimated from floor area,,im3,991,,,,building,241183.0,False,-1,im3
+Digital Realty PDX11 Data Center,Digital Realty,unknown,45.568459285228734,-122.919968912523,OR,Washington County,90.76715322653999,estimated from floor area,,im3,992,,,,building,287848.0,False,-1,im3
+Datacenter (386),UChicago Argonne LLC,unknown,41.707134165979966,-87.97595597595401,IL,DuPage County,3.9141931609774634,estimated from floor area,,im3,993,,,,building,12413.0,False,-1,im3
+CoreSite SV7,CoreSite,unknown,37.37607876788322,-121.97305665064762,CA,Santa Clara County,19.23167056270479,estimated from floor area,,im3,999,,,,building,60989.0,False,-1,im3
+Meta Huntsville Data center,Meta,unknown,34.847333791994075,-86.6269185980179,AL,Madison County,182.36867003190432,estimated from floor area,,im3,1000,,,,building,578342.0,False,-1,im3
+Meta Huntsville Data center,Meta,unknown,34.843182229068525,-86.62886566493462,AL,Madison County,111.20149298411854,estimated from floor area,,im3,1001,,,,building,352651.0,False,-1,im3
+Meta Huntsville Data center,Meta,unknown,34.84043160671047,-86.62884123942305,AL,Madison County,270.28460803556845,estimated from floor area,,im3,1002,,,,building,857148.0,False,-1,im3
+Microsoft EAT03,Microsoft,unknown,47.41832392189266,-120.20770997491816,WA,Douglas County,74.23439342390981,estimated from floor area,,im3,1005,,,,building,235418.0,False,-1,im3
+Microsoft EAT04,Microsoft,unknown,47.419636588714944,-120.21382073657306,WA,Douglas County,74.05024061588509,estimated from floor area,,im3,1006,,,,building,234834.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.534990295223466,-93.86344403715006,IA,Dallas County,78.98578813506815,estimated from floor area,,im3,1007,,,,building,250486.0,False,-1,im3
+EAT14,,unknown,47.35949692084332,-120.16009077106148,WA,Chelan County,76.25818233127735,estimated from floor area,,im3,1009,,,,building,241836.0,False,-1,im3
+EAT13,,unknown,47.35842571835008,-120.15997586326914,WA,Chelan County,73.2313282144464,estimated from floor area,,im3,1010,,,,building,232237.0,False,-1,im3
+EAT12,,unknown,47.3574330116489,-120.15954624801124,WA,Chelan County,78.49135045872781,estimated from floor area,,im3,1011,,,,building,248918.0,False,-1,im3
+,,unknown,32.89476229626733,-96.98194594256124,TX,Dallas County,44.71003141131657,estimated from floor area,,im3,1012,,,,building,141788.0,False,-1,im3
+,,unknown,41.12539868568295,-104.9075161092094,WY,Laramie County,9.200703137919957,estimated from floor area,,im3,1014,,,,building,29178.0,False,-1,im3
+,,unknown,41.12645973663428,-104.89953749554007,WY,Laramie County,10.613066883027349,estimated from floor area,,im3,1015,,,,building,33657.0,False,-1,im3
+,,unknown,41.12541097703015,-104.90197773507904,WY,Laramie County,16.26788247601928,estimated from floor area,,im3,1016,,,,building,51590.0,False,-1,im3
+,,unknown,41.12226600580698,-104.90814229902796,WY,Laramie County,68.87409619169713,estimated from floor area,,im3,1017,,,,building,218419.0,False,-1,im3
+,,unknown,41.12224618145857,-104.909516950286,WY,Laramie County,68.38848775957716,estimated from floor area,,im3,1018,,,,building,216879.0,False,-1,im3
+Meta Data Center,Meta,unknown,39.32265086779682,-94.59806356908612,MO,Clay County,194.22350704849558,estimated from floor area,,im3,1024,,,,building,615937.0,False,-1,im3
+Meta,Meta,unknown,34.825839640241206,-106.77888911307576,NM,Valencia County,185.56864040148452,estimated from floor area,,im3,1034,,,,building,588490.0,False,-1,im3
+,,unknown,47.24481075189648,-119.81798352548935,WA,Grant County,88.36654478905338,estimated from floor area,,im3,1035,,,,building,280235.0,False,-1,im3
+,,unknown,47.24427568966153,-119.81481251567008,WA,Grant County,46.44119393880922,estimated from floor area,,im3,1036,,,,building,147278.0,False,-1,im3
+Lightedge Des Moines 2,,unknown,41.66679862807146,-93.45595524492184,IA,Polk County,17.855885115081758,estimated from floor area,,im3,1037,,,,building,56626.0,False,-1,im3
+,,unknown,39.56971060147777,-119.5378594125417,NV,Washoe County,28.321692817719473,estimated from floor area,,im3,1039,,,,building,89816.0,False,-1,im3
+,,unknown,39.570052601477805,-119.53709171254168,NV,Washoe County,28.321692817719473,estimated from floor area,,im3,1040,,,,building,89816.0,False,-1,im3
+,,unknown,39.57059170801203,-119.53603404605106,NV,Washoe County,28.32326946847311,estimated from floor area,,im3,1041,,,,building,89821.0,False,-1,im3
+,,unknown,39.57098620148502,-119.5353175625486,NV,Washoe County,28.324215458925295,estimated from floor area,,im3,1042,,,,building,89824.0,False,-1,im3
+Carrier Services Group,,unknown,41.04105972873746,-80.63309049266806,OH,Mahoning County,23.76927143167004,estimated from floor area,,im3,1043,,,,building,75379.0,False,-1,im3
+Flexential Nashville - Cool Springs,Flexential,unknown,35.9510406627101,-86.83338099610178,TN,Williamson County,21.840081569520674,estimated from floor area,,im3,1044,,,,building,69261.0,False,-1,im3
+,,unknown,43.63833310938071,-89.72140293849328,WI,Columbia County,0.11383418441254042,estimated from floor area,,im3,1045,,,,building,361.0,False,-1,im3
+,,unknown,42.02314332706365,-87.97218622171744,IL,Cook County,34.83483708099101,estimated from floor area,,im3,1049,,,,building,110471.0,False,-1,im3
+T5 Chicago II,T5 Data Centers,unknown,42.02304233326569,-87.97555687597257,IL,Cook County,51.473547814265544,estimated from floor area,,im3,1050,,,,building,163237.0,False,-1,im3
+Cortex supercomputer,,unknown,30.21539943501369,-97.61896045736678,TX,Travis County,134.9086443760953,estimated from floor area,,im3,1051,,,,building,427833.0,False,-1,im3
+Google NBY-2,Google,unknown,40.05963281203005,-82.76452657909626,OH,Licking County,43.792420672700246,estimated from floor area,,im3,1053,,,,building,138878.0,False,-1,im3
+,,unknown,41.21209899075678,-95.87791366422856,IA,Pottawattamie County,37.19287594812945,estimated from floor area,,im3,1055,,,,building,117949.0,False,-1,im3
+Novartis,,unknown,32.65123418104135,-97.31970940523344,TX,Tarrant County,13.461759464697405,estimated from floor area,,im3,1058,,,,building,42691.0,False,-1,im3
+Equinix SV11,Equinix,unknown,37.24260507449007,-121.7839986384854,CA,Santa Clara County,24.2731690125322,estimated from floor area,,im3,1059,,,,building,76977.0,False,-1,im3
+CyrusOne PHX3,,unknown,33.27196805840212,-111.88162712790565,AZ,Maricopa County,33.93520016096614,estimated from floor area,,im3,1063,,,,building,107618.0,False,-1,im3
+CyrusOne PHX4,,unknown,33.27193710235771,-111.88328211364428,AZ,Maricopa County,34.35742723278994,estimated from floor area,,im3,1064,,,,building,108957.0,False,-1,im3
+Lightedge Des Moines 1,,unknown,41.66765686470181,-93.45548176472272,IA,Polk County,9.48450027357449,estimated from floor area,,im3,1066,,,,building,30078.0,False,-1,im3
+Yahoo,Yahoo,unknown,41.18049999101002,-96.08489874916177,NE,Sarpy County,74.95113885651287,estimated from floor area,,im3,1067,,,,building,237691.0,False,-1,im3
+,CenturyLink,unknown,32.30965547587507,-106.72917107190824,NM,Doña Ana County,10.039166008703738,estimated from floor area,,im3,1068,,,,building,31837.0,False,-1,im3
+Verizon North Las Vegas,Verizon,unknown,36.22189342504773,-115.14705545021236,NV,Clark County,7.913525462651287,estimated from floor area,,im3,1069,,,,building,25096.0,False,-1,im3
+Google,Google,unknown,41.13439327581521,-96.15590606506956,NE,Sarpy County,93.7911693720144,estimated from floor area,,im3,1071,,,,building,297438.0,False,-1,im3
+Involta Independence,,unknown,41.36106237331226,-81.63280479310477,OH,Cuyahoga County,8.322508668144541,estimated from floor area,,im3,1072,,,,building,26393.0,False,-1,im3
+Bloomberg Data Center,Bloomberg,unknown,41.0362703541861,-73.98749369632571,NY,Rockland County,57.5600503836031,estimated from floor area,,im3,1073,,,,building,182539.0,False,-1,im3
+fifteenfortyseven CSR ORNY1,fifteenfortyseven Critical Systems Realty,unknown,41.0344845031804,-73.97576449873921,NY,Rockland County,47.77756311759135,estimated from floor area,,im3,1074,,,,building,151516.0,False,-1,im3
+Amazon Web Services CMH62,Amazon Web Services,unknown,40.09298279215547,-82.74763713445286,OH,Licking County,42.98864411849647,estimated from floor area,,im3,1081,,,,building,136329.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.04935754088761,-83.17546025829033,OH,Franklin County,69.55552464741875,estimated from floor area,,im3,1088,,,,building,220580.0,False,-1,im3
+,Amazon Web Services,unknown,40.04813089818562,-83.17528384542761,OH,Franklin County,68.6930966851797,estimated from floor area,,im3,1089,,,,building,217845.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.04790974075581,-83.17754692245403,OH,Franklin County,4.558412658913253,estimated from floor area,,im3,1090,,,,building,14456.0,False,-1,im3
+Google NBY-3,Google,unknown,40.05795740696205,-82.76528495795795,OH,Licking County,89.80823423817839,estimated from floor area,,im3,1091,,,,building,284807.0,False,-1,im3
+Google NBY-4,Google,unknown,40.059342128156295,-82.77177556209224,OH,Franklin County,92.77044567411026,estimated from floor area,,im3,1092,,,,building,294201.0,False,-1,im3
+Meta New Albany Data Center,Meta,unknown,40.06037970378648,-82.75098831560908,OH,Licking County,191.9606978868768,estimated from floor area,,im3,1093,,,,building,608761.0,False,-1,im3
+Google,Google,unknown,39.85209794675051,-82.99487523065918,OH,Franklin County,91.40601211191343,estimated from floor area,,im3,1094,,,,building,289874.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.85874996159125,-119.60509631980196,OR,Morrow County,66.3990698386389,estimated from floor area,,im3,1096,,,,building,210570.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.86008348238562,-119.60513360298896,OR,Morrow County,66.81972025970906,estimated from floor area,,im3,1097,,,,building,211904.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.8609694312574,-119.6051531215301,OR,Morrow County,68.27780687667189,estimated from floor area,,im3,1098,,,,building,216528.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.841481031506696,-119.6517767921927,OR,Morrow County,4.340519524760717,estimated from floor area,,im3,1099,,,,building,13765.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.9206369354048,-119.23183081247244,OR,Umatilla County,68.24690452190063,estimated from floor area,,im3,1100,,,,building,216430.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.92064708433544,-119.22998114838396,OR,Umatilla County,66.61034103962615,estimated from floor area,,im3,1101,,,,building,211240.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.79777489027666,-119.361958718014,OR,Umatilla County,68.35632408420298,estimated from floor area,,im3,1102,,,,building,216777.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.799165042059165,-119.3666580013381,OR,Umatilla County,68.39605568319462,estimated from floor area,,im3,1103,,,,building,216903.0,False,-1,im3
+Google,Google,unknown,39.724010166114695,-82.69112739236837,OH,Fairfield County,91.21019208831179,estimated from floor area,,im3,1104,,,,building,289253.0,False,-1,im3
+Meta Sarpy Data center,Meta,unknown,41.123572980157554,-96.13289444072416,NE,Sarpy County,198.2039195411258,estimated from floor area,,im3,1108,,,,building,628560.0,False,-1,im3
+Meta Sarpy Data center,Meta,unknown,41.11432923797791,-96.1428365153122,NE,Sarpy County,197.1721592879462,estimated from floor area,,im3,1109,,,,building,625288.0,False,-1,im3
+Meta Sarpy Data center,Meta,unknown,41.11216327459793,-96.14155463388816,NE,Sarpy County,90.26420163613001,estimated from floor area,,im3,1110,,,,building,286253.0,False,-1,im3
+Meta,Meta,unknown,41.67557150002093,-93.50965654880696,IA,Polk County,155.57317514370476,estimated from floor area,,im3,1111,,,,building,493366.0,False,-1,im3
+Meta,Meta,unknown,41.67582283535729,-93.50603124097204,IA,Polk County,189.53738567853782,estimated from floor area,,im3,1112,,,,building,601076.0,False,-1,im3
+Windbreak Cable,,unknown,41.18260120002003,-104.0684982999999,WY,Laramie County,0.3512777879101663,estimated from floor area,,im3,1116,,,,building,1114.0,False,-1,im3
+,,unknown,44.28575425519378,-120.8699210224936,OR,Crook County,86.78421809270398,estimated from floor area,,im3,1119,,,,building,275217.0,False,-1,im3
+Involta-Akron,,unknown,41.057431068795566,-81.52197151267426,OH,Summit County,18.73912486726881,estimated from floor area,,im3,1123,,,,building,59427.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.92059672458088,-119.22880463589556,OR,Umatilla County,71.08203790708941,estimated from floor area,,im3,1131,,,,building,225421.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.920560005801455,-119.2270042542206,OR,Umatilla County,68.54489151433789,estimated from floor area,,im3,1132,,,,building,217375.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.919515285726376,-119.22609033042734,OR,Umatilla County,5.065463541282685,estimated from floor area,,im3,1133,,,,building,16064.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.88251750222229,-119.3416517837596,OR,Umatilla County,68.96207330375005,estimated from floor area,,im3,1134,,,,building,218698.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.86225295877379,-119.60511168543223,OR,Morrow County,66.82791884362796,estimated from floor area,,im3,1135,,,,building,211930.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.85803760730771,-119.60487161226038,OR,Morrow County,4.039694560966912,estimated from floor area,,im3,1136,,,,building,12811.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.840670297393935,-119.65130207689772,OR,Morrow County,4.390341688575624,estimated from floor area,,im3,1137,,,,building,13923.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.81993095962179,-119.63208588156591,OR,Morrow County,67.09437282099249,estimated from floor area,,im3,1138,,,,building,212775.0,False,-1,im3
+UPS Data Center,,unknown,34.10338317620051,-84.2149739266172,GA,Forsyth County,54.77063987026976,estimated from floor area,,im3,1141,,,,building,173693.0,False,-1,im3
+Microsoft,Microsoft,unknown,33.44634015387983,-112.37391953991316,AZ,Maricopa County,75.23178269066013,estimated from floor area,,im3,1144,,,,building,238581.0,False,-1,im3
+Meta Gallatin Data Center,Meta,unknown,36.41186544511472,-86.36966140352041,TN,Sumner County,197.57672787132927,estimated from floor area,,im3,1158,,,,building,626571.0,False,-1,im3
+Modesto Junior College West Data Center,Yosemite Community College District,unknown,37.66514737401328,-121.04003747175076,CA,Stanislaus County,1.897341516925916,estimated from floor area,,im3,1159,,,,building,6017.0,False,-1,im3
+GVTC,GVTC,unknown,29.68640301722139,-98.4626474985889,TX,Bexar County,0.14032191707363015,estimated from floor area,,im3,1160,,,,building,445.0,False,-1,im3
+Stream Data Centers,,unknown,32.9836681552358,-96.65427329455416,TX,Dallas County,88.49267684934428,estimated from floor area,,im3,1161,,,,building,280635.0,False,-1,im3
+Ark Duluth Data Center,,unknown,46.82746658999977,-92.13043071418323,MN,St. Louis County,8.564997554053804,estimated from floor area,,im3,1166,,,,building,27162.0,False,-1,im3
+Flexential Charlotte - North,Flexential,unknown,35.32975386752092,-80.76578188627896,NC,Mecklenburg County,19.805571437028398,estimated from floor area,,im3,1167,,,,building,62809.0,False,-1,im3
+,HEB,unknown,29.58014145508233,-98.54132736832202,TX,Bexar County,11.427879992506586,estimated from floor area,,im3,1170,,,,building,36241.0,False,-1,im3
+,Meta,unknown,41.88853040860736,-88.72185807435966,IL,DeKalb County,179.25068550151317,estimated from floor area,,im3,1172,,,,building,568454.0,False,-1,im3
+,Meta,unknown,41.88928381978822,-88.73105377072714,IL,DeKalb County,179.24690153970445,estimated from floor area,,im3,1173,,,,building,568442.0,False,-1,im3
+,Meta,unknown,41.89027497092366,-88.72635519613044,IL,DeKalb County,100.96366898045663,estimated from floor area,,im3,1174,,,,building,320184.0,False,-1,im3
+Meta Gallatin Data Center,Meta,unknown,36.41135065140836,-86.3660125010422,TN,Sumner County,197.5757818808771,estimated from floor area,,im3,1175,,,,building,626568.0,False,-1,im3
+Meta Gallatin Data Center,Meta,unknown,36.40604868216981,-86.36660783519794,TN,Sumner County,197.61204484821073,estimated from floor area,,im3,1176,,,,building,626683.0,False,-1,im3
+,,unknown,37.370642952923895,-121.97450722223287,CA,Santa Clara County,39.12269647058027,estimated from floor area,,im3,1178,,,,building,124069.0,False,-1,im3
+Vantage Santa Clara CA2,Vantage Data Centers,unknown,37.36403183434052,-121.9468448755741,CA,Santa Clara County,41.63335513067071,estimated from floor area,,im3,1179,,,,building,132031.0,False,-1,im3
+Digital Realty Silicon Valley SJC37,Digital Realty,unknown,37.37093636866237,-121.9472163527582,CA,Santa Clara County,49.09343583657619,estimated from floor area,,im3,1180,,,,building,155689.0,False,-1,im3
+QTS,Quality Technology Services,unknown,33.46474691950877,-111.99753426906965,AZ,Maricopa County,51.23610421076791,estimated from floor area,,im3,1182,,,,building,162484.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.49580619609169,-93.78705539830352,IA,Warren County,77.9486672693262,estimated from floor area,,im3,1184,,,,building,247197.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.49474989609202,-93.7870205983035,IA,Warren County,77.9499285899291,estimated from floor area,,im3,1185,,,,building,247201.0,False,-1,im3
+,,unknown,40.22452425388648,-83.04586008454727,OH,Delaware County,97.00974422048753,estimated from floor area,,im3,1188,,,,building,307645.0,False,-1,im3
+DC BLOX Myrtle Beach Cable Landing Station,,unknown,33.674583221801456,-78.94369603285817,SC,Horry County,28.993346038768536,estimated from floor area,,im3,1189,,,,building,91946.0,False,-1,im3
+Meta,Meta,unknown,34.825823197722954,-106.78246827061648,NM,Valencia County,185.55949582711344,estimated from floor area,,im3,1194,,,,building,588461.0,False,-1,im3
+DataBank,,unknown,45.14371136905177,-93.38712828955704,MN,Hennepin County,36.151971120578764,estimated from floor area,,im3,1195,,,,building,114648.0,False,-1,im3
+Vantage WA13,,unknown,47.25252755404145,-119.81362252658953,WA,Grant County,79.4710812370374,estimated from floor area,,im3,1196,,,,building,252025.0,False,-1,im3
+,,unknown,47.24364491383648,-119.86905124992496,WA,Grant County,37.57064146870071,estimated from floor area,,im3,1197,,,,building,119147.0,False,-1,im3
+Amazon,,unknown,29.450736236167327,-98.63871379564972,TX,Bexar County,33.08128611279672,estimated from floor area,,im3,1204,,,,building,104910.0,False,-1,im3
+,,unknown,29.41845384292862,-98.788807852764,TX,Bexar County,20.247979638498744,estimated from floor area,,im3,1205,,,,building,64212.0,False,-1,im3
+Csquare SFO4,Csquare,unknown,37.37575523104788,-121.95626909177358,CA,Santa Clara County,10.169082030803368,estimated from floor area,,im3,1206,,,,building,32249.0,False,-1,im3
+DataBank Santa Clara SFO1,DataBank,unknown,37.40729868242747,-121.96595642250188,CA,Santa Clara County,8.444856766626717,estimated from floor area,,im3,1212,,,,building,26781.0,False,-1,im3
+PTC,Stayton Cooperative Telephone Company,unknown,44.77521879334287,-122.6159312375102,OR,Linn County,0.7949473099834193,estimated from floor area,,im3,1213,,,,building,2521.0,False,-1,im3
+,,unknown,41.51586406763058,-93.72031237839327,IA,Polk County,83.22823998295269,estimated from floor area,,im3,1214,,,,building,263940.0,False,-1,im3
+,,unknown,41.516863672550784,-93.71976722360252,IA,Polk County,78.22363516076037,estimated from floor area,,im3,1215,,,,building,248069.0,False,-1,im3
+CenturyLink,,unknown,39.74404823646494,-93.9973760190651,MO,Caldwell County,0.4518681059921619,estimated from floor area,,im3,1216,,,,building,1433.0,False,-1,im3
+,,unknown,33.35323014577916,-111.67808965639534,AZ,Maricopa County,76.06110098707282,estimated from floor area,,im3,1217,,,,building,241211.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.87953253861672,-119.34163563129184,OR,Umatilla County,68.96995655751823,estimated from floor area,,im3,1218,,,,building,218723.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.88252484149941,-119.3396900641125,OR,Umatilla County,68.96522660525733,estimated from floor area,,im3,1219,,,,building,218708.0,False,-1,im3
+,,unknown,40.05924761990545,-82.76269811748983,OH,Licking County,30.016277047727765,estimated from floor area,,im3,1220,,,,building,95190.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.53391629522377,-93.86343863715008,IA,Dallas County,78.98704945567106,estimated from floor area,,im3,1221,,,,building,250490.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.53283774495582,-93.86346169206516,IA,Dallas County,78.98831077627396,estimated from floor area,,im3,1222,,,,building,250494.0,False,-1,im3
+Microsoft,Microsoft,unknown,41.53181414495484,-93.86344214206296,IA,Dallas County,78.98957209687687,estimated from floor area,,im3,1223,,,,building,250498.0,False,-1,im3
+Flexential Las Vegas - Downtown,Flexential,unknown,36.168643800000766,-115.14314455000994,NV,Clark County,0.1384299361692666,estimated from floor area,,im3,1225,,,,building,439.0,False,-1,im3
+xAI Colossus,,unknown,35.05996022239821,-90.15645222216364,TN,Shelby County,245.00080588995536,estimated from floor area,,im3,1228,,,,building,776966.0,False,-1,im3
+T5@Cleveland,T5 Data Centers,unknown,41.44246938202044,-81.80215430324107,OH,Cuyahoga County,77.16854047642695,estimated from floor area,,im3,1230,,,,building,244723.0,False,-1,im3
+Databank LGA3,Databank,unknown,41.0399432449328,-73.98965093105873,NY,Rockland County,62.2625689213987,estimated from floor area,,im3,1231,,,,building,197452.0,False,-1,im3
+CoreSite NY3,CoreSite,unknown,40.784903830537054,-74.06535725613013,NJ,Hudson County,12.511985050706901,estimated from floor area,,im3,1232,,,,building,39679.0,False,-1,im3
+Google NBY-5,Google,unknown,40.05652000741912,-82.772048580204,OH,Franklin County,90.50227589992909,estimated from floor area,,im3,1238,,,,building,287008.0,False,-1,im3
+Google NBY-6,Google,unknown,40.05392734996134,-82.76761078944944,OH,,90.68359073659725,estimated from floor area,,im3,1239,,,,building,287583.0,True,-1,im3
+Meta,Meta,unknown,40.06149628180154,-82.74054460541299,OH,Licking County,115.26830593804799,estimated from floor area,,im3,1241,,,,building,365548.0,False,-1,im3
+Meta,Meta,unknown,40.065239403615855,-82.74114938512078,OH,Licking County,95.89473680751595,estimated from floor area,,im3,1242,,,,building,304109.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.05017566216084,-83.17552394889911,OH,Franklin County,67.5074553184452,estimated from floor area,,im3,1247,,,,building,214085.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.05152799488423,-83.17571627041164,OH,Franklin County,66.58353797681434,estimated from floor area,,im3,1248,,,,building,211155.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.01641808152992,-83.12585830529049,OH,Franklin County,67.11549994109122,estimated from floor area,,im3,1249,,,,building,212842.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,40.02101728573019,-83.12602357320513,OH,Franklin County,68.71674644648424,estimated from floor area,,im3,1250,,,,building,217920.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.85173142305967,-119.61966295645044,OR,Morrow County,67.49389612196393,estimated from floor area,,im3,1251,,,,building,214042.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.85310039256019,-119.61968497991585,OR,Morrow County,66.32559791351943,estimated from floor area,,im3,1252,,,,building,210337.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.81870682167566,-119.63200543136976,OR,Morrow County,66.42808021250579,estimated from floor area,,im3,1253,,,,building,210662.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.8186963213564,-119.63626874113692,OR,Morrow County,67.97099064001426,estimated from floor area,,im3,1254,,,,building,215555.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.8199565841208,-119.6362869627198,OR,Morrow County,65.91440739697109,estimated from floor area,,im3,1255,,,,building,209033.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.80963737114029,-119.26861513231998,OR,Umatilla County,66.69295753911669,estimated from floor area,,im3,1256,,,,building,211502.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.80827344729872,-119.26861305271856,OR,Umatilla County,67.10414805566504,estimated from floor area,,im3,1257,,,,building,212806.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.79902106441417,-119.36173272155504,OR,Umatilla County,67.92369111740518,estimated from floor area,,im3,1258,,,,building,215405.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.799686801643226,-119.35844453136586,OR,Umatilla County,4.36322329561308,estimated from floor area,,im3,1259,,,,building,13837.0,False,-1,im3
+Amazon Web Services,Amazon Web Services,unknown,45.79773907760564,-119.3589196247444,OR,Umatilla County,4.372683200134898,estimated from floor area,,im3,1260,,,,building,13867.0,False,-1,im3
+CYS41 Datacenter,Microsoft,unknown,41.12439345701424,-104.89701277770264,WY,Laramie County,14.571721595257356,estimated from floor area,,im3,1261,,,,building,46211.0,False,-1,im3
+CYS42 Datacenter,Microsoft,unknown,41.12538272388359,-104.90891013785874,WY,Laramie County,19.03585053910316,estimated from floor area,,im3,1262,,,,building,60368.0,False,-1,im3
+xAI Macrohard Colossus 2,xAI,unknown,34.997983048006375,-90.03486737827305,TN,Shelby County,303.2217882694828,estimated from floor area,,im3,1263,,,,building,961601.0,False,-1,im3
+,,unknown,35.56813484793012,-95.51241664405325,OK,Muskogee County,35.463920731691886,estimated from floor area,,im3,1264,,,,building,112466.0,False,-1,im3
+Encompass Minneapolis Facility,Encompass,unknown,45.13219704691406,-93.09562181940242,MN,Anoka County,23.366279499040605,estimated from floor area,,im3,1267,,,,building,74101.0,False,-1,im3
+,,unknown,38.93919968729018,-94.86018510466296,KS,Johnson County,27.28394129167607,estimated from floor area,,im3,1268,,,,building,86525.0,False,-1,im3
+,Oppidan,unknown,40.05267287889233,-83.12742344787743,OH,Franklin County,28.163712412205122,estimated from floor area,,im3,1269,,,,building,89315.0,False,-1,im3
+,,unknown,44.18923686731807,-105.61048019591456,WY,Campbell County,1.8840976505953715,estimated from floor area,,im3,1270,,,,building,5975.0,False,-1,im3
+State of Montana Data Center,State of Montana,unknown,46.40689745786043,-105.8206447445356,MT,Custer County,2.678098970126609,estimated from floor area,,im3,1271,,,,building,8493.0,False,-1,im3
+Google,Google,unknown,41.33914158417576,-96.08466909067688,NE,Douglas County,91.49651186517214,estimated from floor area,,im3,1273,,,,building,290161.0,False,-1,im3
+Google,Google,unknown,41.34193880105854,-96.08771931019496,NE,Douglas County,91.48673663049959,estimated from floor area,,im3,1274,,,,building,290130.0,False,-1,im3
+Google,Google,unknown,41.345162392266765,-96.0935333091696,NE,Douglas County,91.47885337673141,estimated from floor area,,im3,1275,,,,building,290105.0,False,-1,im3
+QTS NAL 2 DC1,Quality Technology Services,unknown,40.0556836587917,-82.75637526337734,OH,Licking County,51.49940488662518,estimated from floor area,,im3,1277,,,,building,163319.0,False,-1,im3
+QTS NAL 2 DC2,Quality Technology Services,unknown,40.0531198921073,-82.75657723017025,OH,Licking County,46.56070406593486,estimated from floor area,,im3,1278,,,,building,147657.0,False,-1,im3
+QTS NAL1 DC2,Quality Technology Services,unknown,40.06356213641001,-82.75816917488658,OH,Licking County,71.48881380152757,estimated from floor area,,im3,1279,,,,building,226711.0,False,-1,im3
+QTS NAL1 DC1,Quality Technology Services,unknown,40.06510848413083,-82.75805608235054,OH,Licking County,70.98586221111759,estimated from floor area,,im3,1280,,,,building,225116.0,False,-1,im3
+Google,Google,unknown,32.5389942949367,-96.79316889732078,TX,Ellis County,91.07680743455415,estimated from floor area,,im3,1282,,,,building,288830.0,False,-1,im3
+Compass Data Center,,unknown,32.54551791172823,-96.80209872095472,TX,Ellis County,78.51027026777145,estimated from floor area,,im3,1283,,,,building,248978.0,False,-1,im3
+Compass Data Center,,unknown,32.54420541262749,-96.8020805923652,TX,Ellis County,78.51247757882653,estimated from floor area,,im3,1284,,,,building,248985.0,False,-1,im3
+Compass Data Center,,unknown,32.542912612627966,-96.8020853923652,TX,Ellis County,78.51342356927871,estimated from floor area,,im3,1285,,,,building,248988.0,False,-1,im3
+Compass Data Center,,unknown,32.541602011729644,-96.80209902095476,TX,Ellis County,78.51373889942944,estimated from floor area,,im3,1286,,,,building,248989.0,False,-1,im3
+Compass Data Center,,unknown,32.54029016067398,-96.80210588253378,TX,Ellis County,78.20124672005872,estimated from floor area,,im3,1287,,,,building,247998.0,False,-1,im3
+Compass Data Center,,unknown,32.54267431004566,-96.79361041648713,TX,Ellis County,79.44396284407486,estimated from floor area,,im3,1288,,,,building,251939.0,False,-1,im3
+Compass Data Center,,unknown,32.54399253578879,-96.7936108455581,TX,Ellis County,79.43544893000522,estimated from floor area,,im3,1289,,,,building,251912.0,False,-1,im3
+Compass Data Center,,unknown,32.54529698511378,-96.7936475711988,TX,Ellis County,79.4351335998545,estimated from floor area,,im3,1290,,,,building,251911.0,False,-1,im3
+Compass Data Center,,unknown,32.543965285497585,-96.7885069389561,TX,Ellis County,79.43891756166322,estimated from floor area,,im3,1291,,,,building,251923.0,False,-1,im3
+Compass Data Center,,unknown,32.545296653507904,-96.7884905818255,TX,Ellis County,79.44459350437631,estimated from floor area,,im3,1292,,,,building,251941.0,False,-1,im3
+Google NBY-7,Google,unknown,40.05393985497952,-82.7644472443362,OH,Licking County,55.35053201745719,estimated from floor area,,im3,1295,,,,building,175532.0,False,-1,im3
+Microsoft,Microsoft,unknown,47.23859240981344,-119.88741175976487,WA,Grant County,45.23127215046873,estimated from floor area,,im3,1299,,,,building,143441.0,False,-1,im3
+,,unknown,29.449680291111807,-98.71438661856558,TX,Bexar County,48.70053446877003,estimated from floor area,,im3,1300,,,,building,154443.0,False,-1,im3
+,,unknown,29.45093084145712,-98.71389142350314,TX,Bexar County,48.69990380846858,estimated from floor area,,im3,1301,,,,building,154441.0,False,-1,im3
+,,unknown,29.45223054034249,-98.71404701630988,TX,Bexar County,48.699273148167116,estimated from floor area,,im3,1302,,,,building,154439.0,False,-1,im3
+,,unknown,39.32263663463124,-94.59492397885744,MO,Clay County,96.93690295566954,estimated from floor area,,im3,1303,,,,building,307414.0,False,-1,im3
+,,unknown,40.0207608591313,-83.12417577793775,OH,Franklin County,82.51086389004817,estimated from floor area,,im3,1312,,,,building,261665.0,False,-1,im3
+,,unknown,40.0212015751041,-83.12318764145307,OH,Franklin County,41.00143350861328,estimated from floor area,,im3,1313,,,,building,130027.0,False,-1,im3
+,,unknown,44.7347589273926,-93.06186047500412,MN,Dakota County,103.56041277169561,estimated from floor area,,im3,1318,,,,building,328419.0,False,-1,im3
+,,unknown,44.73450830563237,-93.06488082739824,MN,Dakota County,86.319421450532,estimated from floor area,,im3,1319,,,,building,273743.0,False,-1,im3
+,,unknown,41.514853067630966,-93.72088557839348,IA,Polk County,83.2295013035556,estimated from floor area,,im3,1320,,,,building,263944.0,False,-1,im3
+,,unknown,41.51388771763131,-93.72140957839252,IA,Polk County,83.23139328445997,estimated from floor area,,im3,1321,,,,building,263950.0,False,-1,im3
+IONIC Digital Cedarvale,IONIC Digital,unknown,31.51347361003037,-103.44862076924288,TX,Ward County,706.0015037074801,estimated from floor area,,im3,1322,,,,building,2238928.0,False,-1,im3
+,,unknown,43.46314906556169,-116.2682278264812,ID,Ada County,98.24552308118766,estimated from floor area,,im3,1324,,,,building,311564.0,False,-1,im3
+,,unknown,43.46334884091311,-116.27208493714188,ID,Ada County,118.01893084284188,estimated from floor area,,im3,1325,,,,building,374271.0,False,-1,im3
+East Kentucky Network Datacenter,,unknown,37.60017671613885,-82.67876276810777,KY,Floyd County,4.917258370440874,estimated from floor area,,im3,1326,,,,building,15594.0,False,-1,im3
+,,unknown,33.34718733044236,-111.6324625173746,AZ,Maricopa County,205.76175259375674,estimated from floor area,,im3,1327,,,,building,652528.0,False,-1,im3
+,,unknown,33.346322514530925,-111.6289166123353,AZ,Maricopa County,205.77594245053945,estimated from floor area,,im3,1328,,,,building,652573.0,False,-1,im3
+,,unknown,33.34716881147752,-111.62596778673522,AZ,Maricopa County,106.41099733427004,estimated from floor area,,im3,1329,,,,building,337459.0,False,-1,im3
+,,unknown,31.194175662576733,-94.79677175730814,TX,Angelina County,4.09519266749491,estimated from floor area,,im3,1330,,,,building,12987.0,False,-1,im3
+Google,Google,unknown,32.44011676786547,-97.06091510587594,TX,Ellis County,89.01265626789352,estimated from floor area,,im3,1331,,,,building,282284.0,False,-1,im3
+EdgeCore Silicon Valley,,unknown,37.38371826652648,-121.96538823847324,CA,Santa Clara County,25.36610331495288,estimated from floor area,,im3,1337,,,,building,80443.0,False,-1,im3
+STACK SVY02,Stack Infrastructure,unknown,37.36193156366279,-121.95374429776638,CA,Santa Clara County,42.91107290141756,estimated from floor area,,im3,1338,,,,building,136083.0,False,-1,im3
+Amazon AWS SAT - 12807 Donop,Amazon Web Services,unknown,29.29300517623084,-98.39162546590184,TX,Bexar County,34.80961066893283,estimated from floor area,,im3,1339,,,,building,110391.0,False,-1,im3
+,,unknown,40.115815974371074,-83.00154872692079,OH,Franklin County,31.574323322471148,estimated from floor area,,im3,1341,,,,building,100131.0,False,-1,im3
+,,unknown,47.24017868896512,-119.86320668797936,WA,Grant County,159.03676151929295,estimated from floor area,,im3,1346,,,,building,504350.0,False,-1,im3
+SPC4A,Google,unknown,36.62405506342714,-87.25691732953204,TN,Montgomery County,53.526977755801454,estimated from floor area,,im3,1347,,,,building,169749.0,False,-1,im3
+QTS,Quality Technology Services,unknown,33.44836060805451,-84.52265191627977,GA,Fayette County,71.65499279096083,estimated from floor area,,im3,1348,,,,building,227238.0,False,-1,im3
+QTS,Quality Technology Services,unknown,33.450931799506705,-84.52361886278894,GA,Fayette County,107.39798070604634,estimated from floor area,,im3,1349,,,,building,340589.0,False,-1,im3
+,,unknown,40.26585616535565,-112.0194203234161,UT,Utah County,119.44327713367692,estimated from floor area,,im3,1350,,,,building,378788.0,False,-1,im3
+,,unknown,40.26987560376367,-112.0194525662908,UT,Utah County,97.81572808574641,estimated from floor area,,im3,1351,,,,building,310201.0,False,-1,im3

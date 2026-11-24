@@ -1,0 +1,25 @@
+# Python packages used by the notebooks in notebooks/ (01-08).
+# Tested with Python 3.10: with these versions every file in data/clean and outputs/ is reproduced
+# (up to floating-point differences in the last decimals across machines).
+# Install with:  pip install -r requirements.txt
+
+# data
+pandas==2.3.3
+numpy==2.2.6
+pyarrow==25.0.1        # parquet panels
+openpyxl==3.1.5        # .xlsx files (hub prices, generation)
+xlrd==2.0.2            # .xls file (gas prices)
+
+# models
+statsmodels==0.15.0    # difference-in-differences (05, 08)
+patsy==1.0.3           # formulas used by statsmodels
+scipy==1.15.3          # synthetic control weights (06)
+scikit-learn==1.7.2    # random forest and gradient boosting (07)
+DoubleML==0.11.4       # Double Machine Learning (07)
+
+# figures
+matplotlib==3.10.9
+
+# running the notebooks
+ipykernel==7.3.0
+nbconvert==7.17.2

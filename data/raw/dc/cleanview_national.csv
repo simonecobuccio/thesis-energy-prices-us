@@ -1,0 +1,101 @@
+Project Name,Developer,Developer Experience,Status,Year,Facility Power (MW),IT Capacity (MW),Est. Investment,County,State,Building (sq ft),Tenant / End User,Latitude,Longitude,Source 1,Source 2,Source 3
+ACS Fort Worth - Building 1,ACS,Experienced,Planned,2030,70,50,$550M,Tarrant,TX,"110,000",,32.9086,-97.3966,Link,Link,Link
+ACS Fort Worth - Building 2,ACS,Experienced,Planned,2031,70,50,$550M,Tarrant,TX,"165,000",,32.9079,-97.3958,Link,Link,Link
+ACS Fort Worth - Building 3,ACS,Experienced,Planned,2033,70,50,$550M,Tarrant,TX,"165,000",,32.9067,-97.3958,Link,Link,Link
+ACS Fort Worth - Building 4,ACS,Experienced,Planned,2034,70,50,$550M,Tarrant,TX,"165,000",,32.9079,-97.3922,Link,Link,Link
+ACS Fort Worth - Building 5,ACS,Experienced,Planned,2035,70,50,$550M,Tarrant,TX,"165,000",,32.9067,-97.3922,Link,Link,Link
+Adams Fork Harless Data Center Energy Campus,TransGas Development Systems,New entrant,Planned,,"2,457","1,890",$21B,Mingo,WV,,,37.75302,-82.11905,Link,Link,Link
+AEP Groveport (CMH II),Compass Datacenters,Experienced,Operating,2019,2,1,$13M,Franklin,OH,"16,000",American Electric Power,39.881014,-82.882017,Link,Link,
+AEP New Albany (CMH I),Compass Datacenters,Experienced,Operating,2015,2,1,$13M,Franklin,OH,"16,000",American Electric Power,40.103738,-82.808957,Link,Link,Link
+Aligned ATL-01,Aligned,Experienced,Operating,2025,103,73,$810M,Douglas County,GA,"280,865",,33.725958,-84.619575,Link,Link,
+Aligned Chicago ORD-01,Aligned,Experienced,Operating,2022,50,36,$400M,Cook,IL,"197,980",,41.913947,-87.91764,Link,Link,Link
+Aligned Chicago ORD-02,Aligned,Experienced,Operating,2024,50,36,$400M,Cook,IL,"131,500",,41.912892,-87.917447,Link,Link,Link
+Aligned CMH-01 Pataskala - Building 1,Aligned,Experienced,Planned,,67,48,$530M,Licking,OH,"316,800",,39.992177,-82.726689,Link,Link,
+Aligned CMH-01 Pataskala - Building 2,Aligned,Experienced,Planned,,67,48,$530M,Licking,OH,"316,800",,39.990957,-82.72662,Link,Link,
+Aligned CMH-01 Pataskala - Building 3,Aligned,Experienced,Planned,,67,48,$530M,Licking,OH,"316,800",,39.989094,-82.726649,Link,Link,
+Aligned CMH-02 Conesville - Building 1,Aligned,Experienced,Under Construction,2027,86,72,$790M,Coshocton,OH,,,40.184705,-81.876105,Link,Link,Link
+Aligned CMH-02 Conesville - Building 2,Aligned,Experienced,Under Construction,2027,86,72,$790M,Coshocton,OH,,,40.185783,-81.874933,Link,Link,Link
+Aligned CMH-02 Conesville - Building 3,Aligned,Experienced,Planned,2028,86,72,$790M,Coshocton,OH,,,40.186933,-81.873887,Link,Link,Link
+Aligned CMH-02 Conesville - Building 4,Aligned,Experienced,Planned,2028,86,72,$790M,Coshocton,OH,,,40.187296,-81.878181,Link,Link,Link
+Aligned Dallas DFW-01,Aligned,Experienced,Operating,2015,29,21,$230M,Collin,TX,"110,190",,33.00931,-96.676435,Link,Link,Link
+Aligned Dallas DFW-02,Aligned,Experienced,Operating,2025,50,36,$400M,Collin,TX,"188,480",,33.009004,-96.675048,Link,Link,Link
+Aligned DFW03 Mansfield,Aligned,Experienced,Under Construction,2026,86,72,$790M,Tarrant,TX,"429,603",,32.54982,-97.07486,Link,Link,Link
+Aligned DFW-04 North Star Road,Aligned,Experienced,Under Construction,2026,86,72,$790M,Collin,TX,"425,500",Lambda,33.0060062,-96.6570936,Link,Link,Link
+Aligned Frederick - Building 3,Aligned,Experienced,Planned,2029,83,72,$790M,Frederick,MD,"450,000",,39.335822,-77.474398,Link,Link,Link
+Aligned Frederick - Building 4,Aligned,Experienced,Planned,2030,55,48,$530M,Frederick,MD,,,39.337501,-77.474579,Link,Link,Link
+Aligned Hillsboro PDX-01,Aligned,Experienced,Operating,2025,101,72,$790M,Washington,OR,"480,000",,45.55406,-122.94925,Link,Link,Link
+Aligned Hillsboro PDX-02,Aligned,Experienced,Planned,,50,36,$400M,Washington,OR,"245,000",,45.55290763,-122.9484405,Link,Link,
+Aligned IAD01,Aligned,Experienced,Operating,2021,108,77,$850M,Loudoun,VA,"420,426",,39.01362,-77.470578,Link,,
+Aligned IAD02,Aligned,Experienced,Operating,2023,163,117,$1.3B,Loudoun,VA,"624,570",ByteDance,39.010411,-77.475189,Link,,
+Aligned IAD03,Aligned,Experienced,Operating,2025,143,102,$1.1B,Loudoun,VA,"319,384",,38.988621,-77.440752,Link,,
+Aligned IAD-04,Aligned,Experienced,Under Construction,2027,83,72,$790M,Frederick,MD,"450,000",,39.333893,-77.473116,Link,Link,Link
+Aligned IAD-06,Aligned,Experienced,Under Construction,2028,83,72,$790M,Frederick,MD,"450,000",,39.335148,-77.474045,Link,Link,Link
+Aligned NEO-01,Aligned,Experienced,Operating,2026,83,72,$790M,Erie,OH,"424,280",,41.432231,-82.719194,Link,Link,Link
+Aligned NEO-02,Aligned,Experienced,Planned,2028,83,72,$790M,Erie,OH,,,41.43036,-82.719119,Link,Link,
+Aligned NEO-03,Aligned,Experienced,Planned,2029,83,72,$790M,Erie,OH,,,41.429213,-82.719502,Link,Link,
+Aligned NEO-04,Aligned,Experienced,Planned,2030,110,96,$1.1B,Erie,OH,,,41.428415,-82.721154,Link,Link,
+Aligned Northwest Point - Building 2,Aligned,Experienced,Planned,2029,110,96,$1.1B,Cook,IL,"520,000",,42.034053,-87.981225,Link,Link,Link
+Aligned ORD-03 Northwest Point - Building 1,Aligned,Experienced,Under Construction,2028,110,96,$1.1B,Cook,IL,"544,000",,42.03434,-87.982925,Link,Link,Link
+Aligned Phoenix - Building B,Aligned,Experienced,Operating,2018,16,11,$120M,Maricopa,AZ,"57,000",,33.658384,-112.1106854,Link,Link,Link
+Aligned Phoenix - Building C1,Aligned,Experienced,Operating,2018,16,11,$120M,Maricopa,AZ,"57,000",,33.6590093,-112.1101351,Link,Link,Link
+Aligned Phoenix - Building C2,Aligned,Experienced,Operating,2020,43,31,$340M,Maricopa,AZ,"143,000",,33.6592275,-112.1123102,Link,Link,Link
+Aligned Phoenix PHX-03,Aligned,Experienced,Operating,2020,47,34,$370M,Maricopa,AZ,"157,000",,33.6599255,-112.1117686,Link,Link,Link
+Aligned Phoenix PHX-04 Phase 1,Aligned,Experienced,Operating,2024,56,40,$440M,Maricopa,AZ,"198,000",,33.2697317,-111.8879046,Link,Link,
+Aligned Phoenix PHX-04 Phase 2,Aligned,Experienced,Planned,,56,40,$440M,Maricopa,AZ,"198,343",,33.2687215,-111.8879011,Link,Link,
+Aligned Phoenix PHX-05,Aligned,Experienced,Operating,2024,39,28,$310M,Maricopa,AZ,"136,000",,33.6571625,-112.1125635,Link,Link,Link
+Aligned Phoenix PHX-06 Phase 1,Aligned,Experienced,Operating,2025,70,50,$550M,Maricopa,AZ,"228,000",,33.266148,-111.8875788,Link,Link,
+Aligned Phoenix PHX-06 Phase 2,Aligned,Experienced,Under Construction,2027,70,50,$550M,Maricopa,AZ,"228,946",,33.2661391,-111.8863989,Link,Link,Link
+Aligned Phoenix PHX-07,Aligned,Experienced,Operating,2025,92,80,$880M,Maricopa,AZ,"237,312",,33.5636623,-112.3866245,Link,Link,
+Aligned Phoenix PHX-08,Aligned,Experienced,Planned,,202,144,$1.6B,Maricopa,AZ,,,33.66352,-112.12759,Link,,
+Aligned Phoenix PHX-13,Aligned,Experienced,Under Construction,2026,83,72,$790M,Maricopa,AZ,"242,000",,33.5649006,-112.3868063,Link,Link,
+Aligned Project Caprock - LBB-01,Aligned,Experienced,Under Construction,2027,108,90,$990M,Hale,TX,"275,000",,33.867975,-101.8509,Link,Link,Link
+Aligned Project Caprock - LBB-02,Aligned,Experienced,Planned,2028,108,90,$990M,Hale,TX,"275,000",,33.866383,-101.8509,Link,Link,Link
+Aligned Project Caprock - LBB-03,Aligned,Experienced,Planned,2029,108,90,$990M,Hale,TX,"275,000",,33.865041,-101.850995,Link,Link,Link
+Aligned Project Caprock - LBB-04,Aligned,Experienced,Planned,2030,108,90,$990M,Hale,TX,"275,000",,33.863541,-101.850836,Link,Link,Link
+Aligned Project Caprock - LBB-05,Aligned,Experienced,Planned,2031,108,90,$990M,Hale,TX,"275,000",,33.865541,-101.84678,Link,Link,Link
+Aligned Project Caprock - LBB-06,Aligned,Experienced,Planned,2032,108,90,$990M,Hale,TX,"275,000",,33.863646,-101.84678,Link,Link,Link
+Aligned Project Phoenix - PIT-01,Aligned,Experienced,Planned,,264,220,$2.4B,Beaver,PA,"672,924",Meta,40.642,-80.41,Link,Link,Link
+Aligned Project Phoenix - PIT-02,Aligned,Experienced,Planned,,250,209,$2.3B,Beaver,PA,"638,000",Meta,40.6398,-80.4093,Link,Link,Link
+Aligned Project Phoenix - PIT-03,Aligned,Experienced,Planned,,250,209,$2.3B,Beaver,PA,"638,000",Meta,40.6376,-80.4086,Link,Link,Link
+Aligned Project Star - Building 1,Aligned,Experienced,Planned,2029,86,72,$790M,Grundy,IL,"323,000",,41.245931,-88.300389,Link,Link,Link
+Aligned Project Star - Building 2,Aligned,Experienced,Planned,2029,86,72,$790M,Grundy,IL,"323,000",,41.246708,-88.300365,Link,Link,Link
+Aligned Project Star - Building 3,Aligned,Experienced,Planned,2030,86,72,$790M,Grundy,IL,"323,000",,41.248868,-88.30041,Link,Link,Link
+Aligned Project Star - Building 4,Aligned,Experienced,Planned,2030,86,72,$790M,Grundy,IL,"323,000",,41.249643,-88.300388,Link,Link,Link
+Aligned Project Star - Building 5,Aligned,Experienced,Planned,2032,115,96,$1.1B,Grundy,IL,"428,500",,41.253031,-88.299417,Link,Link,Link
+Aligned Project Star - Building 6,Aligned,Experienced,Planned,2031,86,72,$790M,Grundy,IL,"323,000",,41.256236,-88.300695,Link,Link,Link
+Aligned Project Star - Building 7,Aligned,Experienced,Planned,2031,86,72,$790M,Grundy,IL,"323,000",,41.257039,-88.300695,Link,Link,Link
+Aligned Project Star - Building 8,Aligned,Experienced,Planned,2033,115,96,$1.1B,Grundy,IL,"428,500",,41.247763,-88.296634,Link,Link,Link
+Aligned Project Star - Building 9,Aligned,Experienced,Planned,2033,115,96,$1.1B,Grundy,IL,"428,500",,41.247801,-88.295468,Link,Link,Link
+Aligned SLC-01,Aligned,Experienced,Operating,2019,63,45,$490M,Salt Lake,UT,"242,145",,40.586144,-111.969851,Link,Link,Link
+Aligned SLC-02,Aligned,Experienced,Operating,2023,64,46,$500M,Salt Lake,UT,"220,390",,40.583693,-111.968495,Link,Link,Link
+Aligned SLC-03,Aligned,Experienced,Operating,2024,145,104,$1.1B,Salt Lake,UT,"386,230",Undisclosed Hyperscaler,40.581629,-111.968513,Link,Link,Link
+Aligned SLC-04,Aligned,Experienced,Operating,2023,21,15,$170M,Salt Lake,UT,"97,720",,40.715829,-112.043327,Link,Link,Link
+Aligned SLC-05,Aligned,Experienced,Under Construction,2027,127,91,$1B,Salt Lake,UT,"431,510",,40.57099,-112.053125,Link,Link,
+Aligned SLC-06,Aligned,Experienced,Planned,2028,84,60,$660M,Salt Lake,UT,,,40.571011,-112.055025,Link,Link,
+Aligned SLC-07,Aligned,Experienced,Planned,2029,127,91,$1B,Salt Lake,UT,,,40.571034,-112.056785,Link,Link,
+Alviso-Milpitas San Jose Campus,Microsoft,Experienced,Planned,,99,,$870M,Santa Clara,CA,"396,914",,37.4210432,-121.9314939,Link,Link,
+Amazon Birchwood - Building 1,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.269152,-77.318478,Link,,
+Amazon Birchwood - Building 2,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.267652,-77.318478,Link,,
+Amazon Birchwood - Building 3,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.266152,-77.318478,Link,,
+Amazon Birchwood - Building 4,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.264652,-77.318478,Link,,
+Amazon Birchwood - Building 5,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.269152,-77.316978,Link,,
+Amazon Birchwood - Building 6,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.267652,-77.316978,Link,,
+Amazon Birchwood - Building 7,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.266152,-77.316978,Link,,
+Amazon Birchwood - Building 8,Amazon,Experienced,Planned,,144,125,$1.4B,King George,VA,"500,000",,38.264652,-77.316978,Link,,
+Amazon Carter's Store Tech Campus - Building 1,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.192512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 2,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.191012,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 3,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.189512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 4,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.188012,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 5,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.186512,-77.455558,Link,,
+Amazon Carter's Store Tech Campus - Building 6,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.192512,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 7,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.191012,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 8,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.189512,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 9,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.188012,-77.454058,Link,,
+Amazon Carter's Store Tech Campus - Building 10,Amazon,Experienced,Planned,,70,60,$660M,Spotsylvania,VA,"260,000",,38.186512,-77.454058,Link,,
+Amazon Massaponax Tech Campus - Building 1,Amazon,Experienced,Planned,2029,70,60,$660M,Spotsylvania,VA,"250,290",,38.2174,-77.44615,Link,Link,Link
+Amazon Massaponax Tech Campus - Building 2,Amazon,Experienced,Planned,2029,70,60,$660M,Spotsylvania,VA,"250,290",,38.2159,-77.44615,Link,Link,Link
+Amazon Massaponax Tech Campus - Building 3,Amazon,Experienced,Planned,2029,70,60,$660M,Spotsylvania,VA,"250,290",,38.2144,-77.44615,Link,Link,Link
+5C Data Centers PHX01,5C Data Centers,New entrant,Planned,2025,20,,$180M,Maricopa,AZ,"140,000",,33.4703,-112.1205,Link,,
+5MW Temple Data Center,Oppidan,New entrant,Planned,2026,5,,$44M,Bell,TX,"61,554",,31.12605427,-97.36096275,Link,Link,
+75 South Data Center Campus,Industrial VI Enterprises / Hillwood,New entrant,Planned,2030,450,,$4B,Spalding,GA,"2,200,000",,33.256115,-84.14383,Link,Link,
+1547 Realty Orangeburg Data Center,1547 Critical Systems Realty,New entrant,Planned,,30,,$260M,Rockland,NY,,,,,Link,,

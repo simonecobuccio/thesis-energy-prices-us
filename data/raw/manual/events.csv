@@ -1,0 +1,14 @@
+date,event,type,to_verify
+2021-01-01,Virginia joins RGGI,policy,no
+2022-02-24,Russia invades Ukraine (gas price shock),gas,no
+2022-11-30,ChatGPT public launch,ai,no
+2022-12-24,Winter Storm Elliott,weather,no
+2023-12-31,Virginia leaves RGGI,policy,no
+2024-07-30,PJM BRA 2025/26 results (record capacity price; ELCC reform),capacity,no
+2025-01-21,Stargate announcement,ai,no
+2025-04-21,FERC approves PJM capacity price cap and floor for 2026/27 and 2027/28 (after Pennsylvania complaint),capacity,no
+2025-06-01,Delivery year 2025/26 starts (new capacity price in bills),capacity,no
+2025-07-22,PJM BRA 2026/27 results (clears at cap),capacity,no
+2025-11-25,Virginia SCC approves rate class for customers of 25 MW or more (from Jan 2027),policy,no
+2025-12-17,PJM BRA 2027/28 results,capacity,no
+2026-06-01,Delivery year 2026/27 starts,capacity,no

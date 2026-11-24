@@ -1,0 +1,14 @@
+,type,missing,missing_percent
+id,object,0,0.0
+state,object,0,0.0
+state_abb,object,0,0.0
+state_id,int64,0,0.0
+county,object,0,0.0
+county_id,int64,0,0.0
+operator,object,519,35.1
+ref,object,1105,74.7
+name,object,275,18.6
+sqft,float64,105,7.1
+lon,float64,0,0.0
+lat,float64,0,0.0
+type,object,0,0.0

@@ -1,0 +1,18 @@
+,type,missing,missing_percent
+Project Name,object,0,0.0
+Developer,object,0,0.0
+Developer Experience,object,0,0.0
+Status,object,0,0.0
+Year,float64,30,30.0
+Facility Power (MW),object,0,0.0
+IT Capacity (MW),object,5,5.0
+Est. Investment,object,0,0.0
+County,object,0,0.0
+State,object,0,0.0
+Building (sq ft),object,13,13.0
+Tenant / End User,object,92,92.0
+Latitude,float64,1,1.0
+Longitude,float64,1,1.0
+Source 1,object,0,0.0
+Source 2,object,24,24.0
+Source 3,object,44,44.0

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the thesis."
+title: "Data Centers and Wholesale Electricity Prices in the US: How Much of the 2019-2026 Increase Can Be Attributed to Data Center Load Growth?"
+type: software
+authors:
+  - family-names: Cobuccio
+    given-names: Simone
+  - family-names: Tissino
+    given-names: Davide
+date-released: 2026-11-24
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Data Centers and Wholesale Electricity Prices in the US: How Much of the 2019-2026 Increase Can Be Attributed to Data Center Load Growth?"
+  authors:
+    - family-names: Cobuccio
+      given-names: Simone
+    - family-names: Tissino
+      given-names: Davide
+  institution:
+    name: "Politecnico di Milano, Graduate School of Management (MSc in Business Analytics and Data Science)"
+  year: 2026

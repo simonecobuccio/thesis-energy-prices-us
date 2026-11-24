@@ -1,0 +1,489 @@
+name,operator,status,lat,lon,state,county,facility_mw,mw_source,operating_year,source,source_row,announced,raw_confidence,precision,type,sqft,county_ambiguous,sources,rumored,n_sources,confidence,filter_reason
+Amazon Devlin Technology Park - Building 1,Amazon,planned,38.760722,-77.578641,VA,Prince William,,missing,,cleanview_va,22,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 2,Amazon,planned,38.762474,-77.579016,VA,Prince William,,missing,,cleanview_va,23,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 3,Amazon,planned,38.764732,-77.57795,VA,Prince William,,missing,,cleanview_va,24,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 4,Amazon,planned,38.767259,-77.576752,VA,Prince William,,missing,,cleanview_va,25,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 5,Amazon,planned,38.761814,-77.576822,VA,Prince William,,missing,,cleanview_va,26,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 6,Amazon,planned,38.764072,-77.575756,VA,Prince William,,missing,,cleanview_va,27,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 7,Amazon,planned,38.766599,-77.574557,VA,Prince William,,missing,,cleanview_va,28,,,,,,,cleanview,False,1,low,missing MW
+Amazon Devlin Technology Park - Building 8,Amazon,planned,38.76845,-77.574879,VA,Prince William,,missing,,cleanview_va,29,,,,,,,cleanview,False,1,low,missing MW
+AWS IAD-018 John Mosby Highway,Amazon,operating,38.91918936,-77.49497537,VA,Loudoun,2.4,reported,2022.0,cleanview_va,101,,,,,,,cleanview,False,1,medium,below threshold
+AWS IAD-24 Mason King Court,Amazon,operating,38.79035,-77.540006,VA,Prince William,7.4,reported,2012.0,cleanview_va,182,,,,,,,cleanview;im3,False,2,medium,below threshold
+AWS IAD-32 Squire Court,Amazon,operating,39.02152866,-77.43475817,VA,Loudoun,7.4,reported,2014.0,cleanview_va,184,,,,,,,cleanview;im3,False,2,medium,below threshold
+AWS IAD-603 Platform Plaza,Amazon,operating,38.9815444,-77.41936115,VA,Loudoun,2.4,reported,2023.0,cleanview_va,203,,,,,,,cleanview;im3,False,2,medium,below threshold
+AWS Manekin Plaza,Amazon,planned,39.02377354,-77.40789059,VA,Loudoun,,missing,,cleanview_va,245,,,,,,,cleanview,False,1,low,missing MW
+AWS Nokes Boulevard,Amazon,planned,39.02239824,-77.41006855,VA,Loudoun,,missing,,cleanview_va,246,,,,,,,cleanview,False,1,low,missing MW
+AWS Ridgetop Circle Building 1,Amazon,planned,39.02544075,-77.40966722,VA,Loudoun,,missing,,cleanview_va,254,,,,,,,cleanview,False,1,low,missing MW
+AWS Ridgetop Circle Building 2,Amazon,planned,39.02544075,-77.40966722,VA,Loudoun,,missing,,cleanview_va,255,,,,,,,cleanview,False,1,low,missing MW
+AWS Wilderness Crossing,Amazon,planned,38.33,-77.74,VA,Orange,,missing,,cleanview_va,258,,,,,,,cleanview,False,1,low,missing MW
+Louisa County Campus 3,Amazon,cancelled,38.018072,-77.93566,VA,Louisa,2100.0,reported,,cleanview_va,263,,,,,,,cleanview,False,1,medium,cancelled
+BlackChamber Bristow Industrial Park - Building 1,BlackChamber Group,planned,38.7811,-77.57979,VA,Prince William,,missing,,cleanview_va,272,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Bristow Industrial Park - Building 2,BlackChamber Group,planned,38.78005,-77.58062,VA,Prince William,,missing,,cleanview_va,273,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Gainesville Tech Park - Building 1,BlackChamber Group,planned,38.78163,-77.57385,VA,Prince William,,missing,,cleanview_va,276,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Gainesville Tech Park - Building 2,BlackChamber Group,planned,38.77993,-77.57506,VA,Prince William,,missing,,cleanview_va,277,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Gulfstream - Building 1,BlackChamber Group,planned,38.72759,-77.50472,VA,Prince William,,missing,,cleanview_va,278,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Gulfstream - Building 2,BlackChamber Group,planned,38.72521,-77.50183,VA,Prince William,,missing,,cleanview_va,279,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Gulfstream - Building 3,BlackChamber Group,planned,38.72459,-77.50412,VA,Prince William,,missing,,cleanview_va,280,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Hansen Farm - Building 1,BlackChamber Group,planned,38.7881,-77.55861,VA,Prince William,,missing,,cleanview_va,281,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Hansen Farm - Building 2,BlackChamber Group,planned,38.78515,-77.56664,VA,Prince William,,missing,,cleanview_va,282,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Rose - Building 1,BlackChamber Group,planned,38.78282,-77.56053,VA,Prince William,,missing,,cleanview_va,283,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Rose - Building 2,BlackChamber Group,planned,38.78382,-77.56012,VA,Prince William,,missing,,cleanview_va,284,,,,,,,cleanview,False,1,low,missing MW
+BlackChamber Rose - Building 3,BlackChamber Group,planned,38.78536,-77.56256,VA,Prince William,,missing,,cleanview_va,285,,,,,,,cleanview,False,1,low,missing MW
+Capital One Knolls 2 Data Center,Capital One,operating,37.66987,-77.56562,VA,Henrico,7.2,reported,2001.0,cleanview_va,286,,,,,,,cleanview,False,1,medium,below threshold
+Centersquare IAD1-A 45901 Nokes Boulevard,Centersquare (formerly Evoque),operating,39.0232978,-77.4132123,VA,Loudoun,7.4,reported,1998.0,cleanview_va,287,,,,,,,cleanview;im3,False,2,medium,below threshold
+Centersquare IAD1-B 45845 Nokes Boulevard,Centersquare (formerly Evoque),operating,39.0238679,-77.4152091,VA,Loudoun,6.4,reported,1999.0,cleanview_va,288,,,,,,,cleanview;im3,False,2,medium,below threshold
+Centersquare IAD2-A 22810 International Drive,Centersquare (formerly Evoque),operating,38.98441985,-77.42380955,VA,Loudoun,4.8,reported,2001.0,cleanview_va,290,,,,,,,cleanview;im3,False,2,medium,below threshold
+Centersquare IAD2-B 22860 International Drive,Centersquare (formerly Evoque),operating,38.98361385,-77.42408485,VA,Loudoun,7.1,reported,2001.0,cleanview_va,291,,,,,,,cleanview;im3,False,2,medium,below threshold
+Centersquare IAD3 22995 Wilder Court,Centersquare (formerly Evoque),operating,38.9809293,-77.44437855,VA,Loudoun,4.1,reported,2003.0,cleanview_va,292,,,,,,,cleanview;im3,False,2,medium,below threshold
+CloudHQ LC5,CloudHQ,planned,39.009745,-77.476825,VA,Loudoun,,missing,,cleanview_va,312,,,,,,,cleanview,False,1,low,missing MW
+Compass IAD ID,Compass Datacenters,operating,39.042494,-77.538293,VA,Loudoun,7.5,reported,2023.0,cleanview_va,333,,,,,,,cleanview;im3,False,2,medium,below threshold
+Compass Prince William Digital Gateway,Compass Datacenters,cancelled,38.83419,-77.57867,VA,Prince William,,missing,,cleanview_va,335,,,,,,,cleanview,False,1,low,cancelled
+CyrusOne Broadlands - Building 1,CyrusOne,planned,39.0355,-77.524,VA,Loudoun,,missing,,cleanview_va,347,,,,,,,cleanview,False,1,low,missing MW
+CyrusOne Broadlands - Building 2,CyrusOne,planned,39.035,-77.5213,VA,Loudoun,,missing,,cleanview_va,348,,,,,,,cleanview,False,1,low,missing MW
+CyrusOne Broadlands - Building 3,CyrusOne,planned,39.0335,-77.5228,VA,Loudoun,,missing,,cleanview_va,349,,,,,,,cleanview,False,1,low,missing MW
+CyrusOne Broadlands - Building 4,CyrusOne,planned,39.0321,-77.5241,VA,Loudoun,,missing,,cleanview_va,350,,,,,,,cleanview,False,1,low,missing MW
+CyrusOne Broadlands - Building 5,CyrusOne,planned,39.0318,-77.5212,VA,Loudoun,,missing,,cleanview_va,351,,,,,,,cleanview,False,1,low,missing MW
+DataBank IAD2,DataBank,operating,38.919905,-77.213585,VA,Fairfax,4.2,reported,1998.0,cleanview_va,362,,,,,,,cleanview;im3,False,2,medium,below threshold
+Digital Realty VA5,Digital Realty,planned,38.77732,-77.5959,VA,Prince William,,missing,,cleanview_va,407,,,,,,,cleanview,False,1,low,missing MW
+Flex Data Center (Edge Centres EC104),Edge Centres,operating,38.95194,-77.34621,VA,Fairfax,1.0,reported,2007.0,cleanview_va,408,,,,,,,cleanview,False,1,medium,below threshold
+Equinix DC1,Equinix,operating,39.01556,-77.460327,VA,Loudoun,6.9,reported,2006.0,cleanview_va,416,,,,,,,cleanview;im3,False,2,medium,below threshold
+Equinix DC14,Equinix,operating,38.80332948,-77.51087972,VA,Prince William,8.0,reported,2008.0,cleanview_va,421,,,,,,,cleanview;im3,False,2,medium,below threshold
+Equinix DC6,Equinix,operating,39.015198,-77.459538,VA,Loudoun,9.2,reported,2010.0,cleanview_va,430,,,,,,,cleanview;im3,False,2,medium,below threshold
+Equinix DC97,Equinix,operating,38.961671,-77.377431,VA,Fairfax,0.8,reported,2001.0,cleanview_va,431,,,,,,,cleanview;im3,False,2,medium,below threshold
+Evocative IAD1,Evocative,operating,38.948816,-77.32941,VA,Fairfax,2.0,reported,2006.0,cleanview_va,432,,,,,,,cleanview;im3,False,2,medium,below threshold
+Flexential Richmond,Flexential,operating,37.6469,-77.43848,VA,Henrico,2.0,reported,2000.0,cleanview_va,433,,,,,,,cleanview;im3,False,2,medium,below threshold
+Gateway Commerce Center,Four Points LLC,planned,38.165024,-77.529495,VA,Spotsylvania,,missing,,cleanview_va,434,,,,,,,cleanview,False,1,low,missing MW
+Freddie Mac Herndon Data Center,Freddie Mac,operating,38.955213,-77.381361,VA,Fairfax,6.0,reported,2000.0,cleanview_va,435,,,,,,,cleanview,False,1,medium,below threshold
+Globalinx VA,Globalinx Data Centers,planned,36.82473638,-76.29968469,VA,Portsmouth (city),,missing,,cleanview_va,436,,,,,,,cleanview,False,1,low,missing MW
+Google Botetourt Center Campus,Google,planned,,,VA,Botetourt,,missing,,cleanview_va,440,,,,,,,cleanview,False,1,low,missing MW
+Google Bristow Wellington Road - Building 1,Google,planned,38.7918,-77.5756,VA,Prince William,,missing,2028.0,cleanview_va,441,,,,,,,cleanview,False,1,low,missing MW
+Google Bristow Wellington Road - Building 2,Google,planned,38.7895,-77.5748,VA,Prince William,,missing,2028.0,cleanview_va,442,,,,,,,cleanview,False,1,low,missing MW
+Google Bristow Wellington Road - Building 3,Google,planned,38.7905,-77.5718,VA,Prince William,,missing,2028.0,cleanview_va,443,,,,,,,cleanview,False,1,low,missing MW
+Google Bristow Wellington Road - Building 4,Google,planned,38.7865,-77.5742,VA,Prince William,,missing,2028.0,cleanview_va,444,,,,,,,cleanview,False,1,low,missing MW
+Project Peanut,Google,planned,37.34420372,-77.3037902,VA,Chesterfield,,missing,,cleanview_va,452,,,,,,,cleanview,False,1,low,missing MW
+King George Technology Center,Green Energy Ventures,planned,38.256557,-77.29122,VA,King George,,missing,,cleanview_va,453,,,,,,,cleanview,False,1,low,missing MW
+H5 Chantilly IAD31,H5 Data Centers,operating,38.909245,-77.472245,VA,Fairfax,5.4,reported,2011.0,cleanview_va,456,,,,,,,cleanview;im3,False,2,medium,below threshold
+H5 Chantilly IAD32,H5 Data Centers,operating,38.909798,-77.473466,VA,Fairfax,6.7,reported,2014.0,cleanview_va,457,,,,,,,cleanview;im3,False,2,medium,below threshold
+Belmont Route 7 - Building 1,JK Land Holdings,planned,39.0755,-77.4945,VA,Loudoun,,missing,2029.0,cleanview_va,477,,,,,,,cleanview,False,1,low,missing MW
+Belmont Route 7 - Building 2,JK Land Holdings,planned,39.0748,-77.492,VA,Loudoun,,missing,2029.0,cleanview_va,478,,,,,,,cleanview,False,1,low,missing MW
+Innovation on the Parkway,JK Land Holdings,planned,38.75380222,-77.52496279,VA,Prince William,,missing,,cleanview_va,480,,,,,,,cleanview,False,1,low,missing MW
+TELOS Data Center,JK Land Holdings,planned,39.067024,-77.47857,VA,Loudoun,,missing,,cleanview_va,481,,,,,,,cleanview,False,1,low,missing MW
+LS Power Doswell Data Center,LS Power,cancelled,37.8102866,-77.4484823,VA,Hanover,300.0,reported,,cleanview_va,482,,,,,,,cleanview,False,1,medium,cancelled
+Lumen Herndon 1,Lumen Technologies,operating,38.966086,-77.381851,VA,Fairfax,1.6,reported,2001.0,cleanview_va,483,,,,,,,cleanview,False,1,medium,below threshold
+Lumen Herndon 3,Lumen Technologies,operating,38.965939,-77.38174,VA,Fairfax,2.1,reported,2014.0,cleanview_va,484,,,,,,,cleanview,False,1,medium,below threshold
+Lumen McLean 1,Lumen Technologies,operating,38.920021,-77.211619,VA,Fairfax,1.8,reported,1998.0,cleanview_va,485,,,,,,,cleanview;im3,False,2,medium,below threshold
+Microsoft Azure MNZ07,Microsoft,planned,38.793503,-77.579597,VA,Prince William,,missing,,cleanview_va,509,,,,,,,cleanview,False,1,low,missing MW
+Microsoft Azure MNZ08,Microsoft,planned,38.794188,-77.582008,VA,Prince William,,missing,,cleanview_va,510,,,,,,,cleanview,False,1,low,missing MW
+Microsoft East Coast BN4,Microsoft,operating,36.68167,-78.37468,VA,Mecklenburg,5.3,reported,2015.0,cleanview_va,519,,,,,,,cleanview,False,1,medium,below threshold
+Microsoft WTC Station B East 1,Microsoft,operating,38.737162,-77.826162,VA,Fauquier,6.0,reported,2020.0,cleanview_va,559,,,,,,,cleanview;im3,False,2,medium,below threshold
+NTT Ashburn VA6,NTT,operating,39.0169133,-77.4734442,VA,Loudoun,,missing,2024.0,cleanview_va,567,,,,,,,cleanview;im3,False,2,low,missing MW
+Sisson North,Peterson Companies,planned,38.25873,-77.38705,VA,Stafford,,missing,,cleanview_va,577,,,,,,,cleanview,False,1,low,missing MW
+Dahlgren West,Potomac Development Group,planned,38.30985,-77.11264,VA,King George,,missing,,cleanview_va,579,,,,,,,cleanview,False,1,low,missing MW
+QTS Digital Gateway North,QTS,cancelled,38.84683,-77.56985,VA,Prince William,,missing,,cleanview_va,601,,,,,,,cleanview,False,1,low,cancelled
+QTS Digital Gateway South,QTS,cancelled,38.81977,-77.57396,VA,Prince William,,missing,,cleanview_va,602,,,,,,,cleanview,False,1,low,cancelled
+QTS Moran,QTS,operating,38.994227,-77.448189,VA,Loudoun,8.6,reported,2015.0,cleanview_va,609,,,,,,,cleanview;im3,False,2,medium,below threshold
+Forest Lane Data Center,Real Estate Pursuits 2 LC,planned,38.26742,-77.3867,VA,Stafford,,missing,,cleanview_va,643,,,,,,,cleanview,False,1,low,missing MW
+SDC Wellington Glen,SDC Capital Partners,planned,38.76897,-77.54556,VA,Prince William,,missing,,cleanview_va,648,,,,,,,cleanview,False,1,low,missing MW
+Belmont Innovation Campus,Sentinel Data Centers,planned,39.0725,-77.5101,VA,Loudoun,,missing,,cleanview_va,649,,,,,,,cleanview,False,1,low,missing MW
+Sentinel Twin Creeks,Sentinel Data Centers,planned,39.07398,-77.5174,VA,Loudoun,,missing,,cleanview_va,655,,,,,,,cleanview,False,1,low,missing MW
+Stack Berry Hill,Stack Infrastructure,planned,36.5621,-79.6039,VA,Pittsylvania,,missing,,cleanview_va,659,,,,,,,cleanview,False,1,low,missing MW
+Stack Fredericksburg,Stack Infrastructure,planned,38.3179,-77.5189,VA,Fredericksburg,,missing,,cleanview_va,660,,,,,,,cleanview,False,1,low,missing MW
+Stack NVA02C,Stack Infrastructure,operating,38.74495556,-77.533179,VA,Prince William,3.8,reported,2023.0,cleanview_va,666,,,,,,,cleanview;im3,False,2,medium,below threshold
+Stack NVA05E,Stack Infrastructure,planned,38.7653,-77.51829,VA,Prince William,,missing,2028.0,cleanview_va,680,,,,,,,cleanview,False,1,low,missing MW
+Renaissance Tech Park B,Starwood Capital Group,under construction,38.9354095,-77.4267609,VA,Fairfax,,missing,2027.0,cleanview_va,705,,,,,,,cleanview,False,1,low,missing MW
+Renaissance Tech Park D,Starwood Capital Group,under construction,38.933117,-77.424724,VA,Fairfax,,missing,2027.0,cleanview_va,707,,,,,,,cleanview,False,1,low,missing MW
+Project Tallmadge (Takanock),Takanock,planned,39.0117587,-78.35971498,VA,Shenandoah,,missing,2030.0,cleanview_va,711,,,,,,,cleanview,False,1,low,missing MW
+Thornberry Data Center Campus,Thornberry LLC,planned,37.95416,-77.40686,VA,Caroline,,missing,,cleanview_va,717,,,,,,,cleanview,False,1,low,missing MW
+CBP National Data Center,U.S. Customs and Border Protection,operating,38.738169,-77.208242,VA,Fairfax,6.7,reported,,cleanview_va,720,,,,,,,cleanview,False,1,medium,below threshold
+VeriSign Dulles,VeriSign,operating,38.99788,-77.44395,VA,Loudoun,6.0,reported,2000.0,cleanview_va,738,,,,,,,cleanview,False,1,medium,below threshold
+Caroline Center for Innovation North,,planned,37.95119,-77.42421,VA,Caroline,,missing,,cleanview_va,745,,,,,,,cleanview,False,1,low,missing MW
+Upper Magnolia,,planned,37.44797635,-77.78071524,VA,Chesterfield,,missing,,cleanview_va,746,,,,,,,cleanview,False,1,low,missing MW
+Watkins Centre,,planned,37.49955759,-77.68816659,VA,Chesterfield,,missing,,cleanview_va,747,,,,,,,cleanview,False,1,low,missing MW
+AEP Groveport (CMH II),Compass Datacenters,operating,39.881014,-82.882017,OH,Franklin,2.0,reported,2019.0,cleanview_national,6,,,,,,,cleanview,False,1,medium,below threshold
+AEP New Albany (CMH I),Compass Datacenters,operating,40.103738,-82.808957,OH,Franklin,2.0,reported,2015.0,cleanview_national,7,,,,,,,cleanview;im3,False,2,medium,below threshold
+5MW Temple Data Center,Oppidan,planned,31.12605427,-97.36096275,TX,Bell,5.0,reported,2026.0,cleanview_national,97,,,,,,,cleanview,False,1,medium,below threshold
+Google Jackson County Campus,Google,operating,34.8842,-85.755,AL,Jackson,,missing,,brockovich,2,2015-06-24,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Huntsville Data Center Campus,Meta,operating,34.726,-86.647,AL,Madison,,missing,,brockovich,3,2018,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Montgomery Data Center,Meta,under construction,32.185,-86.273,AL,Montgomery,,missing,,brockovich,4,2024-05,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google West Memphis Data Center Campus,Google,under construction,35.156,-90.175,AR,Crittenden,,missing,,brockovich,8,2025-10,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Lollie Road Data Center Campus,Undisclosed,planned,35.0887,-92.4421,AR,Faulkner,,missing,,brockovich,9,2025-06,reported,approximate,,,,brockovich,False,1,low,missing MW
+Serverfarm Clarksville Campus (ARK),Serverfarm,under construction,35.4539,-93.4816,AR,Johnson,,missing,,brockovich,10,2025,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+AWS Laveen Data Center Campus,Amazon Web Services,planned,33.3727,-112.1669,AZ,Maricopa,,missing,,brockovich,11,2024-10,reported,exact,,,,brockovich,False,1,low,missing MW
+Apple Mesa Data Center (Global Command Center),Apple,operating,33.3615,-111.6012,AZ,Maricopa,,missing,,brockovich,14,2015,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Digital Realty PHX15,Digital Realty,operating,33.2749,-111.8866,AZ,Maricopa,,missing,,brockovich,16,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Edged Mesa Data Center,Edged US,operating,33.4152,-111.8315,AZ,Maricopa,,missing,,brockovich,18,2026-04-01,reported,approximate,,,,brockovich,False,1,low,missing MW
+La Osa Data Center Park,Vermaland LLC,cancelled,32.75,-111.55,AZ,Pinal,,missing,,brockovich,21,2025,reported,exact,,,,brockovich,False,1,low,cancelled
+Meta Mesa Data Center,Meta,operating,33.3375,-111.6355,AZ,Maricopa,,missing,,brockovich,23,2021,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Microsoft El Mirage Data Center Campus,Microsoft,operating,33.5695,-112.3204,AZ,Maricopa,,missing,,brockovich,24,2024-10,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Goodyear Data Center Campus,Microsoft,operating,33.4353,-112.39,AZ,Maricopa,,missing,,brockovich,25,2018-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Project Blue,Beale Infrastructure,under construction,32.1,-110.75,AZ,Pima,,missing,,brockovich,29,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Project Blue,Beale Infrastructure,under construction,32.153,-110.8708,AZ,Pima,,missing,,brockovich,30,2025-06,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+CalEthos Lithium Valley Data Center Campus,"CalEthos, Inc.",planned,32.79,-115.56,CA,Imperial,,missing,,brockovich,34,,reported,exact,,,,brockovich,False,1,low,missing MW
+"CoreSite LA2 - Los Angeles, CA",CoreSite,operating,34.0585,-118.2359,CA,Los Angeles,,missing,,brockovich,36,,reported,approximate,,,,brockovich;im3,False,2,low,missing MW
+DataBank San Diego SAN1,DataBank,operating,32.9886,-117.0732,CA,San Diego,3.2,reported,,brockovich,38,,reported,approximate,,,,brockovich,False,1,medium,below threshold
+Grand Crossing South - Building 10,Raeden,planned,34.0051,-117.8333,CA,Los Angeles,,missing,,brockovich,40,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Prime Data Centers LAX01,Prime Data Centers,operating,34.0014,-118.2303,CA,Los Angeles,,missing,,brockovich,42,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Serverfarm LAX1,Serverfarm,operating,33.9218,-118.3865,CA,Los Angeles,,missing,,brockovich,48,,reported,approximate,,,,brockovich;im3,False,2,low,missing MW
+NE Edge Millstone Nuclear Data Center,NE Edge,cancelled,41.3218,-72.1582,CT,New London,300.0,reported,,brockovich,54,2023-01,confirmed,exact,,,,brockovich,False,1,medium,cancelled
+DC BLOX Palm Coast Cable Landing Station,DC BLOX,under construction,29.5389,-81.2456,FL,Flagler,,missing,,brockovich,57,2025-07-10,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Project Tango AI Data Center Campus,PBA Holdings (end tenant undisclosed),cancelled,26.6284,-80.39,FL,Palm Beach,,missing,,brockovich,60,2025-12,reported,exact,,,,brockovich,False,1,low,cancelled
+AWS Butts County Data Center Campus,Amazon Web Services,planned,33.2946,-83.9663,GA,Butts,,missing,,brockovich,61,2025-01-07,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Aligned Data Centers ATL-01,Aligned Data Centers,operating,33.7943,-84.6602,GA,Douglas,,missing,,brockovich,62,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Burkhalter Road Data Center,"4AM Development, LLC",planned,32.4377,-81.7756,GA,Bulloch,,missing,,brockovich,63,2026-08-19,reported,approximate,,,,brockovich,False,1,low,missing MW
+Flexential Atlanta - Douglasville 1,Flexential,operating,33.7311,-84.6161,GA,Douglas,,missing,,brockovich,68,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Meta Newton Data Center (Stanton Springs),Meta Platforms,operating,33.6551,-83.7182,GA,Newton,,missing,,brockovich,70,2021-03-14,reported,approximate,,,,brockovich,False,1,low,missing MW
+"Microsoft Data Center Campus – Rome, GA",Microsoft,planned,34.27,-85.16,GA,Floyd,,missing,,brockovich,71,2023,reported,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Douglasville Data Center Campus,Microsoft,under construction,33.7547,-84.7427,GA,Douglas,,missing,,brockovich,72,2024-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+QTS Project Eisenhower,QTS Data Centers,under construction,33.4735,-82.0105,GA,Richmond,,missing,,brockovich,79,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Social Circle Technology Park,TPA Group (developer; end tenant undisclosed),planned,33.6562,-83.7182,GA,Newton,,missing,,brockovich,80,2025-01,reported,exact,,,,brockovich,False,1,low,missing MW
+Switch Atlanta: The KEEP,Switch,operating,33.755,-84.5873,GA,Douglas,,missing,,brockovich,81,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+White Oak Technology Park,Trammell Crow Company (CBRE subsidiary),planned,33.6,-82.28,GA,Columbia,,missing,,brockovich,83,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Servpac MTP Building 2,Servpac,planned,21.448,-158.017,HI,Honolulu,,missing,,brockovich,84,2026-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Apple Waukee Data Center,Apple,operating,41.6194,-93.9258,IA,Dallas,,missing,,brockovich,85,2017,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Google Cedar Rapids Data Center Campus,Google,under construction,41.936,-91.723,IA,Linn,,missing,,brockovich,86,2025-05,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Council Bluffs Data Center,Google,operating,41.1674,-95.793,IA,Pottawattamie,,missing,,brockovich,87,2007,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Meta Altoona Data Center Campus,Meta,operating,41.6459,-93.4696,IA,Polk,,missing,,brockovich,88,2013,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Project Ginger West Data Center,Microsoft,under construction,41.551,-93.782,IA,Polk,,missing,,brockovich,89,2021,reported,exact,,,,brockovich,False,1,low,missing MW
+QTS Clinton Data Center Campus,QTS Data Centers,planned,41.88,-90.24,IA,Clinton,,missing,,brockovich,91,,reported,exact,,,,brockovich,False,1,low,missing MW
+Salix Data Center Site (MidAmerican),MidAmerican Energy,planned,42.3119,-96.2922,IA,Woodbury,,missing,,brockovich,92,2026-04,rumored,approximate,,,,brockovich,True,1,low,missing MW
+Meta Kuna Data Center,Meta,under construction,43.491,-116.418,ID,Ada,,missing,,brockovich,93,2022-09,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Portneuf Data Center (former Hoku plant),Lex Developments,cancelled,42.8727,-112.4638,ID,Bannock,100.0,reported,,brockovich,94,2026-05,confirmed,approximate,,,,brockovich,False,1,medium,cancelled
+CyrusOne CHI1-CHI3 (Aurora),CyrusOne,operating,41.7966,-88.2438,IL,DuPage,,missing,,brockovich,96,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+EdgeConneX CHI02,EdgeConneX,operating,42.0015,-87.9526,IL,Cook,,missing,,brockovich,97,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Equinix CH8 Minooka,Equinix,planned,41.4506,-88.262,IL,Grundy,,missing,,brockovich,99,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta DeKalb Data Center,Meta,operating,41.909,-88.792,IL,DeKalb,,missing,,brockovich,106,2020,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+NTT Chicago CH2 Data Center,NTT Global Data Centers,operating,41.989,-88.0072,IL,DuPage,,missing,,brockovich,107,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Volo Data Center,Chirisa Technology Parks,operating,42.3486,-88.1382,IL,Lake,,missing,,brockovich,110,,reported,approximate,,,,brockovich,False,1,low,missing MW
+AWS Wheatfield Campus (Project Rise),Amazon Web Services,planned,41.1955,-87.0586,IN,Jasper,,missing,,brockovich,112,2026-06-03,confirmed,exact,,,,brockovich,False,1,low,missing MW
+CoreWeave Digital Crossroads,CoreWeave,cancelled,41.5836,-87.5,IN,Lake,180.0,reported,,brockovich,114,2025-06,confirmed,exact,,,,brockovich,False,1,medium,cancelled
+Google Fort Wayne Data Center (Project Zodiac),Google,operating,40.99,-85.056,IN,Allen,,missing,,brockovich,116,2024-04,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Jefferson Proving Ground Data Center,Undisclosed,planned,38.82,-85.4,IN,Jefferson,,missing,,brockovich,118,2026,reported,approximate,,,,brockovich,False,1,low,missing MW
+Microsoft La Porte Data Center,Microsoft,under construction,41.595,-86.735,IN,La Porte,,missing,,brockovich,122,2024-06,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Beale Infrastructure Gardner Campus,Beale Infrastructure,planned,38.81,-94.93,KS,Johnson,,missing,,brockovich,125,,reported,exact,,,,brockovich,False,1,low,missing MW
+Beale Project Pilot (De Soto),Beale Infrastructure,under construction,38.966,-94.967,KS,Johnson,,missing,,brockovich,126,2025-08,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Flint Hills Digital Campus,Kanza Park Place LLC,planned,38.4019,-96.1917,KS,Lyon,,missing,,brockovich,127,2026-06-02,reported,approximate,,,,brockovich,False,1,low,missing MW
+Cave Point Commerce Center,Kentucky Industrial Alliance (landowner),planned,37.1395,-85.9644,KY,Barren,,missing,,brockovich,129,,reported,approximate,,,,brockovich,False,1,low,missing MW
+TenKey LandCo Project Lionsgate – Franklin Data Center,TenKey LandCo I LLC,planned,36.703,-86.591,KY,Simpson,,missing,,brockovich,132,2024,reported,exact,,,,brockovich,False,1,low,missing MW
+Amazon Web Services Bossier Parish Campus (Benton),Amazon Web Services,under construction,32.77,-93.74,LA,Bossier,,missing,,brockovich,134,2026-02,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Amazon Web Services Caddo Parish Campus (Blanchard),Amazon Web Services,under construction,32.6,-94.04,LA,Caddo,,missing,,brockovich,135,2026-02,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Bossier Parish Campus (with Amazon),STACK Infrastructure,under construction,32.69,-93.74,LA,Bossier,,missing,,brockovich,137,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Caddo Parish Campus (with Amazon),STACK Infrastructure,under construction,32.58,-93.9,LA,Caddo,,missing,,brockovich,138,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+"CoreSite BO1 - Boston, MA",CoreSite,operating,42.3767,-71.0798,MA,Middlesex,,missing,,brockovich,141,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Markley Group One Lowell Data Center,Markley Group,operating,42.6334,-71.3162,MA,Middlesex,,missing,,brockovich,142,2015-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+AWS Calvert County Data Center Campus,Amazon Web Services,cancelled,38.437,-76.443,MD,Calvert,,missing,,brockovich,143,2026-03,reported,exact,,,,brockovich,False,1,low,cancelled
+"Sentinel Data Centers Androscoggin Mill Campus, Jay",Sentinel Data Centers,cancelled,44.5024,-70.2175,ME,Franklin,82.0,reported,,brockovich,150,2025-01,reported,exact,,,,brockovich,False,1,medium,cancelled
+Wiscasset Data Center (Old Ferry Road Site),Unnamed developer (NDA with town),planned,44.0015,-69.6553,ME,Lincoln,,missing,,brockovich,151,2025-09,reported,exact,,,,brockovich,False,1,low,missing MW
+Marshall Technology & Energy Center,Alterra Development,planned,42.2723,-84.9633,MI,Calhoun,,missing,,brockovich,152,2025-10-30,reported,approximate,,,,brockovich,False,1,low,missing MW
+Project Flex,Verrus (Sidewalk Infrastructure Partners),planned,42.47,-83.53,MI,Oakland,,missing,,brockovich,154,,reported,exact,,,,brockovich,False,1,low,missing MW
+Thor Equities Augusta Township Data Center (Form8tion),Thor Equities,cancelled,42.163,-83.72,MI,Washtenaw,,missing,,brockovich,157,2024,reported,exact,,,,brockovich,False,1,low,cancelled
+Amazon Becker Data Center (Suspended),Amazon Web Services,cancelled,45.397,-93.876,MN,Sherburne,,missing,,brockovich,158,2024,confirmed,exact,,,,brockovich,False,1,low,cancelled
+Google Project Skyway (Pine Island),Google,planned,44.2019,-92.6496,MN,Goodhue,,missing,,brockovich,160,2026-02,confirmed,exact,,,,brockovich,False,1,low,missing MW
+AWS Project Green Campus,Amazon Web Services,under construction,38.852,-91.52,MO,Montgomery,,missing,,brockovich,163,2026,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Crusoe Warrenton Campus,Crusoe,planned,38.8125,-91.1432,MO,Warren,,missing,,brockovich,165,2025,reported,exact,,,,brockovich,False,1,low,missing MW
+Meta Kansas City Northland,Meta,operating,39.247,-94.705,MO,Clay,,missing,,brockovich,169,2022-03,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Rifle Range Road Data Center,Lumon Solutions,under construction,37.3422,-92.911,MO,Webster,,missing,,brockovich,173,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Amazon Web Services Richmond County Data Center Campus,Amazon Web Services,under construction,34.9445,-79.775,NC,Richmond,,missing,,brockovich,179,2025-06,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Apple Maiden Data Center (iCloud),Apple,operating,35.5886,-81.2567,NC,Catawba,,missing,,brockovich,180,2009,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+"Deep River Data AI Data Center (Cumnock, Lee County)",Deep River Data,planned,35.555,-79.2378,NC,Lee,,missing,,brockovich,182,2025-09,reported,approximate,,,,brockovich,False,1,low,missing MW
+Google Lenoir Data Center,Google,operating,35.9002,-81.5469,NC,Caldwell,,missing,,brockovich,184,2007,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Meta Forest City Data Center,Meta,operating,35.317,-81.826,NC,Rutherford,,missing,,brockovich,186,2010,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Microsoft Person County Mega Park,Microsoft,planned,36.396,-78.9828,NC,Person,,missing,,brockovich,187,2026,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Natelli New Hill Digital Campus,Natelli Holdings,cancelled,35.6526,-79.0033,NC,Wake,300.0,reported,,brockovich,188,,reported,exact,,,,brockovich,False,1,medium,cancelled
+Project Delta Data Center – Stokes County,Undisclosed (rezoning applicant: Engineered Land Solutions),planned,36.282,-80.1494,NC,Stokes,,missing,,brockovich,192,2025-11,reported,exact,,,,brockovich,False,1,low,missing MW
+Rural Hall Data Center (The Drox Group),The Drox Group,planned,36.267,-80.267,NC,Forsyth,,missing,,brockovich,194,,reported,exact,,,,brockovich,False,1,low,missing MW
+Terra Nexus Custer Avenue Data Center (Fayetteville),Terra Nexus Ventures,planned,35.085,-78.9772,NC,Cumberland,,missing,,brockovich,195,2025-10,reported,approximate,,,,brockovich,False,1,low,missing MW
+1623 Farnam,1623 Farnam,operating,41.2578,-95.9375,NE,Douglas,,missing,,brockovich,199,,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Binary Net The Vault Data Center,Binary Net,operating,40.8121,-96.7023,NE,Lancaster,,missing,,brockovich,200,,reported,approximate,,,,brockovich,False,1,low,missing MW
+First National Technology Solutions Omaha Data Center,First National Technology Solutions,operating,41.2614,-95.9365,NE,Douglas,,missing,,brockovich,201,,reported,approximate,,,,brockovich;im3,False,2,low,missing MW
+Google Papillion Data Center,Google,operating,41.1326,-96.1437,NE,Sarpy,,missing,,brockovich,203,2019,reported,approximate,,,,brockovich;im3,False,2,low,missing MW
+H5 Data Centers Omaha (La Vista),H5 Data Centers,operating,41.166,-96.075,NE,Sarpy,,missing,,brockovich,204,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+LightEdge Omaha Data Center,LightEdge,operating,41.1544,-96.0428,NE,Sarpy,,missing,,brockovich,205,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Meta Sarpy Campus (Springfield expansion),Meta,under construction,41.052,-96.148,NE,Sarpy,,missing,,brockovich,206,2022-07,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Scott Data Center,Scott Data,operating,41.2406,-96.0093,NE,Douglas,,missing,,brockovich,208,,reported,approximate,,,,brockovich,False,1,low,missing MW
+TierPoint Omaha - Bellevue Data Center,TierPoint,operating,41.153,-95.925,NE,Sarpy,,missing,,brockovich,209,,reported,approximate,,,,brockovich,False,1,low,missing MW
+TierPoint Omaha - Midlands Data Center,TierPoint,operating,41.11,-96.046,NE,Sarpy,,missing,,brockovich,210,,reported,approximate,,,,brockovich,False,1,low,missing MW
+A1 Data Center Campus,A1 Data Center,cancelled,39.402,-75.043,NJ,Cumberland,1400.0,reported,,brockovich,211,,reported,exact,,,,brockovich,False,1,medium,cancelled
+Andover HPC Data Center (former Newton Airport Site),Andover HPC Development,planned,41.0419,-74.7381,NJ,Sussex,,missing,,brockovich,212,2025-08,reported,exact,,,,brockovich,False,1,low,missing MW
+CyrusOne NYM1 (Somerset),CyrusOne,operating,40.538,-74.5457,NJ,Somerset,,missing,,brockovich,214,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Equinix NY5,Equinix,operating,40.7786,-74.0723,NJ,Hudson,,missing,,brockovich,215,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Meta Los Lunas AI Expansion,Meta,under construction,34.8083,-106.7296,NM,Valencia,,missing,,brockovich,219,2024-12,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Apple Reno Data Center (Reno Technology Park),Apple,operating,39.5631,-119.5548,NV,Washoe,,missing,,brockovich,222,2012,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Colovore Reno 1 (RN01),Colovore,planned,39.5341,-119.4772,NV,Storey,,missing,,brockovich,223,2025-12,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+DataBank LAS1,DataBank,operating,36.0598,-115.1471,NV,Clark,,missing,,brockovich,224,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Google Henderson Data Center,Google,operating,36.0562,-115.0425,NV,Clark,,missing,,brockovich,227,2019,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Manse Technology Campus,Manse Technology Campus LLC,planned,36.1925,-115.9758,NV,Nye,,missing,,brockovich,228,2026-07,reported,approximate,,,,brockovich,False,1,low,missing MW
+Microsoft Silver Springs Data Center Campus,Microsoft,planned,39.3736,-119.2267,NV,Lyon,,missing,,brockovich,229,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Microsoft Victory Logistics District Campus,Microsoft,planned,39.6082,-119.2169,NV,Lyon,,missing,,brockovich,230,2025-04,reported,exact,,,,brockovich,False,1,low,missing MW
+Switch Apex Industrial Park Land Position,Switch,planned,36.3291,-114.9278,NV,Clark,,missing,,brockovich,234,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Switch Edge 1,Switch,operating,36.0591,-115.2137,NV,Clark,,missing,,brockovich,236,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 10,Switch,operating,36.0556,-115.2231,NV,Clark,,missing,,brockovich,237,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 11,Switch,operating,36.0559,-115.2141,NV,Clark,,missing,,brockovich,238,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 12,Switch,operating,36.0617,-115.2133,NV,Clark,,missing,,brockovich,239,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 5,Switch,operating,36.1428,-115.0767,NV,Clark,,missing,,brockovich,240,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 7,Switch,operating,36.0599,-115.2102,NV,Clark,,missing,,brockovich,241,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Las Vegas 9,Switch,operating,36.0557,-115.2196,NV,Clark,,missing,,brockovich,242,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Tahoe Reno 2 (The Citadel Campus),Switch,operating,39.5139,-119.4849,NV,Storey,,missing,,brockovich,244,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Switch Tahoe Reno 3 (The Citadel Campus),Switch,operating,39.5115,-119.4833,NV,Storey,,missing,,brockovich,245,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+9LDG Niagara AI Data Center,9 Lives Digital Group (9LDG),planned,43.0628,-79.0175,NY,Niagara,,missing,,brockovich,250,2024-08,reported,exact,,,,brockovich,False,1,low,missing MW
+Digital Realty JFK10 (111 Eighth Avenue),Digital Realty,operating,40.7414,-74.0032,NY,New York,,missing,,brockovich,251,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+North Country Colocation Services Massena Expansion,NYDIG / North Country Colocation Services,planned,44.929,-74.893,NY,St. Lawrence,,missing,,brockovich,253,,reported,approximate,,,,brockovich,False,1,low,missing MW
+AWS Crosby Court Campus,Amazon Web Services,operating,40.1019,-83.1986,OH,Franklin,,missing,,brockovich,258,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+AWS Fayette County (Jefferson Township),Amazon Web Services,under construction,39.6534,-83.5677,OH,Fayette,,missing,,brockovich,259,2024-12,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+AWS Hayden Run Campus,Amazon Web Services,operating,40.0599,-83.1343,OH,Franklin,,missing,,brockovich,260,2015,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+AWS Industrial Parkway Campus (Jerome Township),Amazon Web Services,operating,40.1346,-83.2124,OH,Union,,missing,,brockovich,261,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+AWS New Albany (3180 Beech Road),Amazon Web Services,operating,40.1041,-82.7509,OH,Licking,,missing,,brockovich,262,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+AWS New Albany (Newton Court),Amazon Web Services,operating,40.0937,-82.7299,OH,Licking,,missing,,brockovich,263,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+AWS Project Cosmos,Amazon Web Services,under construction,40.237,-83.35,OH,Union,,missing,,brockovich,264,2024-10,confirmed,exact,,,,brockovich,False,1,low,missing MW
+AWS Warner Road Campus (Jerome Township),Amazon Web Services,operating,40.1186,-83.2,OH,Union,,missing,,brockovich,266,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Aligned Data Centers – Conesville Industrial Park,Aligned Data Centers,under construction,40.27,-81.83,OH,Coshocton,,missing,,brockovich,267,2025,reported,exact,,,,brockovich,False,1,low,missing MW
+Aligned Data Centers — Pataskala,Aligned Data Centers,cancelled,39.9956,-82.6743,OH,Licking,200.0,reported,,brockovich,268,,confirmed,approximate,,,,brockovich,False,1,medium,cancelled
+Aligned HPC Campus at Former Pixelle Paper Mill (Chillicothe),Aligned Data Centers (in partnership with U.S. Paper Mill LLC / U.S. Medical Glove Company),planned,39.3331,-82.9824,OH,Ross,,missing,,brockovich,269,2026-07-02,reported,approximate,,,,brockovich,False,1,low,missing MW
+CyrusOne CIN2 (Cincinnati),CyrusOne,operating,39.1028,-84.5179,OH,Hamilton,,missing,,brockovich,276,,confirmed,exact,,,,brockovich;im3,False,2,low,missing MW
+Edged Columbus,Edged (an Endeavour company),operating,40.1061,-82.8158,OH,Franklin,,missing,,brockovich,277,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Project BOSC (Lima),Google,planned,40.744,-84.1052,OH,Allen,,missing,,brockovich,278,2026-03-16,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Bowling Green (Project Accordion),Meta,under construction,41.432,-83.701,OH,Wood,,missing,,brockovich,280,2025-04,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Heath Data Center,Microsoft,under construction,40.015,-82.46,OH,Licking,,missing,,brockovich,282,2024-10,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Hebron Data Center,Microsoft,under construction,40.01,-82.5,OH,Licking,,missing,,brockovich,283,2024-10,confirmed,exact,,,,brockovich,False,1,low,missing MW
+STACK Infrastructure NAL01 (New Albany),STACK Infrastructure,operating,40.07,-82.8,OH,Franklin,,missing,,brockovich,286,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Whitetail Creek Data Center,Bitdeer,planned,41.19,-80.77,OH,Trumbull,,missing,,brockovich,290,,reported,exact,,,,brockovich,False,1,low,missing MW
+Black Bear AI Data Center Campus,Oklahoma AI Ventures LLC (Jericho Energy Ventures / Comstock Holding Companies JV),planned,36.2892,-97.2836,OK,Noble County,,missing,,brockovich,291,2025-04,reported,approximate,,,,brockovich,False,1,low,missing MW
+Cerebras Oklahoma City Data Center,Cerebras Systems,operating,35.4676,-97.5164,OK,Oklahoma,,missing,,brockovich,292,2025,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Fluidstack Okmulgee County Data Center,Fluidstack,planned,35.6231,-95.9605,OK,Okmulgee,,missing,,brockovich,295,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Google Muskogee County Data Center Campuses,Google,planned,35.57,-95.65,OK,Muskogee,,missing,,brockovich,296,2025-11,reported,exact,,,,brockovich,False,1,low,missing MW
+Google Pryor Data Center Campus (Mayes County Expansion),Google,operating,36.32,-95.31,OK,Mayes,,missing,,brockovich,297,2007-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Stillwater Data Center Campus,Google,under construction,36.14,-97.06,OK,Payne,,missing,,brockovich,298,2025-03,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Isocentric Networks Tulsa Data Center,Isocentric Networks,operating,36.154,-95.9928,OK,Tulsa,,missing,,brockovich,301,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Meta Project Anthem — Tulsa,Meta,under construction,36.14,-95.88,OK,Tulsa,,missing,,brockovich,302,2024,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Project Clydesdale,Beale Infrastructure,under construction,36.28,-95.83,OK,Tulsa,,missing,,brockovich,305,,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Project Spring (Sand Springs),Google,planned,36.256,-96.11,OK,Osage,,missing,,brockovich,306,2025-11,reported,exact,,,,brockovich,False,1,low,missing MW
+RACK59 Data Center,RACK59,operating,35.4676,-97.5164,OK,Oklahoma,,missing,,brockovich,307,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+TierPoint Oklahoma City (OKC / OKC2),TierPoint,operating,35.4676,-97.5164,OK,Oklahoma,,missing,,brockovich,308,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+TierPoint Tulsa - State Farm,TierPoint,operating,36.154,-95.9928,OK,Tulsa,,missing,,brockovich,309,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+TulsaConnect Downtown (DC-5),TulsaConnect,operating,36.154,-95.9928,OK,Tulsa,,missing,,brockovich,310,,reported,approximate,,,,brockovich,False,1,low,missing MW
+TulsaConnect East (DC-3),TulsaConnect,operating,36.154,-95.9928,OK,Tulsa,,missing,,brockovich,311,,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Flexential Portland - Hillsboro 4 (PDX04),Flexential,operating,45.5553,-122.9401,OR,Washington,,missing,,brockovich,315,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Google The Dalles Data Center Campus,Google,operating,45.5975,-121.1776,OR,Wasco,,missing,,brockovich,316,2005,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Prineville Data Center Campus,Meta,operating,44.3042,-120.8515,OR,Crook,,missing,,brockovich,317,2010,confirmed,exact,,,,brockovich,False,1,low,missing MW
+"Amazon Web Services Innovation Campus, Falls Township",Amazon Web Services,under construction,40.1545,-74.7882,PA,Bucks,,missing,,brockovich,321,2025-06,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Flexential Philadelphia - Collegeville (PHL01),Flexential,operating,40.1522,-75.4776,PA,Montgomery,,missing,,brockovich,325,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Panther Creek HPC/AI Data Center Campus,Bitfarms Ltd.,under construction,40.8564,-75.8283,PA,Carbon,,missing,,brockovich,328,2025-08-05,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Project Gravity,Archbald 25 Developer LLC,planned,41.5,-75.55,PA,Lackawanna,,missing,,brockovich,329,,reported,exact,,,,brockovich,False,1,low,missing MW
+Project Hazelnut,NorthPoint Development (NP Hazleton Holdings 1 LLC),planned,40.985,-75.955,PA,Luzerne,,missing,,brockovich,330,2024,reported,exact,,,,brockovich,False,1,low,missing MW
+Renaissance Park and Innovation Data Center Campus,MLP Ventures,planned,40.092,-75.347,PA,Montgomery,,missing,,brockovich,331,2026-05,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Slate Belt Holdings Data Center Campus (Upper Mount Bethel),Slate Belt Holdings LLC (Talen Energy / River Pointe Logistics joint venture),planned,40.9,-75.13,PA,Northampton,,missing,,brockovich,333,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Talen Energy Montour Data Center Campus,Talen Energy,planned,41.05,-76.67,PA,Montour,,missing,,brockovich,336,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Triboro Industrial Park / Triboro Commerce Park,Ercor Triboro LLC (Sansone Group),planned,41.45,-75.58,PA,Lackawanna,,missing,,brockovich,337,,reported,exact,,,,brockovich,False,1,low,missing MW
+York 2 Energy Center Data Center,Energy Capital Partners,planned,39.75,-76.35,PA,York,,missing,,brockovich,339,2025-07-21,reported,approximate,,,,brockovich,False,1,low,missing MW
+Hanton City Business Park (data center anchor),Hanton City Investments LLC,planned,41.867,-71.527,RI,Providence,,missing,,brockovich,340,2026-05,reported,exact,,,,brockovich,False,1,low,missing MW
+Google Berkeley County Data Center (Moncks Corner),Google,operating,33.0721,-80.0391,SC,Berkeley,,missing,,brockovich,341,2007,confirmed,approximate,,,,brockovich;im3,False,2,low,missing MW
+Google Ridgeville Data Center (Project Dawson),Google,under construction,33.096,-80.3239,SC,Dorchester,,missing,,brockovich,342,2024-09,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Winding Woods Campus,Google,under construction,33.1843,-80.5793,SC,Dorchester,,missing,,brockovich,343,2026,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Project Boulder,Eagle Rock Partners,planned,32.7,-80.62,SC,Colleton,,missing,,brockovich,346,,reported,exact,,,,brockovich,False,1,low,missing MW
+Applied Digital Deuel County AI Campus,Applied Digital Corporation,cancelled,44.567,-96.62,SD,Deuel,430.0,reported,,brockovich,347,2025,confirmed,exact,,,,brockovich,False,1,medium,cancelled
+Google Montgomery County Data Center,Google,operating,36.5288,-87.3636,TN,Montgomery,,missing,,brockovich,351,2015,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Gallatin Data Center Campus,Meta,operating,36.3884,-86.4369,TN,Sumner,,missing,,brockovich,352,2022,confirmed,exact,,,,brockovich,False,1,low,missing MW
+BlockchAIn Collin County AI GPU Hosting Site,"BlockchAIn Digital Infrastructure, Inc.",under construction,33.1972,-96.6398,TX,Collin,,missing,,brockovich,356,,reported,approximate,,,,brockovich,False,1,low,missing MW
+BlockchAIn Reeves County AI GPU Hosting Site,"BlockchAIn Digital Infrastructure, Inc.",planned,31.4229,-103.4933,TX,Reeves,,missing,,brockovich,357,,reported,approximate,,,,brockovich,False,1,low,missing MW
+CyrusOne SAT2-SAT4 (San Antonio),CyrusOne,operating,29.4709,-98.673,TX,Bexar,,missing,,brockovich,369,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Edged Dallas (Irving),Edged Energy,operating,32.8212,-96.917,TX,Dallas,,missing,,brockovich,371,,reported,approximate,,,,brockovich,False,1,low,missing MW
+Flexential Dallas - Plano,Flexential,operating,33.007,-96.6664,TX,Collin,,missing,,brockovich,372,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Google Haskell County Data Center Campus,Google,under construction,33.1576,-99.7337,TX,Haskell,,missing,,brockovich,378,2025-11-14,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Meitner Energy Center,Google,under construction,35.5365,-100.9609,TX,Gray,,missing,,brockovich,379,2026,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Red Oak Campus,Google,operating,32.5163,-96.8011,TX,Ellis,,missing,,brockovich,380,2023-09,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Wilbarger County Campus,Google,under construction,34.1551,-99.294,TX,Wilbarger,,missing,,brockovich,381,2026,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Meta Fort Worth Data Center,Meta,operating,32.9844,-97.2618,TX,Tarrant,,missing,,brockovich,390,2015,reported,approximate,,,,brockovich;im3,False,2,low,missing MW
+Meta Temple Data Center,Meta,operating,31.1399,-97.3813,TX,Bell,,missing,,brockovich,391,2022-03,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Microsoft San Antonio SAT89/SAT90 Data Centers,Microsoft,under construction,29.35,-98.88,TX,Medina,,missing,,brockovich,393,2025-05,reported,exact,,,,brockovich,False,1,low,missing MW
+Prime DFW01-01,Prime Data Centers,operating,32.838,-96.8784,TX,Dallas,,missing,,brockovich,398,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Project Matador,Fermi America,under construction,35.396,-101.543,TX,Carson,,missing,,brockovich,401,2025,reported,exact,,,,brockovich,False,1,low,missing MW
+Skybox Houston One,Skybox Datacenters,operating,29.8029,-95.7553,TX,Harris,,missing,,brockovich,404,,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Soluna Project Grace,Soluna Holdings,under construction,34.4692,-101.3082,TX,Briscoe,2.0,reported,,brockovich,405,,reported,approximate,,,,brockovich,False,1,medium,below threshold
+CyrusOne Dugway Proving Ground Data Center,CyrusOne,planned,40.2,-112.93,UT,Tooele,,missing,,brockovich,415,,reported,exact,,,,brockovich,False,1,low,missing MW
+Meta Eagle Mountain Data Center Campus,Meta,operating,40.3138,-111.9697,UT,Utah,,missing,,brockovich,417,2018,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Amazon Devlin Technology Park,Amazon Web Services,planned,38.724,-77.558,VA,Prince William,,missing,,brockovich,423,2025-11,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Culpeper Acquisitions Brandy Station Campus (denied),Culpeper Acquisitions LLC,cancelled,38.5095,-77.8863,VA,Culpeper,,missing,,brockovich,429,2024,reported,exact,,,,brockovich,False,1,low,cancelled
+DC Blox Henrico County Campus (withdrawn),DC BLOX,cancelled,37.5532,-77.4543,VA,Henrico,50.0,reported,,brockovich,430,2024,confirmed,exact,,,,brockovich,False,1,medium,cancelled
+Equinix Ashburn Campus (DC1–DC15),Equinix,operating,39.0437,-77.4875,VA,Loudoun,,missing,,brockovich,432,1999,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Google Project Loch,Google,planned,37.454,-77.71,VA,Chesterfield,,missing,,brockovich,435,2025-08-28,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Bristow Data Center Campus (MNZ03),Microsoft,operating,38.728,-77.56,VA,Prince William,,missing,,brockovich,437,2021,reported,exact,,,,brockovich,False,1,low,missing MW
+Prince William Digital Gateway,QTS / Compass Datacenters,cancelled,38.8,-77.68,VA,Prince William,,missing,,brockovich,441,2021,confirmed,exact,,,,brockovich,False,1,low,cancelled
+QTS White Oak Technology Park II (RIC5),QTS Data Centers,planned,37.49,-77.27,VA,Henrico,,missing,,brockovich,442,2024-03,confirmed,approximate,,,,brockovich,False,1,low,missing MW
+Solis Arx Progress Park Data Center Campus,Solis Arx,planned,36.958,-80.899,VA,Wythe,,missing,,brockovich,445,2025-12-05,reported,approximate,,,,brockovich,False,1,low,missing MW
+PNNL AI Data Center,Battelle Memorial Institute (Pacific Northwest National Laboratory),planned,46.348,-119.279,WA,Benton,2.0,reported,,brockovich,452,,reported,approximate,,,,brockovich,False,1,medium,below threshold
+Cassville Data Center Campus (Undisclosed Developer),"Undisclosed (major tech company, NDA not signed)",cancelled,42.7139,-90.9932,WI,Grant,,missing,,brockovich,455,2024-12,reported,approximate,,,,brockovich,False,1,low,cancelled
+Menomonie Data Center Campus,Undisclosed (Balloonist LLC),planned,44.8769,-91.9193,WI,Dunn,,missing,,brockovich,457,2025-07,reported,exact,,,,brockovich;im3,False,2,low,missing MW
+Microsoft Kenosha Data Center Campus,Microsoft,planned,42.537,-87.89,WI,Kenosha,,missing,,brockovich,459,2025-01,confirmed,exact,,,,brockovich,False,1,low,missing MW
+Netsonic Green Bay Data Center,Netsonic (Dynamic Ventures LLC),operating,44.5155,-87.995,WI,Brown County,,missing,,brockovich,461,,reported,approximate,,,,brockovich,False,1,low,missing MW
+QTS Dane County Hyperscale Campus (DeForest),QTS Data Centers,cancelled,43.2428,-89.3401,WI,Dane,,missing,,brockovich,462,2025-10-30,confirmed,exact,,,,brockovich,False,1,low,cancelled
+Stonebridge Pacific AI Data Center (Columbia County),Stonebridge,cancelled,43.55,-89.4,WI,Columbia,,missing,,brockovich,464,2025-10,reported,approximate,,,,brockovich,False,1,low,cancelled
+Wisconsin Rapids Data Center,PCH WI Holdings LLC,planned,44.39,-89.82,WI,Wood,,missing,,brockovich,465,,reported,exact,,,,brockovich,False,1,low,missing MW
+Microsoft Cheyenne Mega-Campus Expansion,Microsoft,planned,41.09,-104.79,WY,Laramie,,missing,,brockovich,469,2026-04,reported,exact,,,,brockovich,False,1,low,missing MW
+Dakota Carrier Network,,unknown,46.81509687104177,-96.84432644156146,ND,Cass County,8.176826138508547,estimated from floor area,,im3,9,,,,building,25931.0,0.0,im3,False,1,low,below threshold
+,,unknown,39.29404817733801,-84.41211321346512,OH,Hamilton County,4.122626390608182,estimated from floor area,,im3,25,,,,building,13074.0,0.0,im3,False,1,low,below threshold
+Layer42 Santa Clara,Layer42,unknown,37.378039948434136,-121.95415110304296,CA,Santa Clara County,7.893029002854015,estimated from floor area,,im3,29,,,,building,25031.0,0.0,im3,False,1,low,below threshold
+Netrality Data Centers,,unknown,38.62926158352849,-90.197174834978,MO,St. Louis city,7.281919170744587,estimated from floor area,,im3,37,,,,building,23093.0,0.0,im3,False,1,low,below threshold
+IBM Building,,unknown,42.64935307487593,-73.7527452452726,NY,Albany County,4.841894464417059,estimated from floor area,,im3,64,,,,building,15355.0,0.0,im3,False,1,low,below threshold
+,Verizon Wireless,unknown,42.32626638236376,-83.07698605760793,MI,Wayne County,7.862126648082744,estimated from floor area,,im3,65,,,,building,24933.0,0.0,im3,False,1,low,below threshold
+,University of New Hampshire,unknown,43.14361852296161,-70.95247263069143,NH,Strafford County,9.634282095169938,estimated from floor area,,im3,66,,,,building,30553.0,0.0,im3,False,1,low,below threshold
+,FirstLight,unknown,43.07611925782941,-70.80804278020655,NH,Rockingham County,2.937615684175143,estimated from floor area,,im3,71,,,,building,9316.0,0.0,im3,False,1,low,below threshold
+Insurance Exchange Building,,unknown,39.74557178496544,-104.9956910745452,CO,Denver County,6.2457442954548155,estimated from floor area,,im3,72,,,,building,19807.0,0.0,im3,False,1,low,below threshold
+H5 Data Centers San Antonio,H5 Data Centers,unknown,29.429371203549056,-98.4869063933119,TX,Bexar County,6.589769489898254,estimated from floor area,,im3,77,,,,building,20898.0,0.0,im3,False,1,low,below threshold
+Aureon,,unknown,41.58799896569892,-93.63100934776038,IA,Polk County,3.5484101861338435,estimated from floor area,,im3,78,,,,building,11253.0,0.0,im3,False,1,low,below threshold
+Equinix SV8,Equinix,unknown,37.44589521919974,-122.16078171336196,CA,Santa Clara County,3.794683033851832,estimated from floor area,,im3,85,,,,building,12034.0,0.0,im3,False,1,low,below threshold
+Digital Realty ORD11,Digital Realty,unknown,41.87429345515449,-87.6299544230129,IL,Cook County,2.866981730412237,estimated from floor area,,im3,88,,,,building,9092.0,0.0,im3,False,1,low,below threshold
+Lumen,Lumen Technologies,unknown,33.49433566334995,-112.0707857401212,AZ,Maricopa County,8.0270443169131,estimated from floor area,,im3,89,,,,building,25456.0,0.0,im3,False,1,low,below threshold
+L3Harris Technologies Inc,,unknown,33.30535847275577,-111.67170400659428,AZ,Maricopa County,4.5625119508727074,estimated from floor area,,im3,90,,,,building,14469.0,0.0,im3,False,1,low,below threshold
+AZ Labs,,unknown,33.30627197658142,-111.67170030901956,AZ,Maricopa County,9.97231601674956,estimated from floor area,,im3,91,,,,building,31625.0,0.0,im3,False,1,low,below threshold
+,,unknown,38.91370196268696,-77.2258381321817,VA,Fairfax County,6.173533690938274,estimated from floor area,,im3,94,,,,building,19578.0,0.0,im3,False,1,low,below threshold
+Molina Healthcare,,unknown,34.99544591950108,-106.61803444531762,NM,Bernalillo County,8.062361293794552,estimated from floor area,,im3,100,,,,building,25568.0,0.0,im3,False,1,low,below threshold
+Equinix SV16,Equinix,unknown,37.37611802320719,-121.98868795324002,CA,Santa Clara County,8.308003481211086,estimated from floor area,,im3,133,,,,building,26347.0,0.0,im3,False,1,low,below threshold
+Equinix SV14,Equinix,unknown,37.37496213850432,-121.98850932446408,CA,Santa Clara County,6.373768336650081,estimated from floor area,,im3,135,,,,building,20213.0,0.0,im3,False,1,low,below threshold
+Lumen Santa Clara,Lumen Technologies,unknown,37.37700481451302,-121.952081932971,CA,Santa Clara County,8.016953752089828,estimated from floor area,,im3,137,,,,building,25424.0,0.0,im3,False,1,low,below threshold
+Prime Santa Clara,Prime,unknown,37.37501721660046,-121.95324973327962,CA,Santa Clara County,9.480400981615036,estimated from floor area,,im3,138,,,,building,30065.0,0.0,im3,False,1,low,below threshold
+Colovore,,unknown,37.37672946683328,-121.95314883048796,CA,Santa Clara County,7.618691771721299,estimated from floor area,,im3,140,,,,building,24161.0,0.0,im3,False,1,low,below threshold
+Digital Realty Silicon Valley SJC15,Digital Realty,unknown,37.374996550088426,-121.95407689999966,CA,Santa Clara County,7.761851660151476,estimated from floor area,,im3,142,,,,building,24615.0,0.0,im3,False,1,low,below threshold
+Csquare SFO4,Csquare,unknown,37.37577706129449,-121.9551929871648,CA,Santa Clara County,8.604098492743985,estimated from floor area,,im3,145,,,,building,27286.0,0.0,im3,False,1,low,below threshold
+Prime SANTA CLARA DATA CENTER,Prime,unknown,37.37502630609213,-121.95488070140485,CA,Santa Clara County,8.14340114253146,estimated from floor area,,im3,146,,,,building,25825.0,0.0,im3,False,1,low,below threshold
+Lumen,Lumen Technologies,unknown,37.37758479573238,-121.95068207526988,CA,Santa Clara County,4.99482958751978,estimated from floor area,,im3,148,,,,building,15840.0,0.0,im3,False,1,low,below threshold
+,,unknown,37.37977911163557,-121.9499100438154,CA,Santa Clara County,5.94838796331901,estimated from floor area,,im3,150,,,,building,18864.0,0.0,im3,False,1,low,below threshold
+,Comcast,unknown,47.69332367380439,-122.31731718771368,WA,King County,2.5305244595862515,estimated from floor area,,im3,159,,,,building,8025.0,0.0,im3,False,1,low,below threshold
+CTI Biopharma,,unknown,47.6177878057982,-122.35669303335187,WA,King County,6.495801104981531,estimated from floor area,,im3,162,,,,building,20600.0,0.0,im3,False,1,low,below threshold
+Westin Building,Digital Realty,unknown,47.61435537680634,-122.3388642251616,WA,King County,4.136185587089454,estimated from floor area,,im3,163,,,,building,13117.0,0.0,im3,False,1,low,below threshold
+TierPoint,,unknown,38.62976100794761,-90.1964202669285,MO,St. Louis city,7.580221493332575,estimated from floor area,,im3,185,,,,building,24039.0,0.0,im3,False,1,low,below threshold
+,,unknown,47.24606673682079,-119.82866158737184,WA,Grant County,6.0123999839166435,estimated from floor area,,im3,222,,,,building,19067.0,0.0,im3,False,1,low,below threshold
+,,unknown,39.290121050497966,-94.68505095083452,MO,Platte County,9.750954250939024,estimated from floor area,,im3,225,,,,building,30923.0,0.0,im3,False,1,low,below threshold
+33 Thomas Street,,unknown,40.7165249817088,-74.0059130609563,NY,New York County,9.709330671043025,estimated from floor area,,im3,227,,,,building,30791.0,0.0,im3,False,1,low,below threshold
+VentureData,,unknown,43.8252432321768,-111.78209278694165,ID,Madison County,5.760766523636291,estimated from floor area,,im3,228,,,,building,18269.0,0.0,im3,False,1,low,below threshold
+CoreSpace Dallas,CoreSpace,unknown,32.81755909182154,-96.87306493151615,TX,Dallas County,9.972631346900288,estimated from floor area,,im3,230,,,,building,31626.0,0.0,im3,False,1,low,below threshold
+Lumen San Antonio 2,Lumen Technologies,unknown,29.438279094436894,-98.50652172672936,TX,Bexar County,4.0116301775521865,estimated from floor area,,im3,266,,,,building,12722.0,0.0,im3,False,1,low,below threshold
+TierPoint,,unknown,47.671916867147694,-117.09593477622664,WA,Spokane County,4.55179072574798,estimated from floor area,,im3,276,,,,building,14435.0,0.0,im3,False,1,low,below threshold
+Baltimore Technology Park,,unknown,39.27538391165092,-76.62552663391303,MD,Baltimore city,9.501212771563035,estimated from floor area,,im3,277,,,,building,30131.0,0.0,im3,False,1,low,below threshold
+Intergate Seattle West Building C,Sabey,unknown,47.49413118771306,-122.29440690516354,WA,King County,6.240699013043178,estimated from floor area,,im3,278,,,,building,19791.0,0.0,im3,False,1,low,below threshold
+Intergate Seattle West Building B,Sabey,unknown,47.49307629033907,-122.29368392327882,WA,King County,6.035419084919734,estimated from floor area,,im3,279,,,,building,19140.0,0.0,im3,False,1,low,below threshold
+,,unknown,41.90535458903981,-88.21951394141162,IL,DuPage County,4.588053693081616,estimated from floor area,,im3,286,,,,building,14550.0,0.0,im3,False,1,low,below threshold
+,Verizon Wireless,unknown,39.71718414793671,-85.94132960161893,IN,Hancock County,6.623509816026071,estimated from floor area,,im3,288,,,,building,21005.0,0.0,im3,False,1,low,below threshold
+Flexential Salt Lake City - South Valley,Flexential,unknown,40.62035188350187,-111.9860469169242,UT,Salt Lake County,9.632390114265576,estimated from floor area,,im3,290,,,,building,30547.0,0.0,im3,False,1,low,below threshold
+QES Computers,,unknown,37.699475300043446,-121.90379949999844,CA,Alameda County,0.2967256718343505,estimated from floor area,,im3,292,,,,building,941.0,0.0,im3,False,1,low,below threshold
+Equinix SE3 Data Center,Equinix,unknown,47.61442272967249,-122.33974344575807,WA,King County,3.9652766453952792,estimated from floor area,,im3,293,,,,building,12575.0,0.0,im3,False,1,low,below threshold
+,Claro,unknown,18.446826968330527,-66.0516872147712,PR,San Juan Municipio,7.295793697376587,estimated from floor area,,im3,299,,,,building,23137.0,0.0,im3,False,1,low,below threshold
+Data Center,Oregon Health & Science University,unknown,45.52668379341888,-122.87550380152314,OR,Washington County,7.976906822947466,estimated from floor area,,im3,304,,,,building,25297.0,0.0,im3,False,1,low,below threshold
+CSSNW Bellingham,CSS Communications,unknown,48.75726819331372,-122.480547528078,WA,Whatcom County,1.3597036099359399,estimated from floor area,,im3,307,,,,building,4312.0,0.0,im3,False,1,low,below threshold
+Lumen Austin 3,Lumen Technologies,unknown,30.261396172131168,-97.72359737399287,TX,Travis County,1.5980932038857474,estimated from floor area,,im3,314,,,,building,5068.0,0.0,im3,False,1,low,below threshold
+LightEdge Austin I,,unknown,30.21429715095225,-97.7126675657396,TX,Travis County,9.736133733854842,estimated from floor area,,im3,321,,,,building,30876.0,0.0,im3,False,1,low,below threshold
+Equinix SV6,Equinix,unknown,37.39960173949957,-122.01456250837072,CA,Santa Clara County,6.835727007465516,estimated from floor area,,im3,335,,,,building,21678.0,0.0,im3,False,1,low,below threshold
+,Apple,unknown,44.28941552511668,-120.87507749015272,OR,Crook County,2.9098666309111443,estimated from floor area,,im3,338,,,,building,9228.0,0.0,im3,False,1,low,below threshold
+Verizon,,unknown,41.33832138450139,-96.0277741269746,NE,Douglas County,3.732247664007835,estimated from floor area,,im3,340,,,,building,11836.0,0.0,im3,False,1,low,below threshold
+George C. Wallace Alabama Supercomputer Center,Alabama Supercomputer Authority,unknown,34.73654090277783,-86.67309882783594,AL,Madison County,4.704410518699974,estimated from floor area,,im3,342,,,,building,14919.0,0.0,im3,False,1,low,below threshold
+KOMO Plaza West,,unknown,47.61891975961567,-122.34859631775392,WA,King County,6.381966920568991,estimated from floor area,,im3,351,,,,building,20239.0,0.0,im3,False,1,low,below threshold
+,,unknown,25.79754440402661,-80.230033722435,FL,Miami-Dade County,5.017218028221415,estimated from floor area,,im3,362,,,,building,15911.0,0.0,im3,False,1,low,below threshold
+Lumen,Lumen Technologies,unknown,47.654225584825305,-117.42000258764048,WA,Spokane County,8.009070498321647,estimated from floor area,,im3,368,,,,building,25399.0,0.0,im3,False,1,low,below threshold
+,,unknown,43.06728877873921,-89.43673598135521,WI,Dane County,2.893469463073327,estimated from floor area,,im3,369,,,,building,9176.0,0.0,im3,False,1,low,below threshold
+Apollo Cable Landing Station,Apollo,unknown,40.15704355065648,-74.10158204974093,NJ,Monmouth County,8.168312224438912,estimated from floor area,,im3,378,,,,building,25904.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91583559984652,-119.26632355,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,394,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.915835599846574,-119.2665274,OR,Umatilla County,0.822381033096691,estimated from floor area,,im3,395,,,,building,2608.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91583559984652,-119.26672585,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,396,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91583559984655,-119.26711215,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,397,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91584309984662,-119.26731594999998,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,398,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91583189984655,-119.26751175,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,399,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.91583559984655,-119.26771695000002,OR,Umatilla County,0.8214350426445092,estimated from floor area,,im3,400,,,,building,2605.0,0.0,im3,False,1,low,below threshold
+Digital Realty New Jersey EWR20,Digital Realty,unknown,40.82992945585005,-74.12674913164862,NJ,Passaic County,9.338187083637042,estimated from floor area,,im3,418,,,,building,29614.0,0.0,im3,False,1,low,below threshold
+Lumen Dallas 6,Lumen Technologies,unknown,32.82799793180718,-96.88438205812224,TX,Dallas County,4.092039365987637,estimated from floor area,,im3,430,,,,building,12977.0,0.0,im3,False,1,low,below threshold
+Digital Realty DFW36,Digital Realty,unknown,32.82754986077816,-96.87374979541195,TX,Dallas County,7.725273362667113,estimated from floor area,,im3,431,,,,building,24499.0,0.0,im3,False,1,low,below threshold
+Verizon,Verizon,unknown,39.58924804995954,-104.87793294999813,CO,Arapahoe County,2.5412456847109786,estimated from floor area,,im3,436,,,,building,8059.0,0.0,im3,False,1,low,below threshold
+AT&T,,unknown,34.57998399250564,-118.11402444850228,CA,Los Angeles County,5.482960660845576,estimated from floor area,,im3,441,,,,building,17388.0,0.0,im3,False,1,low,below threshold
+Juniper,,unknown,45.31873065187943,-122.76587362101382,OR,Clackamas County,7.83721556617529,estimated from floor area,,im3,443,,,,building,24854.0,0.0,im3,False,1,low,below threshold
+Cologix Jacksonville JAX1,,unknown,30.33142981885113,-81.66242566977944,FL,Duval County,9.523285882113942,estimated from floor area,,im3,452,,,,building,30201.0,0.0,im3,False,1,low,below threshold
+,,unknown,36.14048086552297,-86.76414722152771,TN,Davidson County,3.265243710780765,estimated from floor area,,im3,475,,,,building,10355.0,0.0,im3,False,1,low,below threshold
+CenturyLink,,unknown,33.76514415943699,-84.38373631254974,GA,Fulton County,7.2670986536604065,estimated from floor area,,im3,476,,,,building,23046.0,0.0,im3,False,1,low,below threshold
+Expedient Pittsburgh South,Expedient,unknown,40.42737727783291,-80.04253151075422,PA,Allegheny County,8.652974666106708,estimated from floor area,,im3,481,,,,building,27441.0,0.0,im3,False,1,low,below threshold
+Liquid Web,,unknown,42.68795132456832,-84.64299464110024,MI,Eaton County,7.277504548634405,estimated from floor area,,im3,485,,,,building,23079.0,0.0,im3,False,1,low,below threshold
+,,unknown,34.0707036329806,-84.67590752731094,GA,Cobb County,5.851896937196469,estimated from floor area,,im3,489,,,,building,18558.0,0.0,im3,False,1,low,below threshold
+Thin-nology,,unknown,30.421141229242764,-97.59160304354108,TX,Travis County,2.903875358047326,estimated from floor area,,im3,508,,,,building,9209.0,0.0,im3,False,1,low,below threshold
+Cloud Storage Corp,,unknown,38.87213220021316,-99.30018745000542,KS,Ellis County,3.645531872557839,estimated from floor area,,im3,515,,,,building,11561.0,0.0,im3,False,1,low,below threshold
+Information Technology Data Center,Phillips Exeter Academy,unknown,42.982091089771785,-70.9505927450425,NH,Rockingham County,2.4384480555738923,estimated from floor area,,im3,519,,,,building,7733.0,0.0,im3,False,1,low,below threshold
+Digital Fortress Lynnwood,,unknown,47.82242518543509,-122.28956096659816,WA,Snohomish County,7.865595279740743,estimated from floor area,,im3,520,,,,building,24944.0,0.0,im3,False,1,low,below threshold
+Stream DFW IV,Stream,unknown,33.000144175089304,-96.66164643777844,TX,Collin County,6.206958686915362,estimated from floor area,,im3,527,,,,building,19684.0,0.0,im3,False,1,low,below threshold
+Strata Networks,,unknown,40.45659345173178,-109.52899881097022,UT,Uintah County,4.090147385083274,estimated from floor area,,im3,549,,,,building,12971.0,0.0,im3,False,1,low,below threshold
+Genome Data Center,Washington University in St. Louis,unknown,38.63656882805553,-90.25539338967404,MO,St. Louis city,7.731579965681658,estimated from floor area,,im3,553,,,,building,24519.0,0.0,im3,False,1,low,below threshold
+365 Bridgewater NJ,,unknown,40.58147446747312,-74.57387794234592,NJ,Somerset County,8.976818730903604,estimated from floor area,,im3,554,,,,building,28468.0,0.0,im3,False,1,low,below threshold
+AngelTrax Data Center,AngelTrax Mobile Video Surveillance Solutions,unknown,31.231904196338384,-85.45584883805839,AL,Houston County,3.3853844982078507,estimated from floor area,,im3,556,,,,building,10736.0,0.0,im3,False,1,low,below threshold
+Expedient Milwaukee,,unknown,42.86317702172799,-87.97785780206577,WI,Milwaukee County,8.229801603830728,estimated from floor area,,im3,571,,,,building,26099.0,0.0,im3,False,1,low,below threshold
+Rice Data Center,,unknown,29.65814636487484,-95.44332796622496,TX,Harris County,8.036819551585644,estimated from floor area,,im3,575,,,,building,25487.0,0.0,im3,False,1,low,below threshold
+Choctaw Nation of Oklahoma Data Center,Choctaw Nation of oklahoma,unknown,33.971721452767405,-96.4028549048576,OK,Bryan County,4.25506505391363,estimated from floor area,,im3,645,,,,building,13494.0,0.0,im3,False,1,low,below threshold
+,,unknown,44.04740740013566,-121.3285496442757,OR,Deschutes County,3.5471488655309344,estimated from floor area,,im3,658,,,,building,11249.0,0.0,im3,False,1,low,below threshold
+,,unknown,40.59934510477914,-74.70962307676368,NJ,Somerset County,6.165019776868636,estimated from floor area,,im3,660,,,,building,19551.0,0.0,im3,False,1,low,below threshold
+iGLASS Networks,,unknown,35.76675058444294,-78.7839857849851,NC,Wake County,2.564895446015523,estimated from floor area,,im3,663,,,,building,8134.0,0.0,im3,False,1,low,below threshold
+Central Office,AT&T,unknown,42.83365364525283,-88.73398014165807,WI,Walworth County,2.8382866866960565,estimated from floor area,,im3,664,,,,building,9001.0,0.0,im3,False,1,low,below threshold
+,,unknown,46.33213162016486,-113.29267194552416,MT,Granite County,0.4761485275981608,estimated from floor area,,im3,665,,,,building,1510.0,0.0,im3,False,1,low,below threshold
+Vital Records,,unknown,40.52807180013584,-74.68281624993381,NJ,Somerset County,2.5043520570758893,estimated from floor area,,im3,666,,,,building,7942.0,0.0,im3,False,1,low,below threshold
+,US Signal,unknown,42.23532661902879,-83.44414059814616,MI,Wayne County,7.756806377739839,estimated from floor area,,im3,672,,,,building,24599.0,0.0,im3,False,1,low,below threshold
+,,unknown,39.55907170105136,-104.83358763919368,CO,Douglas County,8.870867800259244,estimated from floor area,,im3,681,,,,building,28132.0,0.0,im3,False,1,low,below threshold
+,,unknown,40.95126975040576,-73.89790099960555,NY,Westchester County,4.233622603664177,estimated from floor area,,im3,698,,,,building,13426.0,0.0,im3,False,1,low,below threshold
+Comcast,Comcast,unknown,42.21390200001323,-83.19821400000001,MI,Wayne County,0.30050963364307764,estimated from floor area,,im3,702,,,,building,953.0,0.0,im3,False,1,low,below threshold
+,,unknown,47.39214942683649,-120.21746237329,WA,Douglas County,4.397594282042351,estimated from floor area,,im3,706,,,,building,13946.0,0.0,im3,False,1,low,below threshold
+,,unknown,47.39179410004563,-120.21787734999982,WA,Douglas County,1.2625819235119442,estimated from floor area,,im3,707,,,,building,4004.0,0.0,im3,False,1,low,below threshold
+,,unknown,47.391756904098365,-120.2175143749647,WA,Douglas County,1.262266593361217,estimated from floor area,,im3,708,,,,building,4003.0,0.0,im3,False,1,low,below threshold
+,,unknown,47.39175897510766,-120.2169013334627,WA,Douglas County,2.429934141504256,estimated from floor area,,im3,709,,,,building,7706.0,0.0,im3,False,1,low,below threshold
+StrongMind,,unknown,33.342616247713266,-111.84097388722816,AZ,Maricopa County,6.49706242558444,estimated from floor area,,im3,723,,,,building,20604.0,0.0,im3,False,1,low,below threshold
+,Blockfusion,unknown,43.07483783638032,-78.94480168233245,NY,Niagara County,5.121592308112137,estimated from floor area,,im3,738,,,,building,16242.0,0.0,im3,False,1,low,below threshold
+Lumen,Lumen Technologies,unknown,37.062799199655686,-113.54474869182133,UT,Washington County,0.5780001662830654,estimated from floor area,,im3,739,,,,building,1833.0,0.0,im3,False,1,low,below threshold
+Myndshift Technologies,,unknown,33.47542082249551,-111.71916515034208,AZ,Maricopa County,6.709910277325339,estimated from floor area,,im3,741,,,,building,21279.0,0.0,im3,False,1,low,below threshold
+ForceAmp.com,,unknown,41.70399842447885,-91.58707810457734,IA,Johnson County,0.8542293783201441,estimated from floor area,,im3,742,,,,building,2709.0,0.0,im3,False,1,low,below threshold
+SEGRA,,unknown,35.180053426012265,-80.92635689076968,NC,Mecklenburg County,5.705583747259021,estimated from floor area,,im3,744,,,,building,18094.0,0.0,im3,False,1,low,below threshold
+Norma Beach Cable Landing Station,Unity Cable System,unknown,47.86469753279464,-122.28415777716296,WA,Snohomish County,0.747017127072876,estimated from floor area,,im3,747,,,,building,2369.0,0.0,im3,False,1,low,below threshold
+,DirecTV,unknown,32.092706483207095,-110.7874236595772,AZ,Pima County,4.532240256402891,estimated from floor area,,im3,748,,,,building,14373.0,0.0,im3,False,1,low,below threshold
+Marquette-Adams Telephone Coop,,unknown,43.78218427328896,-89.57480850448691,WI,Marquette County,2.603681054554976,estimated from floor area,,im3,763,,,,building,8257.0,0.0,im3,False,1,low,below threshold
+Turnkey Internet,,unknown,42.74544108847024,-73.75919958242348,NY,Albany County,3.2999300273607632,estimated from floor area,,im3,770,,,,building,10465.0,0.0,im3,False,1,low,below threshold
+Iron Mountain,,unknown,47.59461614024328,-117.53714762552474,WA,Spokane County,4.441425172993441,estimated from floor area,,im3,774,,,,building,14085.0,0.0,im3,False,1,low,below threshold
+amnet Data Center,,unknown,41.09183280598617,-73.51671558521066,CT,Western Connecticut Planning Region,3.3191651665551265,estimated from floor area,,im3,776,,,,building,10526.0,0.0,im3,False,1,low,below threshold
+Family History Center,The Church of Jesus Christ of Latter-day Saints,unknown,42.317295842348535,-111.3042449169628,ID,Bear Lake County,1.2868623451179433,estimated from floor area,,im3,791,,,,building,4081.0,0.0,im3,False,1,low,below threshold
+,,unknown,36.32807395055384,-83.37670351660657,TN,Grainger County,0.38848674569598285,estimated from floor area,,im3,792,,,,building,1232.0,0.0,im3,False,1,low,below threshold
+,,unknown,42.67566516635273,-87.91840525370044,WI,Racine County,2.8676123907136915,estimated from floor area,,im3,804,,,,building,9094.0,0.0,im3,False,1,low,below threshold
+Lumen Cleveland,,unknown,41.50506588325723,-81.65777529837548,OH,Cuyahoga County,9.29908614494686,estimated from floor area,,im3,805,,,,building,29490.0,0.0,im3,False,1,low,below threshold
+SU Green Data Center,Syracuse University,unknown,43.01207616834648,-76.11592528923454,NY,Onondaga County,3.837252604200012,estimated from floor area,,im3,807,,,,building,12169.0,0.0,im3,False,1,low,below threshold
+Johns Hopkins Data Center,,unknown,39.29355879768687,-76.55173790938491,MD,Baltimore city,1.2234809848217643,estimated from floor area,,im3,809,,,,building,3880.0,0.0,im3,False,1,low,below threshold
+Edgeconnex Data Center,EdgeConneX,unknown,38.59229735741739,-121.27743720748433,CA,Sacramento County,9.244849359021773,estimated from floor area,,im3,812,,,,building,29318.0,0.0,im3,False,1,low,below threshold
+Omnis Network,,unknown,33.39440984512777,-111.95249099702062,AZ,Maricopa County,5.346738035731399,estimated from floor area,,im3,814,,,,building,16956.0,0.0,im3,False,1,low,below threshold
+,,unknown,41.55808334363262,-93.52766189092016,IA,Polk County,2.2044730837342663,estimated from floor area,,im3,818,,,,building,6991.0,0.0,im3,False,1,low,below threshold
+,,unknown,41.55813064318698,-93.52815685258032,IA,Polk County,5.33538615030522,estimated from floor area,,im3,819,,,,building,16920.0,0.0,im3,False,1,low,below threshold
+,,unknown,36.08125144033206,-95.8541491705349,OK,Tulsa County,2.708370664596426,estimated from floor area,,im3,820,,,,building,8589.0,0.0,im3,False,1,low,below threshold
+E-Foam,,unknown,28.57794329871264,-81.56454528552736,FL,Orange County,2.649719256561156,estimated from floor area,,im3,825,,,,building,8403.0,0.0,im3,False,1,low,below threshold
+SimpleHelix,,unknown,34.7454310001572,-86.69188299975418,AL,Madison County,5.174883103585044,estimated from floor area,,im3,827,,,,building,16411.0,0.0,im3,False,1,low,below threshold
+CenturyLink,CenturyLink,unknown,44.93802973611572,-123.03368547875328,OR,Marion County,7.734733267188931,estimated from floor area,,im3,828,,,,building,24529.0,0.0,im3,False,1,low,below threshold
+Northwest Data Center and Communications Hub,,unknown,37.43343706484073,-122.18073854179175,CA,Santa Clara County,3.19902437912804,estimated from floor area,,im3,838,,,,building,10145.0,0.0,im3,False,1,low,below threshold
+Rackspace Somerset NYC1,,unknown,40.54452566835303,-74.53775798797324,NJ,Somerset County,5.804282084436653,estimated from floor area,,im3,863,,,,building,18407.0,0.0,im3,False,1,low,below threshold
+CenturyLink,,unknown,36.18299775012923,-115.06266954999842,NV,Clark County,3.658145078586929,estimated from floor area,,im3,873,,,,building,11601.0,0.0,im3,False,1,low,below threshold
+Searcy Information Technologies,City of Searcy,unknown,35.2492158371357,-91.7409058590938,AR,White County,1.4442120903308453,estimated from floor area,,im3,885,,,,building,4580.0,0.0,im3,False,1,low,below threshold
+,,unknown,38.926805991335975,-94.7683727731216,KS,Johnson County,1.5489017003722951,estimated from floor area,,im3,896,,,,building,4912.0,0.0,im3,False,1,low,below threshold
+,,unknown,28.29407690335012,-81.83484809231037,FL,Polk County,7.119524143120049,estimated from floor area,,im3,901,,,,building,22578.0,0.0,im3,False,1,low,below threshold
+,DirecTV,unknown,31.972674750091077,-110.3047516999998,AZ,Cochise County,2.377274006332804,estimated from floor area,,im3,907,,,,building,7539.0,0.0,im3,False,1,low,below threshold
+Flexential Salt Lake City - Millcreek,Flexential,unknown,40.68552518346084,-111.88504405838351,UT,Salt Lake County,8.858254594230154,estimated from floor area,,im3,910,,,,building,28092.0,0.0,im3,False,1,low,below threshold
+Flexential Tampa - North,Flexential,unknown,28.07385598681517,-82.3683379069368,FL,Hillsborough County,9.662661808735391,estimated from floor area,,im3,953,,,,building,30643.0,0.0,im3,False,1,low,below threshold
+Flexential Salt Lake City - Fair Park,Flexential,unknown,40.76678608763819,-111.92029244663202,UT,Salt Lake County,3.9621233438880066,estimated from floor area,,im3,969,,,,building,12565.0,0.0,im3,False,1,low,below threshold
+,,unknown,45.915709847092806,-119.26998056724548,OR,Umatilla County,4.828650598086514,estimated from floor area,,im3,979,,,,building,15313.0,0.0,im3,False,1,low,below threshold
+,,unknown,38.81056014127996,-89.94870327621621,IL,Madison County,0.0643273507483608,estimated from floor area,,im3,984,,,,building,204.0,0.0,im3,False,1,low,below threshold
+Datacenter (386),UChicago Argonne LLC,unknown,41.707134165979966,-87.97595597595401,IL,DuPage County,3.9141931609774634,estimated from floor area,,im3,993,,,,building,12413.0,0.0,im3,False,1,low,below threshold
+,,unknown,41.12539868568295,-104.9075161092094,WY,Laramie County,9.200703137919957,estimated from floor area,,im3,1014,,,,building,29178.0,0.0,im3,False,1,low,below threshold
+,,unknown,43.63833310938071,-89.72140293849328,WI,Columbia County,0.11383418441254042,estimated from floor area,,im3,1045,,,,building,361.0,0.0,im3,False,1,low,below threshold
+Lightedge Des Moines 1,,unknown,41.66765686470181,-93.45548176472272,IA,Polk County,9.48450027357449,estimated from floor area,,im3,1066,,,,building,30078.0,0.0,im3,False,1,low,below threshold
+Verizon North Las Vegas,Verizon,unknown,36.22189342504773,-115.14705545021236,NV,Clark County,7.913525462651287,estimated from floor area,,im3,1069,,,,building,25096.0,0.0,im3,False,1,low,below threshold
+Involta Independence,,unknown,41.36106237331226,-81.63280479310477,OH,Cuyahoga County,8.322508668144541,estimated from floor area,,im3,1072,,,,building,26393.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,40.04790974075581,-83.17754692245403,OH,Franklin County,4.558412658913253,estimated from floor area,,im3,1090,,,,building,14456.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.841481031506696,-119.6517767921927,OR,Morrow County,4.340519524760717,estimated from floor area,,im3,1099,,,,building,13765.0,0.0,im3,False,1,low,below threshold
+Windbreak Cable,,unknown,41.18260120002003,-104.0684982999999,WY,Laramie County,0.3512777879101663,estimated from floor area,,im3,1116,,,,building,1114.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.919515285726376,-119.22609033042734,OR,Umatilla County,5.065463541282685,estimated from floor area,,im3,1133,,,,building,16064.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.85803760730771,-119.60487161226038,OR,Morrow County,4.039694560966912,estimated from floor area,,im3,1136,,,,building,12811.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.840670297393935,-119.65130207689772,OR,Morrow County,4.390341688575624,estimated from floor area,,im3,1137,,,,building,13923.0,0.0,im3,False,1,low,below threshold
+Modesto Junior College West Data Center,Yosemite Community College District,unknown,37.66514737401328,-121.04003747175076,CA,Stanislaus County,1.897341516925916,estimated from floor area,,im3,1159,,,,building,6017.0,0.0,im3,False,1,low,below threshold
+GVTC,GVTC,unknown,29.68640301722139,-98.4626474985889,TX,Bexar County,0.14032191707363015,estimated from floor area,,im3,1160,,,,building,445.0,0.0,im3,False,1,low,below threshold
+Ark Duluth Data Center,,unknown,46.82746658999977,-92.13043071418323,MN,St. Louis County,8.564997554053804,estimated from floor area,,im3,1166,,,,building,27162.0,0.0,im3,False,1,low,below threshold
+DataBank Santa Clara SFO1,DataBank,unknown,37.40729868242747,-121.96595642250188,CA,Santa Clara County,8.444856766626717,estimated from floor area,,im3,1212,,,,building,26781.0,0.0,im3,False,1,low,below threshold
+PTC,Stayton Cooperative Telephone Company,unknown,44.77521879334287,-122.6159312375102,OR,Linn County,0.7949473099834193,estimated from floor area,,im3,1213,,,,building,2521.0,0.0,im3,False,1,low,below threshold
+CenturyLink,,unknown,39.74404823646494,-93.9973760190651,MO,Caldwell County,0.4518681059921619,estimated from floor area,,im3,1216,,,,building,1433.0,0.0,im3,False,1,low,below threshold
+Flexential Las Vegas - Downtown,Flexential,unknown,36.168643800000766,-115.14314455000994,NV,Clark County,0.1384299361692666,estimated from floor area,,im3,1225,,,,building,439.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.799686801643226,-119.35844453136586,OR,Umatilla County,4.36322329561308,estimated from floor area,,im3,1259,,,,building,13837.0,0.0,im3,False,1,low,below threshold
+Amazon Web Services,Amazon Web Services,unknown,45.79773907760564,-119.3589196247444,OR,Umatilla County,4.372683200134898,estimated from floor area,,im3,1260,,,,building,13867.0,0.0,im3,False,1,low,below threshold
+,,unknown,44.18923686731807,-105.61048019591456,WY,Campbell County,1.8840976505953715,estimated from floor area,,im3,1270,,,,building,5975.0,0.0,im3,False,1,low,below threshold
+State of Montana Data Center,State of Montana,unknown,46.40689745786043,-105.8206447445356,MT,Custer County,2.678098970126609,estimated from floor area,,im3,1271,,,,building,8493.0,0.0,im3,False,1,low,below threshold
+East Kentucky Network Datacenter,,unknown,37.60017671613885,-82.67876276810777,KY,Floyd County,4.917258370440874,estimated from floor area,,im3,1326,,,,building,15594.0,0.0,im3,False,1,low,below threshold
+,,unknown,31.194175662576733,-94.79677175730814,TX,Angelina County,4.09519266749491,estimated from floor area,,im3,1330,,,,building,12987.0,0.0,im3,False,1,low,below threshold

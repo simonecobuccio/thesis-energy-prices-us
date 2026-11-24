@@ -1,0 +1,126 @@
+state,county,pjm_zone
+DC,District of Columbia,PEPCO
+IL,Cook County,COMED
+IL,DeKalb County,COMED
+IL,DuPage County,COMED
+IL,Lake County,COMED
+KY,Floyd County,AEP
+MD,Anne Arundel County,BGE
+MD,Baltimore County,BGE
+MD,Baltimore city,BGE
+MD,Frederick County,APS
+MD,Howard County,BGE
+MD,Montgomery County,PEPCO
+MD,Prince George's County,PEPCO
+NJ,Bergen County,PSEG
+NJ,Essex County,PSEG
+NJ,Gloucester County,AECO
+NJ,Hudson County,PSEG
+NJ,Mercer County,PSEG
+NJ,Middlesex County,PSEG
+NJ,Monmouth County,JCPL
+NJ,Passaic County,PSEG
+NJ,Somerset County,JCPL
+NJ,Union County,PSEG
+OH,Butler County,DEOK
+OH,Clark County,ATSI
+OH,Cuyahoga County,ATSI
+OH,Delaware County,AEP
+OH,Erie County,ATSI
+OH,Fairfield County,AEP
+OH,Franklin County,AEP
+OH,Hamilton County,DEOK
+OH,Licking County,AEP
+OH,Mahoning County,ATSI
+OH,Summit County,ATSI
+OH,Union County,AEP
+OH,Warren County,DEOK
+OH,Wood County,ATSI
+PA,Allegheny County,DUQ
+PA,Lehigh County,PPL
+PA,Montgomery County,PECO
+PA,Philadelphia County,PECO
+VA,Culpeper County,DOM
+VA,Fairfax County,DOM
+VA,Fauquier County,DOM
+VA,Frederick County,APS
+VA,Harrisonburg city,DOM
+VA,Henrico County,DOM
+VA,Loudoun County,DOM
+VA,Lynchburg city,AEP
+VA,Manassas city,DOM
+VA,Mecklenburg County,DOM
+VA,Prince William County,DOM
+WV,Morgan County,APS
+DE,New Castle,DPL
+IL,Champaign,NON-PJM
+IL,Christian,NON-PJM
+IL,Grundy,COMED
+IL,Kane,COMED
+IL,Kendall,COMED
+IL,Logan,NON-PJM
+IL,Will,COMED
+IN,Boone,NON-PJM
+IN,Clark,NON-PJM
+IN,Lake,NON-PJM
+IN,Marion,NON-PJM
+IN,Monroe,NON-PJM
+IN,Morgan,NON-PJM
+IN,St. Joseph,AEP
+KY,Greenup,AEP
+KY,Hancock,NON-PJM
+KY,Jefferson,NON-PJM
+MD,Charles,PEPCO
+MI,Eaton,NON-PJM
+MI,Genesee,NON-PJM
+MI,Kent,NON-PJM
+MI,Oakland,NON-PJM
+MI,Washtenaw,NON-PJM
+MI,Wayne,NON-PJM
+NC,Catawba,NON-PJM
+NC,Cumberland,NON-PJM
+NC,Guilford,NON-PJM
+NC,Halifax,DOM
+NC,Iredell,NON-PJM
+NC,Lee,NON-PJM
+NC,Mecklenburg,NON-PJM
+NC,Rockingham,NON-PJM
+NC,Wake,NON-PJM
+NJ,Cumberland,AECO
+OH,Coshocton,AEP
+OH,Lucas,ATSI
+OH,Monroe,AEP
+OH,Morgan,AEP
+OH,Portage,ATSI
+OH,Shelby,DAY
+OH,Stark,AEP
+OH,Trumbull,ATSI
+OH,Washington,AEP
+PA,Beaver,ATSI
+PA,Chester,PECO
+PA,Cumberland,PPL
+PA,Indiana,PENELEC
+PA,Lackawanna,PPL
+PA,Lancaster,PPL
+PA,Luzerne,PPL
+PA,Westmoreland,APS
+TN,Davidson,NON-PJM
+TN,Montgomery,NON-PJM
+TN,Shelby,NON-PJM
+TN,Sumner,NON-PJM
+TN,Williamson,NON-PJM
+VA,Appomattox,AEP
+VA,Caroline,DOM
+VA,Chesterfield,DOM
+VA,Goochland,DOM
+VA,Hanover,DOM
+VA,King George,DOM
+VA,Louisa,DOM
+VA,Powhatan,DOM
+VA,Prince Edward,DOM
+VA,Spotsylvania,DOM
+VA,Stafford,DOM
+VA,Wise,AEP
+WV,Berkeley,APS
+WV,Mason,AEP
+WV,Mingo,AEP
